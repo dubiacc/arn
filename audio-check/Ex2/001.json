@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex2",
+    "chunk": "001",
+    "levenshtein_distance": 11,
+    "original_text": "Nach diesen Begebenheiten ging ein Mann vom Hause Levi aus und nahm ein Weib aus seinem Stamme.\nDiese empfing und gebar einen Sohn; und da sie sah, dass er sch\u00f6n war, hielt sie ihn drei Monate lang verborgen.\nAls sie ihn nun nicht l\u00e4nger verbergen konnte, nahm sie ein K\u00f6rbchen von Schilf, und verklebte es mit Harz und Pech, legte das Kind hinein, und setzte es aus im Ger\u00f6hr am Ufer des Flusses.",
+    "transcribed_text": "Nach diesen Begebenheiten ging ein Mann vom Hause Lewie aus und nahm ein Weib aus seinem Stamm diese empfingen und Gefahr einen Sohn und da sie sah dass er sch\u00f6n war hielt sie ihn drei Monate lang verborgen als sie ihn nun nicht l\u00e4nger verbergen konnte nahm sie ein K\u00f6rbchen von Schilf und verklebte es mit Herz und Pech legte das Kind hinein und setzte es aus im Groer am Ufer des Flusses"
+}

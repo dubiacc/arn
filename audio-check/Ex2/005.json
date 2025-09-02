@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex2",
+    "chunk": "005",
+    "levenshtein_distance": 1,
+    "original_text": "Zu jener Zeit, als Moses herangewachsen war, ging er zu seinen Br\u00fcdern und er sah ihr Leiden, und wie ein \u00c4gypter einen von den Hebr\u00e4ern, seinen Br\u00fcdern, schlug.\nDa sah er rings um sich, und als er sah, dass kein Mensch zugegen war, erschlug er den \u00c4gypter und verbarg ihn im Sande.",
+    "transcribed_text": "Zu jener Zeit als Moses herangewachsen war ging er zu seinen Br\u00fcdern und er sah ihr Leiden und wie ein \u00c4gypter einen von den Hebr\u00e4ern seinen Br\u00fcdern schlug da sah er rings um sich und als er sah dass kein Mensch zugegen war er schlug er den \u00c4gypter und verbarg ihn im Sande"
+}

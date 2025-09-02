@@ -1,0 +1,7 @@
+{
+    "chapter": "Spr11",
+    "chunk": "005",
+    "levenshtein_distance": 9,
+    "original_text": "Eine holdselige Frau erlangt Ehre und die M\u00e4chtigen erhalten Reichtum.\nDer erweist sich selbst Gutes, der barmherzig ist; wer aber grausam ist, st\u00f6\u00dft auch die N\u00e4chsten von sich.\nWas der B\u00f6se tut, hat keinen Bestand; wer aber Gerechtigkeit s\u00e4t, dem wird dauernde Vergeltung zuteil.\nDie G\u00fcte f\u00fchrt zum Leben, aber dem B\u00f6sen nachjagen, bringt den Tod.",
+    "transcribed_text": "Eine holzselige Frau erlangt Ehre und und die m\u00e4chtigen erhalten Reichtum der erweist sich selbst Gutes der barmherzig ist wer aber grausam ist st\u00f6\u00dft auf die n\u00e4chsten von sich was der b\u00f6se tut hat keinen Bestand wer aber Gerechtigkeit s\u00e4t dem wird dauernde Vergeltung zu Teil die G\u00fcte f\u00fchrt zum Leben aber dem b\u00f6sen nachjagen bringt dem Tod"
+}

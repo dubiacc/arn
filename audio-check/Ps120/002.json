@@ -1,0 +1,7 @@
+{
+    "chapter": "Ps120",
+    "chunk": "002",
+    "levenshtein_distance": 8,
+    "original_text": "Des Tags wird die Sonne dich nicht stechen noch der Mond des Nachts.\nDer Herr beh\u00fctet dich vor allem \u00dcbel, der Herr beh\u00fcte deine Seele!\nDer Herr beh\u00fcte deinen Eingang und deinen Ausgang von nun an bis in Ewigkeit!",
+    "transcribed_text": "Des Tags wird die Sonne dich nicht stechen nach der Mond des nachts der Herr beh\u00fcte dich vor allem \u00fcbel der Herr beh\u00fcte deine Seele der Herr beh\u00fcte deinen Eingang und deinen Ausgang von nun ein bisschen Ewigkeit"
+}

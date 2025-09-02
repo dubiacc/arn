@@ -1,0 +1,7 @@
+{
+    "chapter": "1Sam2",
+    "chunk": "001",
+    "levenshtein_distance": 5,
+    "original_text": "Es frohlockt mein Herz in dem Herrn, hoch erhoben ist mein Horn in meinem Gott; es tut sich mein Mund auf gegen meine Feinde; denn ich freue mich deines Heiles!\nNiemand ist heilig wie der Herr; denn es ist kein anderer au\u00dfer dir, und niemand ist stark wie unser Gott.",
+    "transcribed_text": "Es froh lockt mein Herz in dem Herrn hoch erhoben ist mein Horn in meinem Gott es tut sich mein Mund auf gegen meine Feinde denn ich freue mich deines heiles niemand ist heilig wie Herr denn es ist kein anderer au\u00dfer dir und niemand ist stark wie unser Gott"
+}

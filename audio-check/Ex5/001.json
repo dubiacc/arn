@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex5",
+    "chunk": "001",
+    "levenshtein_distance": 5,
+    "original_text": "Darnach gingen Moses und Aaron hin und sprachen zu Pharao: So spricht der Herr, der Gott Israels: Lass mein Volk ziehen, damit es mir in der W\u00fcste Opfer darbringe.\nEr aber antwortete: Wer ist der Herr, dass ich auf seine Stimme h\u00f6ren und Israel ziehen lassen sollte? Ich kenne den Herrn nicht und werde Israel auch nicht ziehen lassen!\nDa sprachen jene: Der Gott der Hebr\u00e4er hat uns gerufen, dass wir drei Tagereisen weit in die W\u00fcste ziehen, und dem Herrn, unserm Gott, Opfer darbringen, damit nicht Pest oder Tod durch das Schwert \u00fcber uns komme.",
+    "transcribed_text": "Danach gingen Moses und Aaron hin und sprachen zu Pharao so spricht der Herr der Gott Israels lass mein Volk ziehen damit es mir in der W\u00fcste Opfer da bringe er aber antwortete wer ist der Herr dass ich auf seine Stimme h\u00f6ren und Israel ziehen lassen sollte ich kenne den Herrn nicht und werde Israel auch nicht ziehen lassen da sprachen jene der Gott der Hebr\u00e4er hat uns gerufen dass wir drei Tage reisen weit in die W\u00fcste ziehen und dem Herrn unserem Gott Opfer da bringen damit nicht Pest oder Tod durch das Schwert \u00fcber uns komme"
+}

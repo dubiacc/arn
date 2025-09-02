@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex7",
+    "chunk": "001",
+    "levenshtein_distance": 2,
+    "original_text": "Und der Herr sprach zu Moses: Siehe, ich habe dich zu einem Gott \u00fcber Pharao gesetzt; und dein Bruder Aaron soll dein Prophet sein.\nIhm sollst du alles sagen, was ich dir gebiete; und er soll zu Pharao reden, dass er die S\u00f6hne Israels aus seinem Lande wegziehen lasse.\nIch aber werde sein Herz verh\u00e4rten und werde zahlreiche Zeichen und Wunder im Lande \u00c4gypten tun.",
+    "transcribed_text": "Und der Herr sprach zu Moses siehe ich habe dich zu einem Gott \u00fcber Pharao gesetzt und dein Bruder Aaron soll dein Prophet sein ihm sollst du alles sagen was ich dir gebiete und er soll zu Farao reden dass er die S\u00f6hne Israels aus seinem Lande wegziehen lasse ich aber werde sein Herz verh\u00e4rten und werde zahlreiche Zeichen und Wunder im Lande \u00c4gypten tun"
+}

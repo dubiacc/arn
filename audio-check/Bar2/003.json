@@ -1,0 +1,7 @@
+{
+    "chapter": "Bar2",
+    "chunk": "003",
+    "levenshtein_distance": 5,
+    "original_text": "Der Herr hat all dieses \u00dcbel, das \u00fcber uns gekommen, \u00fcber uns ausgesprochen\nund wir flehten nicht zu dem Herrn, unserm Gott, dass sich ein jeder von uns von seinen schlimmen Wegen bekehrt h\u00e4tte.\nDarum wachte der Herr \u00fcber unser Unheil und lie\u00df es \u00fcber uns kommen, denn der Herr ist gerecht in all seinem Tun, auf das hin er uns Gebote gegeben;\nund wir h\u00f6rten nicht auf seine Stimme, dass wir nach den Geboten des Herrn gewandelt w\u00e4ren, die er uns vor Augen gestellt.",
+    "transcribed_text": "Der Herr hat all dieses \u00dcbel das \u00fcber uns gekommen \u00fcber uns ausgesprochen und wir flehen nicht zu dem Herrn unserem Gott dass sich ein jeder von uns von seinen schlimmen wegen beehrt h\u00e4tte darum wachte der Herr \u00fcber unser Unheil und lie\u00df es \u00fcber uns kommen denn der Herr ist gerecht in all seinem tun auf das hin er uns Gebote gegeben und wir h\u00f6rten nicht auf seine Stimme dass wir nach den Geburten des Herrn gewandelt w\u00e4ren die er uns vor Augen gestellt"
+}

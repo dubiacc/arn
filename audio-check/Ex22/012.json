@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex22",
+    "chunk": "012",
+    "levenshtein_distance": 2,
+    "original_text": "Ihr sollt mir geheiligte M\u00e4nner sein; das Fleisch, von dem die Tiere gefressen haben, sollt ihr nicht genie\u00dfen, sondern es den Hunden vorwerfen.",
+    "transcribed_text": "Ihr sollt ihr geheiligte M\u00e4nner sein das Fleisch von dem die Tiere gefressen haben sollt ihr nicht genie\u00dfen sondern es den Hunden vorwerfen"
+}

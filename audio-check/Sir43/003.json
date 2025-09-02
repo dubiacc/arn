@@ -1,0 +1,7 @@
+{
+    "chapter": "Sir43",
+    "chunk": "003",
+    "levenshtein_distance": 6,
+    "original_text": "Der Monat ist nach seinem Namen genannt, er w\u00e4chst wunderbar, bis zur F\u00fclle.\nAls Gezelt der Heerscharen ist er in der H\u00f6he, am Himmelsgew\u00f6lbe strahlt er herrlich.\nDie Sch\u00f6nheit des Himmels ist der Gestirne Pracht, der Herr erleuchtet die Welt in der H\u00f6he.\nAuf das Wort des Heiligen stehen sie in geb\u00fchrender Ordnung und werden nicht m\u00fcde bei ihren Wachen.",
+    "transcribed_text": "Der Monat ist nach seinem Namen genannt er w\u00e4chst wunderbar bis zur F\u00fclle als gez\u00e4hlt der Herrscherin ist er in der H\u00f6he am Himmelsgew\u00f6lbe strahlt er herrlich die Sch\u00f6nheit des Himmels ist der Gestirne Pracht der Herr erleuchtet die Welt in der H\u00f6he auf das Wort des heiligen stehen sie in Geb\u00fchren der Ordnung und werden nicht m\u00fcde bei ihren Sachen"
+}

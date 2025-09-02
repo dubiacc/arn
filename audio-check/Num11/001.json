@@ -1,0 +1,7 @@
+{
+    "chapter": "Num11",
+    "chunk": "001",
+    "levenshtein_distance": 6,
+    "original_text": "Inzwischen erhob sich ein Murren des Volkes wider den Herrn, das sich \u00fcber seine Beschwerden beklagte. Als dies der Herr h\u00f6rte, ward er erz\u00fcrnt; und das Feuer des Herrn ging wider sie aus und verzehrte den \u00e4u\u00dfersten Teil des Lagers.\nDa das Volk zu Moses rief, betete Moses zu dem Herrn, und das Feuer erlosch.",
+    "transcribed_text": "Inzwischen erhob sich ein murren des Volkes wieder den Herrn dass ich \u00fcber seine Beschwerden Beklagte als dies der Herr h\u00f6rte war er erz\u00fcrnt und das Feuer des Herrn ging wieder sie aus und verzerrte den \u00e4u\u00dfersten Teil des Lagers da das Volk zu Moses rief betete Moses zu dem Herrn und das Feuer erlosch"
+}

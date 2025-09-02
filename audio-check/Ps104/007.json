@@ -1,0 +1,7 @@
+{
+    "chapter": "Ps104",
+    "chunk": "007",
+    "levenshtein_distance": 10,
+    "original_text": "Er gab ihnen Hagel als Regen, sandte verzehrendes Feuer in ihr Land.\nUnd er schlug ihre Weinberge und ihre Feigenb\u00e4ume und zerbrach die B\u00e4ume in ihrem ganzen Lande.\nEr gebot, da kamen Heuschrecken aller Art, unz\u00e4hlbar an Menge.\nDiese fra\u00dfen alles Gr\u00fcn in ihrem Lande und fra\u00dfen alle Frucht ihres Feldes.",
+    "transcribed_text": "Er gab Ihnen Hagel als Regen sandte verzehren des Feuer in Irland und er schlug ihre Weinberge und ihre Feigenb\u00e4ume und zerbrach die B\u00e4ume in ihrem ganzen Landgebot da kamen Heuschrecken aller Art und z\u00e4hlbar an Menge diese fra\u00dfen alles gr\u00fcn in ihrem Lande und fra\u00dfen alle Frucht ihres Feldes"
+}

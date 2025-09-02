@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex18",
+    "chunk": "010",
+    "levenshtein_distance": 8,
+    "original_text": "Diese sprachen dem Volke allezeit Recht; alles aber, was wichtiger war, brachten sie vor ihn, und nur minder Wichtiges entschieden sie.\nHierauf entlie\u00df er seinen Schwiegervater, der in seine Heimat zur\u00fcckkehrte.",
+    "transcribed_text": "Diese sprachen in dem Volker alle Zeit recht alles aber was wichtiger war brachten sie vor ihnen und nur minder wichtiges entschieden Sie hierauf entlie\u00df er seinen Schwiegervater der in seiner Heimat zur\u00fcckkehrte"
+}

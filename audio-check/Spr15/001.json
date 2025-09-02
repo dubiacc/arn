@@ -1,0 +1,7 @@
+{
+    "chapter": "Spr15",
+    "chunk": "001",
+    "levenshtein_distance": 8,
+    "original_text": "Eine sanfte Antwort bricht den Zorn, harte Rede erweckt Grimm.\nDie Zunge der Weisen ziert Erkenntnis, der Mund der Toren sprudelt Torheit aus.\nAn jedem Orte schauen die Augen des Herrn auf Gute und B\u00f6se.\nEine friedliebende Zunge ist ein Baum des Lebens, aber eine z\u00fcgellose schl\u00e4gt den Geist nieder.",
+    "transcribed_text": "Eine sanfte Antwort bricht den Zaun harte Rede erweckt Grimm die Zunge der Weisen ziert Erkenntnis der Mund der Toren sprudelt Torheit aus an jedem Auto schauen die Augen des Herrn auf gute und b\u00f6se eine friedliebend der Zunge ist ein Baum des Lebens aber eine z\u00fcgellose schl\u00e4gt den Geist nieder"
+}

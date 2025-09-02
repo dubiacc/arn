@@ -1,0 +1,7 @@
+{
+    "chapter": "Hld2",
+    "chunk": "001",
+    "levenshtein_distance": 3,
+    "original_text": "Ich bin eine Blume des Feldes und eine Lilie der T\u00e4ler.\nWie eine Lilie unter den Dornen, so ist meine Freundin unter den T\u00f6chtern.\nGleichwie der Apfelbaum unter den B\u00e4umen des Waldes, so ist mein Geliebter unter den S\u00f6hnen. Unter dem Schatten dessen, nach dem ich verlangte, sitze ich und seine Frucht ist meinem Gaumen s\u00fc\u00df.",
+    "transcribed_text": "Ich bin eine Blume des Feldes und eine Lilie der T\u00e4ler wie eine Lilie unter den Dornen so ist meine Freundin unter den T\u00f6chtern gleich wieder Apfelbaum unter den B\u00e4umen des Waldes so ist mein geliebter unter den S\u00f6hnen unter dem Schatten dessen nachdem ich verlangte sitze ich und seine Frucht ist meinem Gaumen s\u00fc\u00df"
+}

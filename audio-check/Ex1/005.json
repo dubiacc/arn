@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex1",
+    "chunk": "005",
+    "levenshtein_distance": 6,
+    "original_text": "Der K\u00f6nig von \u00c4gypten aber sprach zu den Hebammen der Hebr\u00e4er, von denen eine Sephora, die andere Phua hie\u00df,\nund gebot ihnen: Wenn ihr den Hebr\u00e4erinnen beisteht und die Zeit der Geburt kommt, so t\u00f6tet das Kind, wenn es ein Knabe ist; ist es aber ein M\u00e4dchen, so lasset es am Leben.",
+    "transcribed_text": "Der K\u00f6nig von \u00c4gypten aber sprach zu den Hebammen der Hebr\u00e4er von denen eine Sephora die andere fuhr hie\u00df und Gebot Ihnen wenn ihr den Hebr\u00e4errinnen beisteht und die Zeit der Geburt kommt so t\u00f6tet das Kind wenn es ein Knabe ist ist es aber ein M\u00e4dchen so lasse es am Leben"
+}

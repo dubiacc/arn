@@ -1,0 +1,7 @@
+{
+    "chapter": "1Tim2",
+    "chunk": "004",
+    "levenshtein_distance": 6,
+    "original_text": "Die Frau lerne in der Stille in aller Untert\u00e4nigkeit.\nZu lehren aber gestatte ich der Frau nicht, noch auch sich \u00fcber den Mann zu erheben, sondern sie soll sich still verhalten.\nDenn Adam wurde zuerst gebildet, darnach Eva;\nund Adam ward nicht verf\u00fchrt, das Weib aber ward verf\u00fchrt und beging so die \u00dcbertretung.",
+    "transcribed_text": "Die Frau lerne in der Stille in aller Untert\u00e4nigkeit zu leeren aber gestatte ich der Frau nicht noch auch sich \u00fcber den Mann zu erheben sondern sie soll sich still verhalten denn Adam wurde zuerst gebildet danach Eva und Adam war nicht verf\u00fchrt das Weib aber war verf\u00fchrt und ging so die \u00dcbertretung"
+}

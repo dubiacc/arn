@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex6",
+    "chunk": "004",
+    "levenshtein_distance": 9,
+    "original_text": "Moses berichtete also den S\u00f6hnen Israels alles; sie aber h\u00f6rten nicht auf ihn vor Herzensangst und wegen der so \u00fcberaus harten Arbeit.\nDa redete der Herr zu Moses und sprach:\nGehe hin und sage zu Pharao, dem K\u00f6nige von \u00c4gypten, er solle die S\u00f6hne Israels aus seinem Lande wegziehen lassen.",
+    "transcribed_text": "Moses berichtete also den S\u00f6hnen Israels alles sie aber h\u00f6rten nicht auf ihn vor Herzens langst und wegen der so \u00fcberaus harten Arbeit da redete der Herr Moses und sprach gehe hin und sage zu Faro dem K\u00f6nig von \u00c4gypten er solle die S\u00f6hne Israels aus seinem Lande wegziehen lassen"
+}

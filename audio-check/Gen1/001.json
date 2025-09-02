@@ -1,0 +1,7 @@
+{
+    "chapter": "Gen1",
+    "chunk": "001",
+    "levenshtein_distance": 5,
+    "original_text": "Im Anfange schuf Gott Himmel und Erde.\nDie Erde aber war w\u00fcste und leer, und Finsternis war \u00fcber dem Abgrund, und der Geist Gottes schwebte \u00fcber den Wassern.\nDa sprach Gott: Es werde Licht! Und es ward Licht.\nUnd Gott sah, dass das Licht gut war, und er schied das Licht von der Finsternis.",
+    "transcribed_text": "Im Anfang schuf Gott Himmel und Erde die Erde aber war W\u00fcste und leer und Finsternis war \u00fcber dem Abgrund und der Geist Gottes schwebte \u00fcber den Wasser da sprach Gott es werde Licht und es war Licht und Gott sah dass das Licht gut war und er schiebt das Licht von der Finsternis"
+}

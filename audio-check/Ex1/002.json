@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex1",
+    "chunk": "002",
+    "levenshtein_distance": 5,
+    "original_text": "Hierauf starb er, und alle seine Br\u00fcder, und jenes ganze Geschlecht.\nUnd die S\u00f6hne Israels wuchsen und mehrten sich, als sprossten sie aus der Erde hervor, und wurden \u00fcberaus zahlreich, und erf\u00fcllten das Land.\nUnterdessen stand ein neuer K\u00f6nig in \u00c4gypten auf, der von Joseph nichts wissen wollte;\nder sprach zu seinem Volke: Sehet, das Volk der S\u00f6hne Israels ist zahlreich und st\u00e4rker als wir.",
+    "transcribed_text": "Hierauf starb er und alle seine Br\u00fcder und jenes ganze Geschlecht und die S\u00f6hne Israels wuchsen und Merten sich als Sprossen Sie aus der Erde hervor und wurden \u00fcberaus zahlreich und erf\u00fcllten das Land unterdessen stand ein neuer K\u00f6nig in \u00c4gypten auf der von Josef nichts wissen wollte der sprach zu seinem Volke seht das Volk der S\u00f6hne Israels ist zahlreich und st\u00e4rker als wir"
+}

@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex15",
+    "chunk": "007",
+    "levenshtein_distance": 6,
+    "original_text": "Da nahm Maria, die Prophetin, die Schwester Aarons, die Pauke in ihre Hand, und alle Frauen folgten ihr mit Pauken und in Reigen,\nund sie sang ihnen vor und sprach: Lasset uns dem Herrn Lob singen; denn glorreich hat er sich verherrlicht, Rosse und Reiter hat er in's Meer gest\u00fcrzt.",
+    "transcribed_text": "Dana Maria die Prophetin die Schwester Aaron die Pauke in ihrer Hand und alle Frauen folgten ihr mit pauken und in Reigen und sie sang ihnen vor und sprach lasset uns dem Herrn Lob singen denn glorreich hat er sich verherrlicht Rose und Reiter hat er ins Meer gest\u00fcrzt"
+}

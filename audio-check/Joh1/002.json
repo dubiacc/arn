@@ -1,0 +1,7 @@
+{
+    "chapter": "Joh1",
+    "chunk": "002",
+    "levenshtein_distance": 2,
+    "original_text": "Es war ein Mensch von Gott gesandt, sein Name war Johannes.\nDieser kam zum Zeugnisse, damit er Zeugnis von dem Lichte g\u00e4be, auf dass alle durch ihn glaubten.\nEr war nicht das Licht, sondern er sollte Zeugnis geben von dem Lichte.\nEs war das wahre Licht, welches jeden Menschen erleuchtet, der in diese Welt kommt.",
+    "transcribed_text": "Es war ein Mensch von Gott gesandt sein Name war Johannes dieser kam zum Zeugnisse damit der Zeugnis von dem Lichte g\u00e4be auf dass alle durch ihn glaubten er war nicht das Licht sondern er sollte Zeugnis geben von dem Lichte es war das wahre Licht welches jeden Menschen erleuchtet der in dieser Welt kommt"
+}

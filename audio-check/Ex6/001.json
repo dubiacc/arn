@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex6",
+    "chunk": "001",
+    "levenshtein_distance": 7,
+    "original_text": "Und der Herr sprach zu Moses: Jetzt sollst du sehen, was ich dem Pharao tun werde; denn von starker Hand gezwungen, wird er sie ziehen lassen, und von m\u00e4chtiger Hand gen\u00f6tigt, wird er sie sogar aus seinem Lande wegtreiben.\nWeiter redete der Herr zu Moses und sprach: Ich bin der Herr,\nder dem Abraham, Isaak und Jakob als der allm\u00e4chtige Gott erschienen ist, aber meinen Namen Adonai habe ich ihnen nicht kund getan.",
+    "transcribed_text": "Und der Herr sprach zu Moses jetzt sollst du sehen was ich dem Fahrer O tun werde denn von starker Hand gezwungen wird er sie ziehen lassen und von m\u00e4chtiger Hand gen\u00f6tigt wird er sie sogar aus seinem Lande weg treiben weiter redete der Herr zu Moses und sprach ich bin der Herr der dem Abraham Isaak und Jakob als der allm\u00e4chtige Gott erschienen ist aber meinen Namen Adonai habe ich Ihnen nicht kundgetan"
+}

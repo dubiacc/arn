@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex4",
+    "chunk": "009",
+    "levenshtein_distance": 5,
+    "original_text": "Sage zu ihm: Dies spricht der Herr: Israel ist mein erstgeborner Sohn.\nHabe ich dir befohlen: Lass meinen Sohn ziehen, dass er mir diene, und du willst ihn nicht ziehen lassen, siehe, so t\u00f6te ich deinen erstgebornen Sohn.\nAls er nun auf der Reise war, trat ihm der Herr an der St\u00e4tte der Rast entgegen und wollte ihn t\u00f6ten.",
+    "transcribed_text": "Sage zu ihm dies spricht der Herr Israel ist mein Erstgeborene Sohn habe ich dir befohlen lass meinen Sohn ziehen dass er mir dienen und du willst ihn nicht ziehen lassen siehe so t\u00f6te ich deinen Erstgeborenen Sohn als er nun auf der Reise war trat ihm der Herr an der St\u00e4dte der Rast entgegen und wollte ihn t\u00f6ten"
+}

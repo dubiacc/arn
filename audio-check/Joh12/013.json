@@ -1,0 +1,7 @@
+{
+    "chapter": "Joh12",
+    "chunk": "013",
+    "levenshtein_distance": 4,
+    "original_text": "Jesus aber rief laut und sprach: Wer an mich glaubt, der glaubt nicht an mich, sondern an den, der mich gesandt hat.\nUnd wer mich sieht, der sieht den, der mich gesandt hat.\nIch bin als das Licht in die Welt gekommen, damit jeder, der an mich glaubt, nicht in der Finsternis bleibe.",
+    "transcribed_text": "Jesus aber rief laut und sprach wer an mich glaubt der glaubt nicht an mich sondern an denen der mich gesandt hat und wer mich sieht der sie den der mich gesandt hat ich bin als das Licht in die Welt gekommen damit jeder der an mich glaubt nicht in der Finsternis bleibe"
+}

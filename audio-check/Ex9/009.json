@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex9",
+    "chunk": "009",
+    "levenshtein_distance": 3,
+    "original_text": "Hagel mit Feuer gemischt kam zugleich herab, und zwar von solcher Gr\u00f6\u00dfe, wie seines Gleichen zuvor nie im ganzen Lande \u00c4gypten gesehen ward, seit jenes Volk besteht.\nUnd der Hagel schlug im ganzen Lande \u00c4gypten alles nieder, was auf dem Felde war, Menschen wie Tiere; alles, was auf dem Felde gewachsen war, schlug der Hagel nieder, und alle B\u00e4ume des Landes zerbrach er.",
+    "transcribed_text": "Hagel mit Feuer gemischt kam zugleich herab und zwar von solcher Gr\u00f6\u00dfe wie seinesgleichen zuvor nie im ganzen Lande \u00c4gypten gesehen wart seit jenes Volk besteht und der Hagel schlug im ganzen Lande \u00c4gypten alles nieder was auf dem Felde war Menschen wie Tiere alles was auf dem Felde gewachsen war schlug der Hagel nieder und alle B\u00e4ume des Landes zerbrach her"
+}

@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex6",
+    "chunk": "009",
+    "levenshtein_distance": 10,
+    "original_text": "Dies also sind Aaron und Moses, denen der Herr gebot, die S\u00f6hne Israels nach ihren Schaaren aus dem Lande \u00c4gypten herauszuf\u00fchren.\nDiese sind es, welche zu Pharao, dem K\u00f6nige von \u00c4gypten, redeten, um die S\u00f6hne Israels aus \u00c4gypten herausf\u00fchren zu d\u00fcrfen; dies sind Moses und Aaron,\nam Tage, da der Herr zu Moses redete im Lande \u00c4gypten.",
+    "transcribed_text": "Dies also sind Aaron und Moses denen der Herr Gebot die S\u00f6hne Israels nach ihren Scharen aus dem Lande \u00c4gypten heraus Souf f\u00fchren diese sind es welche zu Pharao dem K\u00f6nige von \u00c4gypten redeten um die S\u00f6hne Israels aus \u00c4gypten herausf\u00fchren zu d\u00fcrfen dies sind Moses und Aaron am Tage da der Herzog Moses redete im Lande \u00c4gypten"
+}

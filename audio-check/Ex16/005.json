@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex16",
+    "chunk": "005",
+    "levenshtein_distance": 9,
+    "original_text": "Der Herr aber redete mit Moses und sprach:\nIch habe das Murren der S\u00f6hne Israels geh\u00f6rt, sprich zu ihnen: Am Abende werdet ihr Fleisch essen, und am Morgen euch am Brot s\u00e4ttigen; und ihr sollt erkennen, dass ich der Herr, euer Gott bin.\nDa begab es sich am Abende, dass Wachteln heraufkamen und das Lager bedeckten; und am Morgen lag Tau rings um das Lager.",
+    "transcribed_text": "Der Herr aber redete mit Moses und sprach ich habe das Mohren der S\u00f6hne Israels geh\u00f6rt sprich zu Ihnen am Abende werdet ihr Fleisch essen und am Morgen euch ein Brot s\u00e4ttigen und ihr sollt erkennen dass ich der Herr euer Gott bin da begab es sich am Abende dass Wachteln herauf kamen und das Lager bedeckten und am Morgen lag Taurin um das Lager"
+}

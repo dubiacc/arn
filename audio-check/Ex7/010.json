@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex7",
+    "chunk": "010",
+    "levenshtein_distance": 8,
+    "original_text": "Und die Zauberer der \u00c4gypter taten dasselbe durch ihre Beschw\u00f6rungen; und Pharaos Herz verh\u00e4rtete sich, und er h\u00f6rte nicht auf sie, wie der Herr es vorausgesagt hatte.\nUnd er wandte sich ab, und kehrte in sein Haus zur\u00fcck, und nahm es auch diesmal nicht zu Herzen.\nDie \u00c4gypter aber gruben insgesamt in der Umgegend des Stromes nach Wasser, um es zu trinken; denn von dem Wasser des Stromes konnten sie nicht trinken.",
+    "transcribed_text": "Und die Zauberer der \u00c4gypter taten das selbe durch ihre Beschw\u00f6rungen und Fahrer aus Herz verh\u00e4rtete sich und er h\u00f6rte nicht auf sie wie der Herr es vorausgesagt hatte und er wandte sich ab und kehrte in sein Haus zur\u00fcck und nahm es auch diesmal nicht zu Herzen die \u00c4gypter aber groben insgesamt in der Umgegend des Stromes nach Wasser um es zu trinken denn von dem Wasser des Stromes konnten sie nicht trinken"
+}

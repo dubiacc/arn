@@ -1,0 +1,7 @@
+{
+    "chapter": "Sir1",
+    "chunk": "001",
+    "levenshtein_distance": 3,
+    "original_text": "Alle Weisheit kommt von dem Herrn, von Gott; bei ihm war sie allezeit und ist von Ewigkeit her.\nDen Sand des Meeres, die Tropfen des Regens und die Tage der Ewigkeit, wer hat sie gez\u00e4hlt? Wer hat die H\u00f6he des Himmels, die Breite der Erde und die Tiefe des Meeres ermessen?\nWer hat die Weisheit Gottes, die allen Dingen voranging, ergr\u00fcndet?\nVor allen Dingen ist die Weisheit erschaffen und weise Einsicht von Ewigkeit her.",
+    "transcribed_text": "Alle Weisheit kommt von dem Herrn von Gott bei ihm war sie alle Zeit und ist von Ewigkeit her den Sand des Meeres die Tropfen des Regens und die Tage der Ewigkeit wer hat sie gez\u00e4hlt wer hat die H\u00f6he des Himmels die Breite der Erde und die Tiefe des meeres ermessen wer hat die Weisheit Gottes die allen Dingen voranging gegr\u00fcndet Vor allen Dingen ist die Weisheit erschaffen und Weise Einsicht von Ewigkeit her"
+}

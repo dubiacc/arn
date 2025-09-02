@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex15",
+    "chunk": "003",
+    "levenshtein_distance": 9,
+    "original_text": "In der F\u00fclle deiner Herrlichkeit st\u00fcrztest du deine Widersacher; du entsandtest deinen Grimm, der sie verzehrte wie Stoppeln.\nDurch den Hauch deines Grimmes t\u00fcrmten sich auf die Gew\u00e4sser; es stand die fl\u00fcssige Welle aufrecht, es t\u00fcrmten sich die Fluten mitten im Meere.\nEs sprach der Feind: Ich will nachsetzen und sie ergreifen, will Beute austeilen und des Herzens Begier erf\u00fcllen, ich will mein Schwert ziehen, sie t\u00f6ten mit meiner Hand.",
+    "transcribed_text": "In der F\u00fclle deiner Herrlichkeit st\u00fcrzt es du deine Widersacher du entsandte deinen Grimm der sie verzerrte wie Stoppeln durch den Hauch deines Grimes st\u00fcrmten sich auf die Gew\u00e4sser es stand die fl\u00fcssige Welle aufrecht es st\u00fcrmten sich die Fluten mitten im Meere es sprach der Feind ich will nachsitzen und sie ergreifen will Beute austeilen und des Herzens Begier erf\u00fcllen ich will mein Schwert ziehen sie t\u00f6ten mit meiner Hand"
+}

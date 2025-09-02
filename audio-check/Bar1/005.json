@@ -1,0 +1,7 @@
+{
+    "chapter": "Bar1",
+    "chunk": "005",
+    "levenshtein_distance": 10,
+    "original_text": "Wir haben ges\u00fcndigt vor dem Herrn, unserm Gott, und haben nicht geglaubt und nicht auf ihn vertraut\nund wir sind ihm nicht untert\u00e4nig gewesen und haben nicht auf die Stimme des Herrn, unseres Gottes, geh\u00f6rt, dass wir nach seinen Geboten gewandelt w\u00e4ren, welche er uns gegeben.\nVon dem Tage an, da er unsere V\u00e4ter aus dem Lande \u00c4gypten f\u00fchrte, bis auf diesen Tag waren wir ungelehrig gegen den Herrn, unsern Gott, und s\u00e4umig und hielten uns fern, um seine Stimme nicht zu h\u00f6ren.",
+    "transcribed_text": "Wir haben ges\u00fcndigt vor dem Herrn unserem Gott und haben nicht geglaubt und nicht auf ihn vertraut und wir sind ihm nicht untert\u00e4gig gewesen und haben nicht auf die Stimme des Herrn unseres Gottes geh\u00f6rt dass wir nach seinen Geburten gewandelt w\u00e4ren welche er uns gegeben von dem Tage an da er unsere V\u00e4ter aus dem Lande \u00c4gypten f\u00fchrte bis auf diesen Tag waren wir ungerecht gegen den Herrn unseren Gott und s\u00e4umig und hielten uns fern um seine Stimme nicht zu h\u00f6ren"
+}

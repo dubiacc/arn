@@ -1,0 +1,7 @@
+{
+    "chapter": "Ez1",
+    "chunk": "009",
+    "levenshtein_distance": 10,
+    "original_text": "\u00dcber den H\u00e4uptern der Wesen war ein Gebilde wie das Firmament, das wie furchtgebietender Kristall aussah und \u00fcber ihren H\u00e4uptern ausgebreitet war.\nUnter dem Firmamente aber waren ihre Fl\u00fcgel ausgebreitet, von einem gegen den anderen, und ein jedes Wesen verh\u00fcllte mit zwei Fl\u00fcgeln seinen Leib und das andere verh\u00fcllte sich ebenso.",
+    "transcribed_text": "\u00dcber den Holster der Wesen war ein Gebilde wie das Firmament das wie Furchtgebieten der Kristall aussah und \u00fcber ihren Haltern ausgeweitet war unter dem Firma Mente aber waren ihre Fl\u00fcgel ausgebreitet von einem gegen den anderen und ein jedes Wesen verh\u00fcllte mit zwei Fl\u00fcgeln seinen Leib und das andere verh\u00fcllte sich ebenso"
+}

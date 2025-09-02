@@ -1,0 +1,7 @@
+{
+    "chapter": "Joh11",
+    "chunk": "001",
+    "levenshtein_distance": 4,
+    "original_text": "Es war aber ein Kranker mit Namen Lazarus, von Bethania, dem Flecken der Maria, und Martha, ihrer Schwester.\n(Maria war diejenige, die den Herrn mit Balsam gesalbt, und seine F\u00fc\u00dfe mit ihren Haaren getrocknet hatte, deren Bruder Lazarus krank lag.)\nDa schickten seine Schwestern zu ihm, und lie\u00dfen ihm sagen: Herr! siehe, der, den du lieb hast, ist krank.",
+    "transcribed_text": "Es war aber ein kranker mit Namen Lazarus von Bethania dem Flecken der Maria und Martha ihrer Schwester Maria war diejenige die den Herrn mit Balsam ges\u00e4gt und seine F\u00fc\u00dfe mit ihren Haaren getrocknet hatte deren Bruder Lazarus krank lag das schickten seine Schwestern zu ihm und lie\u00dfen ihm sagen Herr Siehe der den du lieb hast ist krank"
+}

@@ -1,0 +1,7 @@
+{
+    "chapter": "Ps101",
+    "chunk": "002",
+    "levenshtein_distance": 9,
+    "original_text": "Ich bin versengt wie Gras und mein Herz ist verdorrt, denn ich vergesse, mein Brot zu essen.\nOb meines lauten Seufzens klebt mein Gebein an meinem Fleische.\nIch gleiche dem Pelikan in der W\u00fcste, ich bin wie eine Eule in \u00f6der Behausung.\nIch bin schlaflos und wie ein einsamer Sperling auf dem Dache.",
+    "transcribed_text": "Ich bin versenkt wie Gras und mein Herz ist verdorrt denn ich vergesse mein Brot zu essen Ob meines lauten seufzten klebt mein Bein an meinem Fleischer ich Gleich den Pelikan in der W\u00fcste ich bin wie eine Eule in \u00f6der Behausung ich bin schlaflos und wie ein einsamer Sperling auf dem Dach"
+}

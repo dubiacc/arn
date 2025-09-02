@@ -1,0 +1,7 @@
+{
+    "chapter": "Sach1",
+    "chunk": "001",
+    "levenshtein_distance": 24,
+    "original_text": "Im achten Monat im zweiten Jahre des K\u00f6nigs Darius erging das Wort des Herrn an Zacharias, den Sohn Barachias', des Sohnes Addos, den Propheten, also:\nVon gewaltigem Zorne ist der Herr entbrannt \u00fcber eure V\u00e4ter.\nDoch sprich zu ihnen: So spricht der Herr der Heerscharen: Kehret um zu mir, spricht der Herr der Heerscharen, so werde ich mich zu euch kehren, spricht der Herr der Heerscharen.",
+    "transcribed_text": "Dem achten Monat im zweiten Jahre des K\u00f6nigs Darius erging das Wort des Herrn an Zacharias den Sohn Barakas des Sohnes Aos den Propheten also von gewaltig Z\u00f6rner ist der Herr entbrannt \u00fcber eure V\u00e4ter durch sprich zu Ihnen so spricht der Herr der Herrscherin kehrt um zu mir spricht der Herr der Herr Schar so werde ich mich zu euch kehren spricht der Herr der Herrscherin"
+}

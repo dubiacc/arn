@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex8",
+    "chunk": "003",
+    "levenshtein_distance": 5,
+    "original_text": "Aber auch die Zauberer taten desgleichen mittels ihrer Beschw\u00f6rungen, und lie\u00dfen Fr\u00f6sche \u00fcber das ganze Land \u00c4gypten kommen.\nDa lie\u00df Pharao den Moses und Aaron rufen und sprach zu ihnen: Bittet den Herrn, dass er die Fr\u00f6sche von mir und von meinem Volke hinwegnehme, dann werde ich das Volk ziehen lassen, damit es dem Herrn Opfer bringe.",
+    "transcribed_text": "Aber auch die Zauberer Taten des gleichen mittels ihrer Beschw\u00f6rungen und lie\u00dfen Fr\u00f6sche \u00fcber das ganze Land \u00c4gypten kommen da lie\u00df Pharao den Moses und Aaron rufen und sprach zu Ihnen bitte den Herrn dass er die Fr\u00f6sche von mir und von meinem Volk hin wegnehme dann werde ich das Volk ziehen lassen damit es dem Herrn Opfer bringen"
+}

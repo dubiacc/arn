@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex2",
+    "chunk": "009",
+    "levenshtein_distance": 2,
+    "original_text": "Nach langer Zeit aber starb der K\u00f6nig von \u00c4gypten, und die S\u00f6hne Israels seufzten \u00fcber die schwere Arbeit und schrieen laut; und ihr Geschrei stieg zu Gott auf von ihrer Arbeit.\nUnd er h\u00f6rte ihr Seufzen und gedachte an den Bund, welchen er mit Abraham, Isaak und Jakob geschlossen.\nUnd der Herr schaute auf die S\u00f6hne Israels und erkannte sie.",
+    "transcribed_text": "Nach langer Zeit aber starb der K\u00f6nig von \u00c4gypten und die S\u00f6hne Israels seufzten \u00fcber die schwere Arbeit und schien laut und ihr Geschrei stieg zu Gott auf von ihrer Arbeit und er h\u00f6rte ihr seufzen und gedachte an den Bund welchen er mit Abraham Isaak und Jakob geschlossen und der Herr schaute auf die S\u00f6hne Israels und erkannte sie"
+}

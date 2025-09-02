@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex20",
+    "chunk": "006",
+    "levenshtein_distance": 5,
+    "original_text": "Als das ganze Volk die Donnerschl\u00e4ge und die Blitze, den Schall der Posaunen, und den rauchenden Berg gewahrte, ward es von Schrecken und Entsetzen ergriffen, und blieb in der Ferne stehen,\nund sprach zu Moses: Sprich du mit uns, und wir werden h\u00f6ren; der Herr aber rede nicht mit uns, wir m\u00f6chten sonst sterben.",
+    "transcribed_text": "Als das ganze Volk die Donnerschl\u00e4ge und die Blitze den Schall der Posaunen und den rauchenden Berg gewartet war es von Schrecken und Entsetzen ergriffen und blieb in der Ferne stehen und sprach zu Moses sprichst du mit uns und wir werden h\u00f6ren der Herr aber rede nicht mit uns wir m\u00f6chten sonst sterben"
+}

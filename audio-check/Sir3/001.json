@@ -1,0 +1,7 @@
+{
+    "chapter": "Sir3",
+    "chunk": "001",
+    "levenshtein_distance": 3,
+    "original_text": "S\u00f6hne der Weisheit sind die Gemeinde der Gerechten und ihr Geschlecht ist Gehorsam und Liebe.\nKinder, h\u00f6ret auf den Ausspruch eures Vaters und handelt so, dass es euch wohl gehe.\nDenn Gott hat dem Vater bei den Kindern Ehre verliehen und das Recht der Mutter bestimmt und f\u00fcr die Kinder festgesetzt.",
+    "transcribed_text": "S\u00f6hne der Weisheit sind die Gemeinde der gerechten und ihr Geschlecht ist Gehorsam und Liebe Kinder h\u00f6r auf den Ausspruch eures Vaters und handelt so dass es euch wohl geht denn Gott hat dem Vater bei den Kindern Ehre verliehen und das Recht der Mutter bestimmt und f\u00fcr die Kinder festgesetzt"
+}

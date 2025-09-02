@@ -1,0 +1,7 @@
+{
+    "chapter": "Koh1",
+    "chunk": "002",
+    "levenshtein_distance": 3,
+    "original_text": "Die Sonne geht auf und geht unter und kehrt an ihren Ort zur\u00fcck, von wo sie wiederum aufgeht,\nnach dem S\u00fcden geht und nach Norden sich wendet. Alles ringsum umkreisend bewegt sich der Wind fort und kehrt wieder zu seinem Kreislaufe zur\u00fcck.\nAlle Str\u00f6me flie\u00dfen in das Meer und das Meer l\u00e4uft nicht \u00fcber; an den Ort, woher die Fl\u00fcsse kommen, kehren sie zur\u00fcck, um wieder zu flie\u00dfen.",
+    "transcribed_text": "Die Sonne geht auf und geht unter und kehrt an ihren Ort zur\u00fcck von wo sie wiederum aufgeht nach dem S\u00fcden geht und nach Norden sich wendet alles rings um umkreisen bewegt sich der Wind fort und kehrt wieder zu seinem Kreislauf zur\u00fcck alle Str\u00f6me flie\u00dfen in das Meer und das Meer l\u00e4uft nicht \u00fcber an den Ort woher die Fl\u00fcsse kommen kehren Sie zur\u00fcck um wieder zu flie\u00dfen"
+}

@@ -1,0 +1,7 @@
+{
+    "chapter": "Joh10",
+    "chunk": "001",
+    "levenshtein_distance": 3,
+    "original_text": "Wahrlich, wahrlich, ich sage euch, wer nicht durch die T\u00fcr in den Schafstall eingeht, sondern anderswo einsteigt, der ist ein Dieb und ein R\u00e4uber!\nWer aber durch die T\u00fcr eingeht, der ist ein Hirt der Schafe.\nDiesem macht der T\u00fcrh\u00fcter auf, und die Schafe h\u00f6ren seine Stimme; und er ruft die eigenen Schafe mit Namen, und f\u00fchrt sie heraus.",
+    "transcribed_text": "Wahrlich wahrlich ich sage euch wer nicht durch die T\u00fcr in den Schafstall eingeht sondern anderswo einsteigt der ist ein Dieb und ein R\u00e4uber wer aber durch die T\u00fcr eingeht der ist ein Hirt der Schafe diesen macht der Tierh\u00fcter auf und die Schafe h\u00f6ren seine Stimme und er ruft die eigenen Schafe mit Namen und f\u00fchrt sie heraus"
+}

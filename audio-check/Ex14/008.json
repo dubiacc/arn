@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex14",
+    "chunk": "008",
+    "levenshtein_distance": 5,
+    "original_text": "Als nun Moses seine Hand \u00fcber das Meer ausstreckte, lie\u00df es der Herr durch einen starken, hei\u00dfen Wind, der die ganze Nacht hindurch wehte, hinwegtreiben und legte es trocken; und das Wasser teilte sich.\nDa gingen die S\u00f6hne Israels mitten durch das trockengelegte Meer; denn das Wasser stand wie eine Mauer zu ihrer Rechten und zur Linken.",
+    "transcribed_text": "Als nun Moses seine Hand \u00fcber das Meer ausgestreckte lie\u00df es der Herr durch einen starken hei\u00dfen Wind der die ganze Nacht hindurch weht hinweg treiben und legte es trocken und das Wasser teilte sich da gingen die S\u00f6hne Israels mitten durch das trocken gelegte Meer denn das Wasser stand wie eine Mauer zu ihrer rechten und zur linken"
+}

@@ -1,0 +1,7 @@
+{
+    "chapter": "Sir50",
+    "chunk": "001",
+    "levenshtein_distance": 10,
+    "original_text": "Simon, der Sohn des Onias, der Hohepriester, st\u00fctzte bei seinen Lebzeiten das Haus des Herrn und festigte in seinen Tagen den Tempel.\nDurch ihn ward der Grund zum Hochbau des Tempels gelegt, der Doppelbau und die hohe Ummauerung des Tempels.\nIn seinen Tagen flossen die Wasserbrunnen \u00fcber und f\u00fcllten sich \u00fcbervoll gleich dem Meere.",
+    "transcribed_text": "Simon der Sohn des Onions der hohe Priester st\u00fctzte bei seinen Lebzeiten das Haus des Herrn und festigte in seinen Tagen den Tempel durch ihn war der Grund zum Hochbau des Tempels gelegt der Doppelbau und die hohe Umarmung des Tempels In seinen Tagen flossen die Wasserbrunnen \u00fcber und f\u00fchlten sich \u00fcber voll gleich dem Meere"
+}

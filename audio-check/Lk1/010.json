@@ -1,0 +1,7 @@
+{
+    "chapter": "Lk1",
+    "chunk": "010",
+    "levenshtein_distance": 3,
+    "original_text": "Siehe, du wirst empfangen im Scho\u00dfe, und einen Sohn geb\u00e4ren, und du sollst seinen Namen Jesus hei\u00dfen.\nDieser wird gro\u00df sein, und der Sohn des Allerh\u00f6chsten genannt werden; Gott, der Herr, wird ihm den Thron seines Vaters David geben, und er wird herrschen \u00fcber das Haus Jakob in Ewigkeit,\nund seines Reiches wird kein Ende sein.",
+    "transcribed_text": "Sie du wirst empfangen im Scho\u00df und einen Sohn geb\u00e4ren und du sollst seinen Namen Jesus hei\u00dfen dieser wird gro\u00df sein und der Sohn des allerh\u00f6chsten genannt werden Gott der Herr wird ihm den Thron seines Vaters David geben und er wird herrschen \u00fcber das Haus Jakob in Ewigkeit und seines Reiches wird kein Ende sein"
+}

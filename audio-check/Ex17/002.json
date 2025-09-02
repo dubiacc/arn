@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex17",
+    "chunk": "002",
+    "levenshtein_distance": 10,
+    "original_text": "Der Herr sprach zu Moses: Gehe dem Volke voraus, und nimm einige von den \u00c4ltesten Israels mit dir, und nimm den Stab, mit dem du in den Fluss geschlagen hast, in deine Hand, und so gehe.\nSiehe, ich will daselbst vor dir auf dem Felsen Horeb stehen; schlage an den Felsen, so wird Wasser herausflie\u00dfen, dass das Volk trinke. Da tat Moses so, vor den Augen der \u00c4ltesten Israels.",
+    "transcribed_text": "Der Herr sprach zu Moses gehe dem Volke voraus und nimm einige von den \u00e4ltesten Israels mit dir und nimm den Stab mit dem du in den Fluss geschlagen hast in deiner Hand und so gehe sie ich will da selbst vor dir auf dem Felsen hoch stehen schlage an den Felsen so wird Wasser heraus flie\u00dfen dass das Volk trinke das hat Moses so vor den Augen der \u00e4ltesten Israels"
+}

@@ -1,0 +1,7 @@
+{
+    "chapter": "Joh12",
+    "chunk": "005",
+    "levenshtein_distance": 3,
+    "original_text": "Dies verstanden seine J\u00fcnger vorerst nicht; als aber Jesus verherrlicht worden war, da erinnerten sie sich daran, dass dies von ihm geschrieben war, und sie dies an ihm bet\u00e4tigt hatten.\nDas Volk aber, welches bei ihm war, als er den Lazarus aus dem Grabe rief, und von den Toten auferweckte, legte Zeugnis ab.",
+    "transcribed_text": "Dies verstanden seine J\u00fcnger vorerst nicht als aber Jesus verherrlicht worden war da erinnerte sie sich daran dass dies von ihm geschrieben war und sie dies an ihm bet\u00e4tigt hatten das Volk aber welches bei ihm war als er den Lazarus aus dem Grab rief und von den Toten auf erweckte legte Zeugnis ab"
+}

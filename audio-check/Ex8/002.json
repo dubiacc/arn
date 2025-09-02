@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex8",
+    "chunk": "002",
+    "levenshtein_distance": 7,
+    "original_text": "Und der Herr sprach zu Moses: Sprich zu Aaron: Strecke deine Hand aus \u00fcber die Fl\u00fcsse und \u00fcber die B\u00e4che und die Teiche, und lass Fr\u00f6sche \u00fcber das Land \u00c4gypten herauskommen.\nDa streckte Aaron seine Hand \u00fcber die Gew\u00e4sser \u00c4gyptens aus, und es kamen Fr\u00f6sche hervor und bedeckten das ganze Land \u00c4gypten.",
+    "transcribed_text": "Und der Herr sprach zu Moses sprich zu aaronstrecke deine Hand aus \u00fcber die Fl\u00fcsse und \u00fcber die Becher und die Teiche und Lassfr\u00f6sche \u00fcber das Land \u00c4gypten herauskommen da streckt der Aaron seine Hand \u00fcber die Gew\u00e4sser \u00c4gyptens aus und es kamen Fr\u00f6sche hervor und bedeckten das ganze Land \u00c4gypten"
+}

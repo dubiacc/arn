@@ -1,0 +1,7 @@
+{
+    "chapter": "Sir1",
+    "chunk": "007",
+    "levenshtein_distance": 3,
+    "original_text": "Der Weisheit Wurzel ist es, den Herrn zu f\u00fcrchten und ihre Zweige sind langes Leben.\nIn den Schatzkammern der Weisheit ist Erkenntnis und gottselige Wissenschaft, aber den S\u00fcndern ist die Weisheit ein Greuel.\nDie Furcht des Herrn verscheucht die S\u00fcnde,\ndenn wer keine Furcht hat, kann nicht gerechtfertigt werden; sein Zornmut st\u00fcrzt ihn ins Verderben.",
+    "transcribed_text": "Der Weisheit Wurzel ist es den Herrn zu f\u00fcrchten und ihre Zweige sind langes Leben in den Schatzkammern der Weisheit ist Erkenntnis und gott selige Wissenschaft aber den S\u00fcndern ist die Weisheit ein Gr\u00e4uel die Furcht des Herrn verscheucht die S\u00fcnde denn wer keine Furcht hat kann nicht gerechtfertigt werden sein Zorn Mut st\u00fcrzt ihn ins verderben"
+}

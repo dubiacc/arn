@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex9",
+    "chunk": "008",
+    "levenshtein_distance": 8,
+    "original_text": "Da sprach der Herr zu Moses: Strecke deine Hand zum Himmel empor, dass Hagel falle im ganzen Lande \u00c4gypten auf die Menschen und auf die Tiere, und auf alles, was im Lande \u00c4gypten auf dem Felde gewachsen ist.\nDa streckte Moses seinen Stab zum Himmel empor, und der Herr lie\u00df Donner und Hagel entstehen, und Blitze zur Erde niederfahren; und der Herr lie\u00df Hagel auf das Land \u00c4gypten fallen.",
+    "transcribed_text": "Da sprach der Herz mosesstrecke deiner Hand zum Himmel empor das Hagelfalle im ganzen Lande \u00c4gypten auf die Menschen und auf die Tiere und auf alles was im Lande \u00c4gypten auf dem Felde gewachsen ist da streckte Moses seinen Stab zum Himmel empor und der Herr lie\u00df Donner und Hagel entstehen und Blitze zur Erde nieder fahren und der Herr lie\u00df Hagel auf das Land \u00c4gypten fallen"
+}

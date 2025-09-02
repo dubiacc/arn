@@ -1,0 +1,7 @@
+{
+    "chapter": "Hag1",
+    "chunk": "002",
+    "levenshtein_distance": 20,
+    "original_text": "So spricht der Herr der Heerscharen: Richtet euern Sinn auf eure Wege!\nSteiget auf das Gebirge, holet Holz herbei und bauet das Haus, dass ich daran Wohlgefallen habe und mich herrlich erweise, spricht der Herr.\nIhr blicktet nach \u00dcberfluss aus und sehet, es ward Mangel; ihr brachtet ins Haus und ich blies es weg. Warum dies, spricht der Herr der Heerscharen? Weil mein Haus w\u00fcste liegt, w\u00e4hrend ihr euch beeilt ein jeder um sein eigenes Haus.",
+    "transcribed_text": "So spricht der Herr der Herrscherin richtet euren Sinn auf eure Wege steigert auf das Gebirge Holholz herbei und baut das Haus dass ich daran wohl gefallen habe und mich herrlich erweise spricht der Herr ihr blickt nach \u00dcberfluss aus und seht es war Mangel ihr brachtet ins Haus und ich lie\u00df es weg warum dies spricht der Herr der Herrscherin Weil mein Haus W\u00fcste liegt w\u00e4hrend ihr euch beeilt ein jeder um sein eigenes Haus"
+}

@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex1",
+    "chunk": "006",
+    "levenshtein_distance": 9,
+    "original_text": "Die Hebammen aber f\u00fcrchteten Gott und taten nicht nach dem Befehle des K\u00f6nigs von \u00c4gypten, sondern lie\u00dfen auch die Knaben am Leben.\nDa lie\u00df der K\u00f6nig sie zu sich rufen und sprach: Was habt ihr getan, dass ihr die Knaben am Leben gelassen habt?\nSie antworteten: Die Hebr\u00e4erinnen sind nicht wie die \u00e4gyptischen Frauen, denn sie verstehen sich auf die Geburtshilfe und geb\u00e4ren, ehe wir zu ihnen kommen.",
+    "transcribed_text": "Die Hebammen aber f\u00fcrchteten Gott und Taten nicht nach den Befehle des K\u00f6nigs von \u00c4gypten sondern diesen auch die Knaben am Leben da lie\u00df der K\u00f6nig sie zu sich rufen und sprach was habt ihr getan dass ihr die Knaben am Leben gelassen habt sie beantworten die Hebr\u00e4er Sinnen sind nicht wie die \u00e4gyptischen Frauen denn sie verstehen sich auf die Geburtshilfe und geb\u00e4ren ehe wir zu Ihnen kommen"
+}

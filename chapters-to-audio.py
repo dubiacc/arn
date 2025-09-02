@@ -18,7 +18,7 @@ INPUT_FOLDER = "chapters"
 # Destination folder for the output .wav files.
 OUTPUT_FOLDER = "wav"
 # Style instructions for the TTS model.
-STYLE_PROMPT = "Lies mit warmer und freundlicher Stimme vor, aber etwas schneller als gewöhnlich - keine Einführung, sprich alle Namen mit deutscher Betonung aus: "
+STYLE_PROMPT = "Lies mit warmer und freundlicher Stimme vor, aber etwas schneller als gewöhnlich - keine Einführung, sprich alle Namen mit deutscher Betonung aus, d.h. Adam -> Ah-dam, Seth - eher wie schet, KEIN englisches th: "
 # Voice and Model selection.
 VOICE_NAME = "Charon"
 MODEL_NAME = "models/gemini-2.5-flash-live-preview"

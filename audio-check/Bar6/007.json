@@ -1,0 +1,7 @@
+{
+    "chapter": "Bar6",
+    "chunk": "007",
+    "levenshtein_distance": 24,
+    "original_text": "Sie z\u00fcnden vor ihnen Lichter an und zwar viele, w\u00e4hrend jene doch davon keines zu sehen verm\u00f6gen; vermodern sie doch wie das Geb\u00e4lk im Hause.\nIhr Inneres, sagt man, zernagt das Gew\u00fcrm, das aus der Erde kriecht, und sie gewahren es nicht, da es sie und ihre Gew\u00e4nder zerfrisst.\nIhr Angesicht wird schwarz vom Rauche, der im Hause entsteht.",
+    "transcribed_text": "Sie z\u00fcnden vor ihnen Lichter an und zwar viele w\u00e4hrend jene doch davon keines zu sehen Verm\u00f6gen f\u00fcr modern sie doch wie das Geb\u00e4ck im Hause Inneres sagt man Zern das Gew\u00fcrm das aus der Erde kriegt und sie bewahren es nicht da sie und ihre Gew\u00e4nder zer ihr Angesicht wird schwarz vom Rauch der im Hause entsteht"
+}

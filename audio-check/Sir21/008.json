@@ -1,0 +1,7 @@
+{
+    "chapter": "Sir21",
+    "chunk": "008",
+    "levenshtein_distance": 5,
+    "original_text": "Der Fu\u00df des Toren geht schnell in des N\u00e4chsten Haus, der erfahrene Mann aber hat Ehrfurcht vor der Stellung des M\u00e4chtigen.\nDer Unverst\u00e4ndige sieht durch das Fenster ins Haus, aber der wohlgesittete Mann bleibt drau\u00dfen stehen.\nEs ist Torheit von einem Menschen, an der T\u00fcr zu lauschen, und der Kluge w\u00fcrde sich mit Schmach beladen.",
+    "transcribed_text": "Der Fu\u00df des Toren geht schnell in das n\u00e4chsten Haus der erfahrene Mann aber hat eher Furcht vor der Stellung des m\u00e4chtigen der unverst\u00e4ndige sieht durch das Fenster ins Haus aber der Wohl gesitteter Mann bleibt drau\u00dfen stehen es ist Torheit von einem Menschen an der T\u00fcr zu lauschen und der kluge w\u00fcrde sich mit Schmach beladen"
+}

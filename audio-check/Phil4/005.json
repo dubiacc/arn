@@ -1,0 +1,7 @@
+{
+    "chapter": "Phil4",
+    "chunk": "005",
+    "levenshtein_distance": 3,
+    "original_text": "Ich wei\u00df mich in k\u00fcmmerliche Lage zu finden, ich wei\u00df auch in \u00dcberfluss mich zu schicken (ich bin in allen Lagen und in allen Verh\u00e4ltnissen ge\u00fcbt), satt zu werden wie zu hungern, \u00dcberfluss zu haben, wie Mangel zu leiden.\nAlles vermag ich in dem, der mich stark macht.\nGleichwohl habt ihr wohl daran getan, dass ihr an meiner Bedr\u00e4ngnis Teil nahmet.",
+    "transcribed_text": "Ich wei\u00df mich in k\u00fcmmerliche Lage zu finden ich wei\u00df auch in \u00dcberfluss mich zu schicken ich bin in allen Lagen und in allen Verh\u00e4ltnissen ge\u00fcbt satt zu werden die zu hungern \u00dcberfluss zu haben wie Mangel zu leiden alles vermag ich in dem der mich stark macht gleichwohl habt ihr wohl daran getan dass ihr an meiner Bedr\u00e4ngnis Teilnahme"
+}

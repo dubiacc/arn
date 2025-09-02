@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex1",
+    "chunk": "004",
+    "levenshtein_distance": 6,
+    "original_text": "Aber je mehr jene sie bedr\u00fcckten, desto mehr nahmen sie zu und wuchsen.\nUnd die \u00c4gypter hassten die S\u00f6hne Israel, und qu\u00e4lten sie, und h\u00f6hnten sie,\nund verbitterten ihnen das Leben durch harte Arbeit in Lehm und Ziegeln, und durch allerlei Frondienste, mit denen sie dieselben auf dem Felde belasteten.",
+    "transcribed_text": "Aber je mehr jene sie bedr\u00fcckte desto mehr nahmen sie zu und wuchsen und die \u00c4gypter hasten die S\u00f6hne Israel und qu\u00e4lten sie und h\u00f6rten sie und verbitterten Ihnen das Leben durch harte Arbeit in Lehm und Ziegeln und durch allerlei Frohndienste mit denen sie die selben auf dem Felde belasteten"
+}

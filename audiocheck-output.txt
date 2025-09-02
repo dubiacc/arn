@@ -1,0 +1,60 @@
+python3 ./audiocheck.py
+Scanning for audio files to process...
+Found 11687 new audio chunks to process.
+Warning: 'hear' failed for wav/1Koen12/001.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/1Kor5/003.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/1Sam11/005.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/2Koen22/006.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/2Makk14/008.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/2Sam18/009.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Apg24/006.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Dtn9/010.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Esra8/001.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Ex29/011.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Ez26/005.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Gen1/007.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Gen35/008.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Ijob16/005.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Ijob3/004.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Ijob36/006.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Ijob38/002.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Jdt10/001.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Jer2/008.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Jer2/009.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Jes47/006.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Jes50/002.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Jes59/007.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Jes6/002.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Jes66/007.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Joh13/001.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Lev14/006.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Lev27/003.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Lk9/005.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Mk12/005.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1107 "(null)"
+Warning: 'hear' failed for wav/Mk8/001.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Num19/003.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Num19/008.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Num9/004.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Offb3/007.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Ps129/002.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Ps85/002.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: No matching text file for wav/Reg1/001.wav. Skipping.                                   
+Warning: No matching text file for wav/Reg1/002.wav. Skipping.                                   
+Warning: No matching text file for wav/Reg2/001.wav. Skipping.                                   
+Warning: No matching text file for wav/Reg2/002.wav. Skipping.                                   
+Warning: No matching text file for wav/Reg2/003.wav. Skipping.                                   
+Warning: No matching text file for wav/Reg2/004.wav. Skipping.                                   
+Warning: No matching text file for wav/Reg2/005.wav. Skipping.                                   
+Warning: No matching text file for wav/Reg3/001.wav. Skipping.                                   
+Warning: No matching text file for wav/Reg4/001.wav. Skipping.                                   
+Warning: 'hear' failed for wav/Ri5/002.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Sach10/003.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Sir34/006.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Sir45/004.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Sir6/010.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Spr27/007.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Tit3/003.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Weish14/009.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: 'hear' failed for wav/Weish17/001.wav. Stderr: Error Domain=kAFAssistantErrorDomain Code=1110 "No speech detected" UserInfo={NSLocalizedDescription=No speech detected}
+Warning: No matching text file for wav/out/001.wav. Skipping.                                    
+Processing Chunks: 100%|█████████████████████████████████| 11687/11687 [2:26:12<00:00,  1.33it/s]

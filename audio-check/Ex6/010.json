@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex6",
+    "chunk": "010",
+    "levenshtein_distance": 16,
+    "original_text": "Und der Herr sprach zu Moses also: Ich bin der Herr. Rede zu Pharao, dem K\u00f6nige von \u00c4gypten, alles, was ich zu dir sage.\nUnd Moses sprach vor dem Herrn: Siehe, meine Lippen sind unbeschnitten, wie wird Pharao auf mich h\u00f6ren?",
+    "transcribed_text": "Und der Herr sprach zu Moses also ich bin der Herr rede zu Pharao den K\u00f6nige von \u00c4gypten alles was ich zu dir sage und Moses sprach vor dem Herrn siehe meine Lippen sind Unbeschnittenen auf mich h\u00f6ren"
+}

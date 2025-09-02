@@ -1,0 +1,7 @@
+{
+    "chapter": "Tit1",
+    "chunk": "004",
+    "levenshtein_distance": 3,
+    "original_text": "Dieses Zeugnis ist wahr. Deswegen weise sie scharf zurecht, damit sie gesund seien im Glauben.\nund nicht j\u00fcdischen Fabeln Geh\u00f6r schenken und Geboten von Menschen, die sich von der Wahrheit abwenden.\nAlles ist den Reinen rein; den Befleckten und Ungl\u00e4ubigen aber ist nichts rein, sondern befleckt ist ihr Sinn und ihr Gewissen.",
+    "transcribed_text": "Dieses Zeugnis ist wahr deswegen weise sie scharf zurecht damit sie gesund sein im Glauben und nicht j\u00fcdischen Fabeln Geh\u00f6r schenken und geboten von Menschen die sich von der Wahrheit abwenden alles ist den reinen Rhein den gefleckten und ungl\u00e4ubigen aber ist nichts rein sondern befleckt ist ihr Sinn und ihr Gewissen"
+}

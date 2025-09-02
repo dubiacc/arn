@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex15",
+    "chunk": "002",
+    "levenshtein_distance": 20,
+    "original_text": "Der Herr ist wie ein Kriegsheld, Allm\u00e4chtiger ist sein Name.\nDie Wagen Pharaos und sein Heer hat er in das Meer gest\u00fcrzt, seine auserlesenen F\u00fcrsten sind versunken im roten Meere.\nAbgr\u00fcnde bedeckten sie, sie sanken in die Tiefe wie ein Stein.\nDeine Rechte, o Herr, ward verherrlicht in Macht; deine Rechte, o Herr, schlug den Feind.",
+    "transcribed_text": "Der Herr ist wie ein Kriegsfeld allm\u00e4chtiger ist sein Name die Wagenfahrer aus und sein her hat er in das Meer gest\u00fcrzt seine auslesen F\u00fcrsten sind versunken im roten Meere Abgr\u00fcnde bedeckten sie sie sank in die Tiefe wie ein Stein deine Rechte oh war verherrlicht in Macht deine rechte oh Herr schlug den Feind"
+}

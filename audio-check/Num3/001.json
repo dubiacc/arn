@@ -1,0 +1,7 @@
+{
+    "chapter": "Num3",
+    "chunk": "001",
+    "levenshtein_distance": 12,
+    "original_text": "Dies sind die Nachkommen Aarons und Moses, zur Zeit, da der Herr zu Moses auf dem Berge Sinai redete.\nUnd dies sind die Namen der S\u00f6hne Aarons: sein Erstgeborner Nadab, dann Abiu, Eleazar, und Ithamar.\nDies sind die Namen der S\u00f6hne Aarons, der Priester, die gesalbt, und deren H\u00e4nde gef\u00fcllt und geweiht wurden, dass sie das Priestertum verwalteten.",
+    "transcribed_text": "Wie sind die Nachkommen Aarons und Moses zur Zeit da der Herr zu Moses auf dem Bergesina redete und dies sind die Namen der S\u00f6hne Aarons sein Erstgeborenen Nada dann Abou Eliza und Itamar dies sind die Namen der S\u00f6hne Aarons der Priester die gesalbt und deren H\u00e4nde gef\u00fcllt und geweiht wurden dass sie das Priestertum verwalteten"
+}

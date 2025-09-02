@@ -1,0 +1,7 @@
+{
+    "chapter": "Ps98",
+    "chunk": "001",
+    "levenshtein_distance": 10,
+    "original_text": "Ein Psalm Davids. Der Herr ist K\u00f6nig, es m\u00f6gen die V\u00f6lker grollen; der auf den Cherubim thront, es bebe die Erde!\nDer Herr ist gro\u00df auf Sion und erhaben \u00fcber alle V\u00f6lker.\nSie sollen deinen gro\u00dfen Namen preisen, denn er ist furchtbar und heilig\nund die Ehre des K\u00f6nigs liebt das Recht. Gerade Wege hast du gebahnt, Recht und Gerechtigkeit hast du an Jakob ge\u00fcbt.",
+    "transcribed_text": "Ein Psalm David der Herr ist K\u00f6nig es m\u00f6gen die V\u00f6lker grellen der auf den Cherubin thront es Bebe die Erde der Herr ist gro\u00df auf Sion und er haben \u00fcber alle V\u00f6lker sie sollen deinen gro\u00dfen Namen preisen der Nest furchtbar und heilig und die Ehre des K\u00f6nigs liebt das Recht gerade Wege hast du gebahnt Recht und Gerechtigkeit hast du an Jakob ge\u00fcbt"
+}

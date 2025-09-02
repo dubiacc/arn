@@ -1,0 +1,7 @@
+{
+    "chapter": "Sach11",
+    "chunk": "001",
+    "levenshtein_distance": 15,
+    "original_text": "\u00d6ffne, Libanon! deine Pforten und Feuer verzehre deine Zedern!\nWehklage, Tanne, denn die Zeder ist gefallen, die Herrlichsten sind ausgerottet; wehklaget, ihr Eichen Basans! denn die hohe Waldburg wird umgehauen.\nHorch! Wehklage der Hirten, denn verw\u00fcstet liegt ihre Herrlichkeit; horch! Gebr\u00fcll der L\u00f6wen, denn verw\u00fcstet ist die Pracht des Jordans.",
+    "transcribed_text": "\u00d6ffne Libanon deine Pforten und Feuer verzehre deine Zedern wehklage denn die Zeder ist gefallen die herrlichsten sind ausgerottet wehklage ihr Eichen Basan denn die hohe Waldburg wird umgehauen Wehklage der Hirten denn verw\u00fcstet liegt ihre Herrlichkeit Horchgebr\u00fcll der L\u00f6wen denn verw\u00fcstet ist die Pracht des Jordans"
+}

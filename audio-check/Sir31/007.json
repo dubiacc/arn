@@ -1,0 +1,7 @@
+{
+    "chapter": "Sir31",
+    "chunk": "007",
+    "levenshtein_distance": 2,
+    "original_text": "Eines gesunden Schlafes genie\u00dft der M\u00e4\u00dfige, er schl\u00e4ft bis zum Morgen und seine Seele labt sich in ihm.\nWenn du mit Speise \u00fcberlastet bist, so stehe mitten w\u00e4hrend des Essens auf und brich es aus; das wird dich erleichtern und du wirst deinem K\u00f6rper keine Krankheit zuziehen.\nH\u00f6re auf mich, mein Sohn! und missachte mich nicht, in der Folge wirst du meine Worte wahr finden.",
+    "transcribed_text": "Eines gesunden Schlafes genie\u00dft der m\u00e4\u00dfige er schl\u00e4ft bis zum Morgen und seine Seele lebt sich in ihm wenn du mit Speise \u00fcberlastet bist so stehe mitten w\u00e4hrend des Essens auf und brich es aus das wird dich erleichtern und du wirst deinem K\u00f6rper keine Krankheit zu ziehen h\u00f6re auf mich mein Sohn und missachte mich nicht in der Folge wirst du meine Worte wahr finden"
+}

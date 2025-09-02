@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex1",
+    "chunk": "001",
+    "levenshtein_distance": 28,
+    "original_text": "Dies sind die Namen der S\u00f6hne Israels, die mit Jakob in \u00c4gypten einzogen; ein jeder zog mit seiner Familie ein:\nRuben, Simeon, Levi, Judas,\nIssachar, Zabulon, Benjamin,\nDan, Nephthali, Gad, Aser.\nUnd es waren alle die Seelen, die hervorgingen aus den Lenden Jakobs, zusammen siebzig; Joseph aber war in \u00c4gypten.",
+    "transcribed_text": "Dies sind die Namen der S\u00f6hne Israels die mit Jakob in \u00c4gypten ein zogen ein jeder zog mit seiner Familie ein Ruben Simeon Levi Judas Issa Sablon Benjamin Dan Neal God Arthur und es waren alle die Seelen die hervor gingen aus den Lenden Jacobs zusammen 70 Josef aber war in \u00c4gypten"
+}

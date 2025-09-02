@@ -1,0 +1,7 @@
+{
+    "chapter": "Ps22",
+    "chunk": "002",
+    "levenshtein_distance": 10,
+    "original_text": "Du deckst vor meinem Angesichte einen Tisch im Angesichte meiner Bedr\u00e4nger, salbst mein Haupt mit \u00d6l, und mein \u00fcberstr\u00f6mender Becher, wie herrlich ist er!\nDeine Gnade geleitet mich alle Tage meines Lebens und ich darf wohnen im Hause des Herrn immerdar.",
+    "transcribed_text": "Du deckst von meinem Angesicht einen Tisch im Angesicht in meiner bedr\u00e4nge selbst mein Haupt mit \u00d6l und mein \u00fcber str\u00f6mender Becher wie herrlich ist er deine Gnade geleitet mich alle Tage meines Lebens und ich darf wohnen im Hause des Herrn immer da"
+}

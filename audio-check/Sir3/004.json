@@ -1,0 +1,7 @@
+{
+    "chapter": "Sir3",
+    "chunk": "004",
+    "levenshtein_distance": 1,
+    "original_text": "Des Vaters Segen festigt die H\u00e4user der Kinder, der Fluch der Mutter aber zerst\u00f6rt sie von Grund aus.\nErfreue dich nicht \u00fcber die Schmach deines Vaters, denn seine Schande bringt dir keine Ehre,\nweil eines Menschen Ruhm auf der Ehre seines Vaters beruht und ein ehrloser Vater dem Sohne eine Schande ist.",
+    "transcribed_text": "Des Vaters Segen festigt die H\u00e4user der Kinder der Fluch der Mutter aber zerst\u00f6rt sie von Grund aus erfreue dich nicht \u00fcber die Schmach deines Vaters denn seine Schande bringt dir keine Ehre weil eines Menschen Ruhm auf der Ehre seines Vaters beruht und ein ehrloser Vater dem Sohn eine Schande ist"
+}

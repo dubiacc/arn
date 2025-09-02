@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex3",
+    "chunk": "002",
+    "levenshtein_distance": 5,
+    "original_text": "Und Moses sprach: Ich will doch hingehen und dieses gro\u00dfe Gesicht schauen, warum der Dornbusch nicht verbrennt!\nAls aber der Herr sah, dass er hinging, um zu schauen, rief er ihm aus dem Dornbusche zu und sprach: Moses, Moses! Er antwortete: Hier bin ich!\nDer Herr aber sprach: Tritt nicht n\u00e4her heran! Ziehe deine Schuhe von deinen F\u00fc\u00dfen, denn der Ort, auf dem du stehst, ist geheiligter Boden.",
+    "transcribed_text": "Und Moses sprach ich will doch hingehen und dieses gro\u00dfe Gesicht schauen warum der Dornbusch nicht verbrennt als aber der Herr sah dass er hinging um zu schauen rief er ihm aus dem Don Budge zu und sprach Moses Moses er antwortete hier bin ich der Herr aber sprach tritt nicht n\u00e4her heran Ziehe deine Schuhe von deinen F\u00fc\u00dfen denn der Ort auf dem du stehst ist geheiligter Boden"
+}

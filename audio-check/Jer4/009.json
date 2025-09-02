@@ -1,0 +1,7 @@
+{
+    "chapter": "Jer4",
+    "chunk": "009",
+    "levenshtein_distance": 4,
+    "original_text": "Ich schaute die Erde an und siehe, sie war w\u00fcste und \u00f6de; ich schaute zum Himmel hinauf, es war kein Licht an ihm.\nIch blickte auf die Berge und siehe, sie erbebten und alle H\u00fcgel wurden ersch\u00fcttert.\nIch schaute aus, kein Mensch war da und alle V\u00f6gel des Himmels waren davongeflogen.",
+    "transcribed_text": "Ich schaute die Erde an und sie sie war W\u00fcste und \u00f6de ich schaute zum Himmel hinauf es war kein Licht an ihm ich blickte auf die Berge und siehe sie erlebten und alle H\u00fcgel wurden ersch\u00fcttert ich schaute aus kein Mensch war da und alle V\u00f6gel des Himmels waren davon geflogen"
+}

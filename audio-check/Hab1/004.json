@@ -1,0 +1,7 @@
+{
+    "chapter": "Hab1",
+    "chunk": "004",
+    "levenshtein_distance": 7,
+    "original_text": "\u00dcber K\u00f6nige feiert es Triumph, F\u00fcrsten sind ihm zum Gesp\u00f6tt, jeder Feste lacht es, es sch\u00fcttet einen Wall auf und erobert sie.\nDann aber erneuert sich seine K\u00fchnheit, es zieht hin und kommt zu Falle und dies ist seine St\u00e4rke, die es von seinem Gott hat.\nBist du nicht, o Herr, von Anfang mein Gott gewesen, mein Heiliger? Und werden wir nicht sterben? Herr! zu richten hast du ihn gesetzt, verordnet den Starken, ihn bestellt zu strafen.",
+    "transcribed_text": "\u00dcber K\u00f6nige feiert es Triumph F\u00fcrsten sind ihm zum Gesperrt jeder feste lacht es es sch\u00fcttet einen Ball auf und erobert sie dann aber erneuert sich seine K\u00fchnheit es zieht hin und kommt zu Falle und dies ist seine st\u00e4rke die es von seinem Gott hat bist du nicht vorher von Anfang mein Gott gewesen mein heiliger und werden wir nicht sterben Herr zu richten hast du ihn gesetzt verordnet den starken ihn bestellt zu strafen"
+}

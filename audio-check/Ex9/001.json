@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex9",
+    "chunk": "001",
+    "levenshtein_distance": 10,
+    "original_text": "Der Herr aber befahl Moses: Gehe hin zu Pharao und sage zu ihm: So spricht der Herr, der Gott der Hebr\u00e4er: Lass mein Volk ziehen, damit es mir Opfer bringe!\nWenn du dich aber noch weigerst und sie zur\u00fcckh\u00e4ltst,\nsiehe, so soll meine Hand \u00fcber deine \u00c4cker kommen und deine Pferde und Esel, und Kamele, und Rinder und Schafe, eine sehr schwere Pest befallen.",
+    "transcribed_text": "Der Herr aber befahren Moses gehe zu Pharao und sage zu ihm so spricht der Herr der Gott der Hebr\u00e4er lass mein Volk ziehen damit es mir Opfer bringen wenn du dich aber noch weigerst und sie zur\u00fcckh\u00e4ltst siehe so soll meine Hand \u00fcber deine Ecke kommen und deine Pferde und Esel und Kamele und Rinder und Schafe eine sehr schwere Pest befallen"
+}

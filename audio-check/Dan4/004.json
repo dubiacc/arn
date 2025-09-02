@@ -1,0 +1,7 @@
+{
+    "chapter": "Dan4",
+    "chunk": "004",
+    "levenshtein_distance": 4,
+    "original_text": "Der Baum war gro\u00df und stark, seine H\u00f6he reichte bis zum Himmel empor und er war sichtbar bis an die Grenzen der ganzen Erde.\nSein Laubwerk war sehr sch\u00f6n und seine Fr\u00fcchte \u00fcberaus zahlreich, er gab allen Nahrung, unter ihm wohnten zahme und wilde Tiere, in seinen Zweigen weilten die V\u00f6gel des Himmels und alle lebenden Wesen n\u00e4hrten sich von ihm.",
+    "transcribed_text": "Der Baum war gro\u00df und stark seine H\u00f6he reichte bis zum Himmel empor und er war sichtbar bis an die Grenzen der ganzen Erde sein Laubwerk war sehr sch\u00f6n und seine Fr\u00fcchte \u00fcberaus zahlreich er gab alle Nahrung unter ihm wohnten zahme und wilde Tiere in seinen Zweigen walten die V\u00f6gel des Himmels und alle lebenden Wesen n\u00e4hren sich von ihm"
+}

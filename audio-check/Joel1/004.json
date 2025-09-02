@@ -1,0 +1,7 @@
+{
+    "chapter": "Joel1",
+    "chunk": "004",
+    "levenshtein_distance": 20,
+    "original_text": "Best\u00fcrzt sind die Ackerleute, die Winzer wehklagen um Korn und Gerste, denn dahin ist die Ernte des Feldes.\nVerdorrt ist der Weinstock und der Feigenbaum saftlos, Granate, Palme und Apfelbaum, alle B\u00e4ume des Feldes sind d\u00fcrr geworden, denn dahin ist die Freude der Menschenkinder.\nLeget Trauergew\u00e4nder an und wehklaget, ihr Priester! jammert, ihr Diener des Altares! kommet und haltet Wache im Trauergewande, ihr Diener meines Gottes! denn dem Hause eures Gottes ist Speise- und Trankopfer genommen.",
+    "transcribed_text": "Gest\u00fcrzt sind die Ackerle die Winzerweg klagen um Korn und Gerste denn dahin ist die Ernte des Feldes verdaut ist der Weinstock und der Feigenbaum Saft los Granate Palme und Apfelbaum alle B\u00e4ume des Feldes sind d\u00fcrr geworden denn dahin ist die Freude der Menschenkinder lege Trauer Gew\u00e4nder an und wehklage ihr Priester jammert ihr Diener des Altar Komm mit und haltet Wache im Trauergewand ihr Diener meines Gottes denn dem Hause eures Gottes ist Speise und Trankopfer genommen"
+}

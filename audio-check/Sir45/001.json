@@ -1,0 +1,7 @@
+{
+    "chapter": "Sir45",
+    "chunk": "001",
+    "levenshtein_distance": 10,
+    "original_text": "Moses war von Gott und Menschen geliebt, sein Ged\u00e4chtnis ist im Segen.\nIhn hat Gott den Heiligen gleich verherrlicht, ihn erh\u00f6ht zum Schrecken der Feinde und auf sein Wort lie\u00df Er die Wunderzeichen aufh\u00f6ren.\nEr verherrlichte ihn vor der K\u00f6nige Angesicht, gab ihm Befehle an sein Volk und lie\u00df ihn Seine Herrlichkeit sehen.",
+    "transcribed_text": "Moses war von Gott und Menschen geliebt sein Ged\u00e4chtnis ist dem Segen ihn hat Gott den heiligen gleich verherrlicht ihn erh\u00f6ht zum Schrecken der Feinde und auf sein Wort lie\u00df er die Wunder Gangzeichen aufh\u00f6ren er verherrlichende ihn vor der K\u00f6nige Angesicht gab ihm Befehle an sein Volk und lie\u00df ihn seine Herrlichkeit sehen"
+}

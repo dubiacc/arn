@@ -1,0 +1,7 @@
+{
+    "chapter": "Lk1",
+    "chunk": "002",
+    "levenshtein_distance": 7,
+    "original_text": "Es war in den Tagen Herodes, des K\u00f6nigs von Jud\u00e4a, ein Priester, mit Namen Zacharias, aus der Reihe Abias; sein Weib war von den T\u00f6chtern Aarons, und hie\u00df Elisabeth.\nBeide waren gerecht vor Gott, und wandelten in allen Geboten und Satzungen des Herrn tadellos,\nund sie hatten kein Kind, denn Elisabeth war unfruchtbar, und beide waren vorger\u00fcckt an Tagen.",
+    "transcribed_text": "Es war in den Tagen Herr Rhodes des K\u00f6nigs von Jude ein Priester mit namens Zacharias aus der Reihe Arias sein Weib war von den T\u00f6chtern Aarons und hie\u00df Elisabeth beide waren gerecht vor Gott und wandelten in allen Geboten und Satzungen des Herrn tadellos und sie hatten kein Kind denn Elisabeth war unfruchtbar und beide waren vorger\u00fcckt an Tagen"
+}

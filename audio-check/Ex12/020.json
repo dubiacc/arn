@@ -1,0 +1,7 @@
+{
+    "chapter": "Ex12",
+    "chunk": "020",
+    "levenshtein_distance": 6,
+    "original_text": "Ein und dasselbe Gesetz soll f\u00fcr den Eingebornen und den Ansiedler gelten, der sich unter euch aufh\u00e4lt.\nDa taten alle S\u00f6hne Israels, wie der Herr dem Moses und Aaron geboten hatte.\nUnd an demselben Tage f\u00fchrte der Herr die S\u00f6hne Israels scharenweise aus dem Lande \u00c4gypten hinweg.",
+    "transcribed_text": "Ein und das selbe Gesetz soll f\u00fcr den Eingeborenen und den Einsiedler gelten der sich unter euch aufh\u00e4lt da taten alle S\u00f6hne Israels wieder Herr dem Moses und Aaron geboten hatte und an dem selben Tage f\u00fchrte der Herr die S\u00f6hne Israels scharenweise aus dem Lande \u00c4gypten hinweg"
+}
