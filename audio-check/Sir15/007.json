@@ -1,7 +1,7 @@
 {
     "chapter": "Sir15",
     "chunk": "007",
-    "levenshtein_distance": 1,
+    "levenshtein_distance": 999,
     "original_text": "Er gebietet niemanden, gottlos zu handeln, und gibt niemanden Erlaubnis zu s\u00fcndigen,\ndenn er verlangt nicht nach vielen Kindern, wenn diese untreu und unn\u00fctz sind.",
     "transcribed_text": "Der gebietet niemanden gottlos zu handeln und gibt niemanden Erlaubnis zu s\u00fcndigen denn er verlangt nicht nach vielen Kindern wenn diese untreu und unn\u00fctz sind"
 }

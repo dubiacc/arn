@@ -1,7 +1,7 @@
 {
     "chapter": "Ex37",
     "chunk": "010",
-    "levenshtein_distance": 10,
+    "levenshtein_distance": 999,
     "original_text": "Die Stangen selbst machte er aus Akazienholz, und \u00fcberzog sie mit Goldblech.\nSodann bereitete er das \u00d6l zur Einweihungssalbe, und das R\u00e4ucherwerk aus ganz reinen Spezereien, wie der Salbenbereiter es bereitet.",
     "transcribed_text": "Gerne die Stangen selbst machte er aus Akazienholz und \u00fcber zog sie mit Goldblech sodann bereitete er das \u00d6l zur Einweihung salbe und das R\u00e4ucherwerk aus ganz reinen Spielereien wie der salbenbereiter es bereitet"
 }

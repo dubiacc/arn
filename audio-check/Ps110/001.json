@@ -1,7 +1,7 @@
 {
     "chapter": "Ps110",
     "chunk": "001",
-    "levenshtein_distance": 9,
+    "levenshtein_distance": 999,
     "original_text": "Alleluja! Ich will dich preisen, Herr! aus ganzem Herzen, im Rate der Gerechten und der Gemeinde.\nGro\u00df sind die Werke des Herrn, auserw\u00e4hlt nach seinem ganzen Liebeswillen.\nLobw\u00fcrdig und herrlich ist sein Tun und seine Gerechtigkeit w\u00e4hrt in Ewigkeit.\nEr hat ein Ged\u00e4chtnis seiner Wunder gestiftet, gn\u00e4dig und barmherzig ist der Herr.",
     "transcribed_text": "Halleluja ich will dich Preisen her aus ganzem Herzen im Rate der gerechten und der Gemeinde gro\u00df sind die Werke des Herrn auserw\u00e4hlt nach seinem ganzen Liebes willen Lob w\u00fcrdig und herrlich ist sein tun und seine Gerechtigkeit wird in Ewigkeit er hat ein Ged\u00e4chtnis seiner Wunder gestiftet gn\u00e4dig und beim herzig ist der Herr"
 }

@@ -1,0 +1,790 @@
+[
+    {
+        "chunk_id": "Offb14/002",
+        "normalized_error_rate": 0.10101010101010101
+    },
+    {
+        "chunk_id": "Offb12/002",
+        "normalized_error_rate": 0.10121457489878542
+    },
+    {
+        "chunk_id": "Roem16/003",
+        "normalized_error_rate": 0.1015625
+    },
+    {
+        "chunk_id": "Phlm1/006",
+        "normalized_error_rate": 0.10285714285714286
+    },
+    {
+        "chunk_id": "Lk3/001",
+        "normalized_error_rate": 0.10335195530726257
+    },
+    {
+        "chunk_id": "Offb21/007",
+        "normalized_error_rate": 0.10471204188481675
+    },
+    {
+        "chunk_id": "Mt1/001",
+        "normalized_error_rate": 0.10666666666666667
+    },
+    {
+        "chunk_id": "Lk23/016",
+        "normalized_error_rate": 0.10891089108910891
+    },
+    {
+        "chunk_id": "Offb14/001",
+        "normalized_error_rate": 0.11197916666666667
+    },
+    {
+        "chunk_id": "Offb4/002",
+        "normalized_error_rate": 0.11395348837209303
+    },
+    {
+        "chunk_id": "Lk3/007",
+        "normalized_error_rate": 0.11858006042296072
+    },
+    {
+        "chunk_id": "Mt1/002",
+        "normalized_error_rate": 0.1254125412541254
+    },
+    {
+        "chunk_id": "Lk3/008",
+        "normalized_error_rate": 0.13043478260869565
+    },
+    {
+        "chunk_id": "Mk8/003",
+        "normalized_error_rate": 0.13069908814589665
+    },
+    {
+        "chunk_id": "Apg13/006",
+        "normalized_error_rate": 0.13221153846153846
+    },
+    {
+        "chunk_id": "1Kor14/010",
+        "normalized_error_rate": 0.13317191283292978
+    },
+    {
+        "chunk_id": "Eph5/008",
+        "normalized_error_rate": 0.13851351351351351
+    },
+    {
+        "chunk_id": "Offb7/002",
+        "normalized_error_rate": 0.15076660988074958
+    },
+    {
+        "chunk_id": "Joh19/007",
+        "normalized_error_rate": 0.15120274914089346
+    },
+    {
+        "chunk_id": "Apg19/012",
+        "normalized_error_rate": 0.17792792792792791
+    },
+    {
+        "chunk_id": "Hebr13/008",
+        "normalized_error_rate": 0.18181818181818182
+    },
+    {
+        "chunk_id": "Offb13/008",
+        "normalized_error_rate": 0.1830065359477124
+    },
+    {
+        "chunk_id": "Mt1/004",
+        "normalized_error_rate": 0.19293478260869565
+    },
+    {
+        "chunk_id": "Offb14/008",
+        "normalized_error_rate": 0.1956521739130435
+    },
+    {
+        "chunk_id": "Mt22/011",
+        "normalized_error_rate": 0.20382165605095542
+    },
+    {
+        "chunk_id": "Mt1/003",
+        "normalized_error_rate": 0.22437673130193905
+    },
+    {
+        "chunk_id": "Phil2/002",
+        "normalized_error_rate": 0.28610354223433243
+    },
+    {
+        "chunk_id": "Mk3/005",
+        "normalized_error_rate": 0.5807365439093485
+    },
+    {
+        "chunk_id": "Offb1/006",
+        "normalized_error_rate": 0.6105263157894737
+    },
+    {
+        "chunk_id": "Roem5/006",
+        "normalized_error_rate": 0.6404199475065617
+    },
+    {
+        "chunk_id": "Mk12/009",
+        "normalized_error_rate": 0.6416382252559727
+    },
+    {
+        "chunk_id": "1Joh5/002",
+        "normalized_error_rate": 0.6417525773195877
+    },
+    {
+        "chunk_id": "Roem5/005",
+        "normalized_error_rate": 0.6426799007444168
+    },
+    {
+        "chunk_id": "Joh18/005",
+        "normalized_error_rate": 0.6455696202531646
+    },
+    {
+        "chunk_id": "Joh18/003",
+        "normalized_error_rate": 0.6474576271186441
+    },
+    {
+        "chunk_id": "Joh18/004",
+        "normalized_error_rate": 0.6522911051212938
+    },
+    {
+        "chunk_id": "Joh18/002",
+        "normalized_error_rate": 0.6552901023890785
+    },
+    {
+        "chunk_id": "Lk5/003",
+        "normalized_error_rate": 0.6606498194945848
+    },
+    {
+        "chunk_id": "Joh4/005",
+        "normalized_error_rate": 0.6642685851318945
+    },
+    {
+        "chunk_id": "Mk12/012",
+        "normalized_error_rate": 0.6666666666666666
+    },
+    {
+        "chunk_id": "Roem5/007",
+        "normalized_error_rate": 0.6686217008797654
+    },
+    {
+        "chunk_id": "Joh18/007",
+        "normalized_error_rate": 0.6692913385826772
+    },
+    {
+        "chunk_id": "Apg13/005",
+        "normalized_error_rate": 0.6694214876033058
+    },
+    {
+        "chunk_id": "Mk12/007",
+        "normalized_error_rate": 0.6751592356687898
+    },
+    {
+        "chunk_id": "Roem5/001",
+        "normalized_error_rate": 0.676271186440678
+    },
+    {
+        "chunk_id": "Joh18/008",
+        "normalized_error_rate": 0.6763848396501457
+    },
+    {
+        "chunk_id": "Joh18/010",
+        "normalized_error_rate": 0.6801007556675063
+    },
+    {
+        "chunk_id": "Joh18/013",
+        "normalized_error_rate": 0.6810344827586207
+    },
+    {
+        "chunk_id": "Roem5/004",
+        "normalized_error_rate": 0.6813559322033899
+    },
+    {
+        "chunk_id": "Mk12/008",
+        "normalized_error_rate": 0.6821705426356589
+    },
+    {
+        "chunk_id": "Mk3/008",
+        "normalized_error_rate": 0.6836363636363636
+    },
+    {
+        "chunk_id": "Joh4/002",
+        "normalized_error_rate": 0.6850715746421268
+    },
+    {
+        "chunk_id": "Joh4/003",
+        "normalized_error_rate": 0.6853448275862069
+    },
+    {
+        "chunk_id": "Joh2/006",
+        "normalized_error_rate": 0.6873315363881402
+    },
+    {
+        "chunk_id": "Joh18/009",
+        "normalized_error_rate": 0.6876712328767123
+    },
+    {
+        "chunk_id": "Mk12/013",
+        "normalized_error_rate": 0.6882022471910112
+    },
+    {
+        "chunk_id": "Mt27/006",
+        "normalized_error_rate": 0.6883408071748879
+    },
+    {
+        "chunk_id": "Joh18/011",
+        "normalized_error_rate": 0.6892950391644909
+    },
+    {
+        "chunk_id": "1Kor1/007",
+        "normalized_error_rate": 0.6915167095115681
+    },
+    {
+        "chunk_id": "Joh18/001",
+        "normalized_error_rate": 0.6917098445595855
+    },
+    {
+        "chunk_id": "Mk12/004",
+        "normalized_error_rate": 0.6921397379912664
+    },
+    {
+        "chunk_id": "Lk5/001",
+        "normalized_error_rate": 0.6923076923076923
+    },
+    {
+        "chunk_id": "Mk12/006",
+        "normalized_error_rate": 0.6926713947990544
+    },
+    {
+        "chunk_id": "Mk12/002",
+        "normalized_error_rate": 0.693069306930693
+    },
+    {
+        "chunk_id": "Mk3/001",
+        "normalized_error_rate": 0.6941747572815534
+    },
+    {
+        "chunk_id": "Mk12/010",
+        "normalized_error_rate": 0.6945701357466063
+    },
+    {
+        "chunk_id": "1Joh5/001",
+        "normalized_error_rate": 0.6957831325301205
+    },
+    {
+        "chunk_id": "Lk5/002",
+        "normalized_error_rate": 0.6957831325301205
+    },
+    {
+        "chunk_id": "2Kor9/002",
+        "normalized_error_rate": 0.697508896797153
+    },
+    {
+        "chunk_id": "Joh18/012",
+        "normalized_error_rate": 0.6992084432717678
+    },
+    {
+        "chunk_id": "Roem5/002",
+        "normalized_error_rate": 0.6995412844036697
+    },
+    {
+        "chunk_id": "Mk12/003",
+        "normalized_error_rate": 0.7009063444108762
+    },
+    {
+        "chunk_id": "Mk3/007",
+        "normalized_error_rate": 0.7024221453287197
+    },
+    {
+        "chunk_id": "Hebr5/002",
+        "normalized_error_rate": 0.7027027027027027
+    },
+    {
+        "chunk_id": "Mk3/010",
+        "normalized_error_rate": 0.703125
+    },
+    {
+        "chunk_id": "1Kor13/002",
+        "normalized_error_rate": 0.7051039697542533
+    },
+    {
+        "chunk_id": "Mt27/001",
+        "normalized_error_rate": 0.7054908485856906
+    },
+    {
+        "chunk_id": "1Kor13/004",
+        "normalized_error_rate": 0.7056603773584905
+    },
+    {
+        "chunk_id": "2Kor9/001",
+        "normalized_error_rate": 0.707395498392283
+    },
+    {
+        "chunk_id": "Joh4/001",
+        "normalized_error_rate": 0.7074468085106383
+    },
+    {
+        "chunk_id": "Mk12/001",
+        "normalized_error_rate": 0.7083333333333334
+    },
+    {
+        "chunk_id": "Hebr5/001",
+        "normalized_error_rate": 0.7097625329815304
+    },
+    {
+        "chunk_id": "Roem5/003",
+        "normalized_error_rate": 0.7106109324758842
+    },
+    {
+        "chunk_id": "Mk12/011",
+        "normalized_error_rate": 0.7116704805491991
+    },
+    {
+        "chunk_id": "Mk13/006",
+        "normalized_error_rate": 0.7117346938775511
+    },
+    {
+        "chunk_id": "Hebr5/003",
+        "normalized_error_rate": 0.7126099706744868
+    },
+    {
+        "chunk_id": "Mt27/003",
+        "normalized_error_rate": 0.7128309572301426
+    },
+    {
+        "chunk_id": "2Kor9/004",
+        "normalized_error_rate": 0.7135549872122762
+    },
+    {
+        "chunk_id": "Mk13/001",
+        "normalized_error_rate": 0.7136563876651982
+    },
+    {
+        "chunk_id": "Mk13/003",
+        "normalized_error_rate": 0.7145833333333333
+    },
+    {
+        "chunk_id": "1Kor13/001",
+        "normalized_error_rate": 0.7167630057803468
+    },
+    {
+        "chunk_id": "Mk13/007",
+        "normalized_error_rate": 0.7170868347338936
+    },
+    {
+        "chunk_id": "2Kor9/003",
+        "normalized_error_rate": 0.7189542483660131
+    },
+    {
+        "chunk_id": "Mk13/004",
+        "normalized_error_rate": 0.7193308550185874
+    },
+    {
+        "chunk_id": "Mk13/008",
+        "normalized_error_rate": 0.7196765498652291
+    },
+    {
+        "chunk_id": "1Kor1/009",
+        "normalized_error_rate": 0.7219251336898396
+    },
+    {
+        "chunk_id": "Joh18/006",
+        "normalized_error_rate": 0.7228915662650602
+    },
+    {
+        "chunk_id": "Joh4/004",
+        "normalized_error_rate": 0.7235494880546075
+    },
+    {
+        "chunk_id": "Hebr5/004",
+        "normalized_error_rate": 0.7255520504731862
+    },
+    {
+        "chunk_id": "Mt10/009",
+        "normalized_error_rate": 0.7302158273381295
+    },
+    {
+        "chunk_id": "Mk3/004",
+        "normalized_error_rate": 0.7328605200945626
+    },
+    {
+        "chunk_id": "Mt27/002",
+        "normalized_error_rate": 0.7333333333333333
+    },
+    {
+        "chunk_id": "Mk3/006",
+        "normalized_error_rate": 0.7358490566037735
+    },
+    {
+        "chunk_id": "Mt27/004",
+        "normalized_error_rate": 0.7392550143266475
+    },
+    {
+        "chunk_id": "2Kor9/005",
+        "normalized_error_rate": 0.7399165507649513
+    },
+    {
+        "chunk_id": "Mt27/005",
+        "normalized_error_rate": 0.7440633245382586
+    },
+    {
+        "chunk_id": "1Kor1/008",
+        "normalized_error_rate": 0.7516483516483516
+    },
+    {
+        "chunk_id": "Mk3/009",
+        "normalized_error_rate": 0.7525252525252525
+    },
+    {
+        "chunk_id": "1Kor13/003",
+        "normalized_error_rate": 0.7548076923076923
+    },
+    {
+        "chunk_id": "Mk13/009",
+        "normalized_error_rate": 0.7595190380761523
+    },
+    {
+        "chunk_id": "Kol1/003",
+        "normalized_error_rate": 0.7634730538922155
+    },
+    {
+        "chunk_id": "Mk3/002",
+        "normalized_error_rate": 0.7713310580204779
+    },
+    {
+        "chunk_id": "2Kor9/006",
+        "normalized_error_rate": 0.7727272727272727
+    },
+    {
+        "chunk_id": "Mk13/002",
+        "normalized_error_rate": 0.7750865051903114
+    },
+    {
+        "chunk_id": "Mk3/003",
+        "normalized_error_rate": 0.7791411042944786
+    },
+    {
+        "chunk_id": "Gal4/001",
+        "normalized_error_rate": 0.7913223140495868
+    },
+    {
+        "chunk_id": "Joh14/008",
+        "normalized_error_rate": 0.7924528301886793
+    },
+    {
+        "chunk_id": "Mt10/010",
+        "normalized_error_rate": 0.7948164146868251
+    },
+    {
+        "chunk_id": "Gal4/005",
+        "normalized_error_rate": 0.7959866220735786
+    },
+    {
+        "chunk_id": "Joh14/002",
+        "normalized_error_rate": 0.796
+    },
+    {
+        "chunk_id": "Joh14/004",
+        "normalized_error_rate": 0.796875
+    },
+    {
+        "chunk_id": "Mt10/013",
+        "normalized_error_rate": 0.7983014861995754
+    },
+    {
+        "chunk_id": "Gal4/006",
+        "normalized_error_rate": 0.8014705882352942
+    },
+    {
+        "chunk_id": "Hebr5/005",
+        "normalized_error_rate": 0.8048780487804879
+    },
+    {
+        "chunk_id": "Hebr3/001",
+        "normalized_error_rate": 0.8050139275766016
+    },
+    {
+        "chunk_id": "Mk13/005",
+        "normalized_error_rate": 0.808641975308642
+    },
+    {
+        "chunk_id": "Joh14/009",
+        "normalized_error_rate": 0.8111455108359134
+    },
+    {
+        "chunk_id": "Joh14/006",
+        "normalized_error_rate": 0.8120567375886525
+    },
+    {
+        "chunk_id": "Hebr3/006",
+        "normalized_error_rate": 0.8141891891891891
+    },
+    {
+        "chunk_id": "Mk10/003",
+        "normalized_error_rate": 0.8166666666666667
+    },
+    {
+        "chunk_id": "Joh14/010",
+        "normalized_error_rate": 0.8195266272189349
+    },
+    {
+        "chunk_id": "Joh14/001",
+        "normalized_error_rate": 0.8197674418604651
+    },
+    {
+        "chunk_id": "Mt10/011",
+        "normalized_error_rate": 0.822289156626506
+    },
+    {
+        "chunk_id": "Mk13/010",
+        "normalized_error_rate": 0.8271604938271605
+    },
+    {
+        "chunk_id": "Gal4/004",
+        "normalized_error_rate": 0.8276923076923077
+    },
+    {
+        "chunk_id": "Mk10/002",
+        "normalized_error_rate": 0.827893175074184
+    },
+    {
+        "chunk_id": "Mt10/012",
+        "normalized_error_rate": 0.8287461773700305
+    },
+    {
+        "chunk_id": "Joh14/005",
+        "normalized_error_rate": 0.8308823529411765
+    },
+    {
+        "chunk_id": "1Tim4/005",
+        "normalized_error_rate": 0.8309859154929577
+    },
+    {
+        "chunk_id": "Hebr3/002",
+        "normalized_error_rate": 0.8342696629213483
+    },
+    {
+        "chunk_id": "Kol1/004",
+        "normalized_error_rate": 0.8347639484978541
+    },
+    {
+        "chunk_id": "Hebr3/004",
+        "normalized_error_rate": 0.8348623853211009
+    },
+    {
+        "chunk_id": "1Tim3/005",
+        "normalized_error_rate": 0.8357487922705314
+    },
+    {
+        "chunk_id": "Hebr3/003",
+        "normalized_error_rate": 0.8366834170854272
+    },
+    {
+        "chunk_id": "Hebr3/005",
+        "normalized_error_rate": 0.8441926345609065
+    },
+    {
+        "chunk_id": "Joh14/007",
+        "normalized_error_rate": 0.8473118279569892
+    },
+    {
+        "chunk_id": "Mk10/004",
+        "normalized_error_rate": 0.8604118993135011
+    },
+    {
+        "chunk_id": "Gal4/003",
+        "normalized_error_rate": 0.8606194690265486
+    },
+    {
+        "chunk_id": "Mk10/001",
+        "normalized_error_rate": 0.8617511520737328
+    },
+    {
+        "chunk_id": "Roem11/002",
+        "normalized_error_rate": 0.8651315789473685
+    },
+    {
+        "chunk_id": "Gal4/002",
+        "normalized_error_rate": 0.8658777120315582
+    },
+    {
+        "chunk_id": "Mt10/008",
+        "normalized_error_rate": 0.8680926916221033
+    },
+    {
+        "chunk_id": "Roem5/008",
+        "normalized_error_rate": 0.8726591760299626
+    },
+    {
+        "chunk_id": "Joh14/003",
+        "normalized_error_rate": 0.8828828828828829
+    },
+    {
+        "chunk_id": "1Tim4/002",
+        "normalized_error_rate": 0.8892307692307693
+    },
+    {
+        "chunk_id": "Roem11/008",
+        "normalized_error_rate": 0.8930635838150289
+    },
+    {
+        "chunk_id": "1Tim3/001",
+        "normalized_error_rate": 0.8943488943488943
+    },
+    {
+        "chunk_id": "1Tim4/004",
+        "normalized_error_rate": 0.8944099378881988
+    },
+    {
+        "chunk_id": "1Tim3/003",
+        "normalized_error_rate": 0.8945945945945946
+    },
+    {
+        "chunk_id": "1Tim3/002",
+        "normalized_error_rate": 0.8961424332344213
+    },
+    {
+        "chunk_id": "Roem11/009",
+        "normalized_error_rate": 0.9
+    },
+    {
+        "chunk_id": "1Tim4/001",
+        "normalized_error_rate": 0.9011494252873563
+    },
+    {
+        "chunk_id": "Kol1/002",
+        "normalized_error_rate": 0.9019248395967002
+    },
+    {
+        "chunk_id": "Roem11/003",
+        "normalized_error_rate": 0.9021164021164021
+    },
+    {
+        "chunk_id": "Roem11/010",
+        "normalized_error_rate": 0.9022346368715084
+    },
+    {
+        "chunk_id": "Kol1/001",
+        "normalized_error_rate": 0.9038031319910514
+    },
+    {
+        "chunk_id": "1Tim4/003",
+        "normalized_error_rate": 0.9054945054945055
+    },
+    {
+        "chunk_id": "Joh4/006",
+        "normalized_error_rate": 0.9075907590759076
+    },
+    {
+        "chunk_id": "Kol1/005",
+        "normalized_error_rate": 0.9112801013941698
+    },
+    {
+        "chunk_id": "Roem11/006",
+        "normalized_error_rate": 0.9161425576519916
+    },
+    {
+        "chunk_id": "Roem11/001",
+        "normalized_error_rate": 0.9170403587443946
+    },
+    {
+        "chunk_id": "1Tim3/004",
+        "normalized_error_rate": 0.920704845814978
+    },
+    {
+        "chunk_id": "Roem11/005",
+        "normalized_error_rate": 0.9207547169811321
+    },
+    {
+        "chunk_id": "Roem11/007",
+        "normalized_error_rate": 0.9262435677530018
+    },
+    {
+        "chunk_id": "Roem11/004",
+        "normalized_error_rate": 0.9378068739770867
+    },
+    {
+        "chunk_id": "1Kor5/003",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "1Kor9/002",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "1Kor9/004",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "1Kor9/005",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "1Kor9/006",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "1Kor9/007",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Apg11/003",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Apg17/010",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Apg22/008",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Apg24/006",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Joh13/001",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Lk12/016",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Lk16/001",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Lk9/005",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Mk12/005",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Mk8/001",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Mt12/003",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Mt18/008",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Mt18/011",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Mt27/011",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Offb3/007",
+        "normalized_error_rate": 1.0
+    },
+    {
+        "chunk_id": "Tit3/003",
+        "normalized_error_rate": 1.0
+    }
+]

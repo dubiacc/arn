@@ -1,0 +1,4298 @@
+[
+    {
+        "chapter": "2Sam13",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Est13",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Ex25",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Ex34",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Ez45",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Jes17",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Jes51",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Jes54",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Lev19",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Num15",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Ps110",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Ps111",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Ps116",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Ps147",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Ps34",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Ps56",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Sir11",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Tob4",
+        "aggregated_error_rate": 1.0
+    },
+    {
+        "chapter": "Gen35",
+        "aggregated_error_rate": 0.9954337899543378
+    },
+    {
+        "chapter": "1Chr22",
+        "aggregated_error_rate": 0.9758192809417754
+    },
+    {
+        "chapter": "Weish5",
+        "aggregated_error_rate": 0.9370127845338322
+    },
+    {
+        "chapter": "Rut1",
+        "aggregated_error_rate": 0.9284692417739628
+    },
+    {
+        "chapter": "Dtn13",
+        "aggregated_error_rate": 0.926992632283992
+    },
+    {
+        "chapter": "2Koen10",
+        "aggregated_error_rate": 0.9215590345727332
+    },
+    {
+        "chapter": "Ex37",
+        "aggregated_error_rate": 0.9202312138728324
+    },
+    {
+        "chapter": "Esra2",
+        "aggregated_error_rate": 0.9172108700231725
+    },
+    {
+        "chapter": "Lev5",
+        "aggregated_error_rate": 0.9060556464811784
+    },
+    {
+        "chapter": "Klgl2",
+        "aggregated_error_rate": 0.9001137656427759
+    },
+    {
+        "chapter": "Sir46",
+        "aggregated_error_rate": 0.8996491228070176
+    },
+    {
+        "chapter": "2Makk4",
+        "aggregated_error_rate": 0.8979295314202688
+    },
+    {
+        "chapter": "Ijob33",
+        "aggregated_error_rate": 0.8948853615520282
+    },
+    {
+        "chapter": "Lev2",
+        "aggregated_error_rate": 0.891491395793499
+    },
+    {
+        "chapter": "Dtn25",
+        "aggregated_error_rate": 0.8910491562729274
+    },
+    {
+        "chapter": "Ps113",
+        "aggregated_error_rate": 0.8879447689856612
+    },
+    {
+        "chapter": "Num6",
+        "aggregated_error_rate": 0.874175679240306
+    },
+    {
+        "chapter": "2Makk3",
+        "aggregated_error_rate": 0.8733488733488733
+    },
+    {
+        "chapter": "Koh6",
+        "aggregated_error_rate": 0.8702127659574468
+    },
+    {
+        "chapter": "Jes30",
+        "aggregated_error_rate": 0.8701896519977904
+    },
+    {
+        "chapter": "Jos7",
+        "aggregated_error_rate": 0.8627284317892052
+    },
+    {
+        "chapter": "Ps125",
+        "aggregated_error_rate": 0.8614457831325302
+    },
+    {
+        "chapter": "Jes39",
+        "aggregated_error_rate": 0.8385308385308385
+    },
+    {
+        "chapter": "2Sam24",
+        "aggregated_error_rate": 0.8368600682593856
+    },
+    {
+        "chapter": "Gen7",
+        "aggregated_error_rate": 0.8319641523525019
+    },
+    {
+        "chapter": "Jona3",
+        "aggregated_error_rate": 0.8284278535534817
+    },
+    {
+        "chapter": "Ps44",
+        "aggregated_error_rate": 0.8266384778012685
+    },
+    {
+        "chapter": "2Chr33",
+        "aggregated_error_rate": 0.8255813953488372
+    },
+    {
+        "chapter": "Jes9",
+        "aggregated_error_rate": 0.8249760459916959
+    },
+    {
+        "chapter": "Ex10",
+        "aggregated_error_rate": 0.8100111234705228
+    },
+    {
+        "chapter": "Gen15",
+        "aggregated_error_rate": 0.8016860698514653
+    },
+    {
+        "chapter": "Ps86",
+        "aggregated_error_rate": 0.791095890410959
+    },
+    {
+        "chapter": "Spr13",
+        "aggregated_error_rate": 0.7567106945036216
+    },
+    {
+        "chapter": "Neh5",
+        "aggregated_error_rate": 0.7524752475247525
+    },
+    {
+        "chapter": "Num10",
+        "aggregated_error_rate": 0.7445972495088409
+    },
+    {
+        "chapter": "Bar4",
+        "aggregated_error_rate": 0.7311651848385587
+    },
+    {
+        "chapter": "Ex29",
+        "aggregated_error_rate": 0.7305817354566135
+    },
+    {
+        "chapter": "Ps14",
+        "aggregated_error_rate": 0.7272727272727273
+    },
+    {
+        "chapter": "Lev20",
+        "aggregated_error_rate": 0.7234579224948406
+    },
+    {
+        "chapter": "Ps15",
+        "aggregated_error_rate": 0.7145522388059702
+    },
+    {
+        "chapter": "Ps61",
+        "aggregated_error_rate": 0.7017405063291139
+    },
+    {
+        "chapter": "Gen8",
+        "aggregated_error_rate": 0.7015961138098543
+    },
+    {
+        "chapter": "Num34",
+        "aggregated_error_rate": 0.6951456310679611
+    },
+    {
+        "chapter": "1Koen14",
+        "aggregated_error_rate": 0.6913851688986608
+    },
+    {
+        "chapter": "Klgl5",
+        "aggregated_error_rate": 0.6899271844660194
+    },
+    {
+        "chapter": "Ps74",
+        "aggregated_error_rate": 0.6880165289256198
+    },
+    {
+        "chapter": "Koh9",
+        "aggregated_error_rate": 0.6845079787234043
+    },
+    {
+        "chapter": "Ps66",
+        "aggregated_error_rate": 0.6822742474916388
+    },
+    {
+        "chapter": "Ps134",
+        "aggregated_error_rate": 0.6814911706998038
+    },
+    {
+        "chapter": "1Koen11",
+        "aggregated_error_rate": 0.6773172569706104
+    },
+    {
+        "chapter": "Est11",
+        "aggregated_error_rate": 0.6719143576826196
+    },
+    {
+        "chapter": "Ez8",
+        "aggregated_error_rate": 0.6557223264540337
+    },
+    {
+        "chapter": "Ps104",
+        "aggregated_error_rate": 0.6338962605548853
+    },
+    {
+        "chapter": "Hld1",
+        "aggregated_error_rate": 0.6323968918111178
+    },
+    {
+        "chapter": "Ri12",
+        "aggregated_error_rate": 0.6103351955307262
+    },
+    {
+        "chapter": "Gen12",
+        "aggregated_error_rate": 0.6082397003745318
+    },
+    {
+        "chapter": "1Chr8",
+        "aggregated_error_rate": 0.5782051282051283
+    },
+    {
+        "chapter": "Ps31",
+        "aggregated_error_rate": 0.5358814352574103
+    },
+    {
+        "chapter": "Ri17",
+        "aggregated_error_rate": 0.5344295991778006
+    },
+    {
+        "chapter": "1Sam25",
+        "aggregated_error_rate": 0.5311851749412253
+    },
+    {
+        "chapter": "1Sam12",
+        "aggregated_error_rate": 0.5207220950928044
+    },
+    {
+        "chapter": "Weish1",
+        "aggregated_error_rate": 0.507274490785645
+    },
+    {
+        "chapter": "1Koen2",
+        "aggregated_error_rate": 0.5019836022216345
+    },
+    {
+        "chapter": "Weish2",
+        "aggregated_error_rate": 0.5004843396835648
+    },
+    {
+        "chapter": "Jes37",
+        "aggregated_error_rate": 0.49956724943742425
+    },
+    {
+        "chapter": "Sir15",
+        "aggregated_error_rate": 0.4672131147540984
+    },
+    {
+        "chapter": "Jes23",
+        "aggregated_error_rate": 0.46046128500823724
+    },
+    {
+        "chapter": "Num2",
+        "aggregated_error_rate": 0.459066778429729
+    },
+    {
+        "chapter": "Jes34",
+        "aggregated_error_rate": 0.45746045318512185
+    },
+    {
+        "chapter": "Sir2",
+        "aggregated_error_rate": 0.4372384937238494
+    },
+    {
+        "chapter": "Ps129",
+        "aggregated_error_rate": 0.4319852941176471
+    },
+    {
+        "chapter": "Mi4",
+        "aggregated_error_rate": 0.42925140631761144
+    },
+    {
+        "chapter": "Gen48",
+        "aggregated_error_rate": 0.4229401304090101
+    },
+    {
+        "chapter": "Koh3",
+        "aggregated_error_rate": 0.39683153013910355
+    },
+    {
+        "chapter": "1Chr27",
+        "aggregated_error_rate": 0.3935018050541516
+    },
+    {
+        "chapter": "Jos18",
+        "aggregated_error_rate": 0.3908518214187894
+    },
+    {
+        "chapter": "1Chr1",
+        "aggregated_error_rate": 0.38092502154553287
+    },
+    {
+        "chapter": "2Koen18",
+        "aggregated_error_rate": 0.3719348204398038
+    },
+    {
+        "chapter": "Sach9",
+        "aggregated_error_rate": 0.3653404743687835
+    },
+    {
+        "chapter": "Ez42",
+        "aggregated_error_rate": 0.3633720930232558
+    },
+    {
+        "chapter": "Dtn4",
+        "aggregated_error_rate": 0.36320818194051946
+    },
+    {
+        "chapter": "Gen25",
+        "aggregated_error_rate": 0.35630203847258113
+    },
+    {
+        "chapter": "Ez9",
+        "aggregated_error_rate": 0.3452661328308997
+    },
+    {
+        "chapter": "Dtn14",
+        "aggregated_error_rate": 0.3393025447690858
+    },
+    {
+        "chapter": "Ps114",
+        "aggregated_error_rate": 0.338301043219076
+    },
+    {
+        "chapter": "Est4",
+        "aggregated_error_rate": 0.3381818181818182
+    },
+    {
+        "chapter": "Sir42",
+        "aggregated_error_rate": 0.3345059162136233
+    },
+    {
+        "chapter": "Sir19",
+        "aggregated_error_rate": 0.33301127214170695
+    },
+    {
+        "chapter": "Jes6",
+        "aggregated_error_rate": 0.32989690721649484
+    },
+    {
+        "chapter": "Ez31",
+        "aggregated_error_rate": 0.32960048426150124
+    },
+    {
+        "chapter": "1Chr9",
+        "aggregated_error_rate": 0.3236957888120679
+    },
+    {
+        "chapter": "2Chr26",
+        "aggregated_error_rate": 0.32142857142857145
+    },
+    {
+        "chapter": "Jes22",
+        "aggregated_error_rate": 0.31839080459770114
+    },
+    {
+        "chapter": "2Chr6",
+        "aggregated_error_rate": 0.3183149672199749
+    },
+    {
+        "chapter": "Neh7",
+        "aggregated_error_rate": 0.3075720736366794
+    },
+    {
+        "chapter": "Gen38",
+        "aggregated_error_rate": 0.30303030303030304
+    },
+    {
+        "chapter": "Neh11",
+        "aggregated_error_rate": 0.3021728145528044
+    },
+    {
+        "chapter": "2Koen19",
+        "aggregated_error_rate": 0.2974137931034483
+    },
+    {
+        "chapter": "Ijob3",
+        "aggregated_error_rate": 0.29430097951914513
+    },
+    {
+        "chapter": "1Sam6",
+        "aggregated_error_rate": 0.2917412426489389
+    },
+    {
+        "chapter": "Sach14",
+        "aggregated_error_rate": 0.2907972177635099
+    },
+    {
+        "chapter": "Ez47",
+        "aggregated_error_rate": 0.2894196199280945
+    },
+    {
+        "chapter": "Ex19",
+        "aggregated_error_rate": 0.2875477880939377
+    },
+    {
+        "chapter": "Gen32",
+        "aggregated_error_rate": 0.2862725940400586
+    },
+    {
+        "chapter": "Sir39",
+        "aggregated_error_rate": 0.28412403922608004
+    },
+    {
+        "chapter": "2Koen14",
+        "aggregated_error_rate": 0.2822987497258171
+    },
+    {
+        "chapter": "2Koen15",
+        "aggregated_error_rate": 0.27965636995064885
+    },
+    {
+        "chapter": "1Koen15",
+        "aggregated_error_rate": 0.27040816326530615
+    },
+    {
+        "chapter": "Num19",
+        "aggregated_error_rate": 0.2691738229197513
+    },
+    {
+        "chapter": "Ps17",
+        "aggregated_error_rate": 0.2674271229404309
+    },
+    {
+        "chapter": "Gen47",
+        "aggregated_error_rate": 0.26435754189944133
+    },
+    {
+        "chapter": "2Koen9",
+        "aggregated_error_rate": 0.25318268618714196
+    },
+    {
+        "chapter": "Ez37",
+        "aggregated_error_rate": 0.25103734439834025
+    },
+    {
+        "chapter": "Gen5",
+        "aggregated_error_rate": 0.24331352154531946
+    },
+    {
+        "chapter": "Ps72",
+        "aggregated_error_rate": 0.24012158054711247
+    },
+    {
+        "chapter": "Gen44",
+        "aggregated_error_rate": 0.2344258736705014
+    },
+    {
+        "chapter": "1Makk15",
+        "aggregated_error_rate": 0.2333913043478261
+    },
+    {
+        "chapter": "2Chr32",
+        "aggregated_error_rate": 0.23207415180132915
+    },
+    {
+        "chapter": "Jer2",
+        "aggregated_error_rate": 0.23082191780821917
+    },
+    {
+        "chapter": "Sach10",
+        "aggregated_error_rate": 0.22630761263593993
+    },
+    {
+        "chapter": "2Koen22",
+        "aggregated_error_rate": 0.22563529740296007
+    },
+    {
+        "chapter": "2Makk14",
+        "aggregated_error_rate": 0.22162162162162163
+    },
+    {
+        "chapter": "1Sam11",
+        "aggregated_error_rate": 0.2194831013916501
+    },
+    {
+        "chapter": "Neh9",
+        "aggregated_error_rate": 0.216832504145937
+    },
+    {
+        "chapter": "Ps85",
+        "aggregated_error_rate": 0.2166446499339498
+    },
+    {
+        "chapter": "2Sam12",
+        "aggregated_error_rate": 0.21556195965417868
+    },
+    {
+        "chapter": "Jes66",
+        "aggregated_error_rate": 0.20816894871199815
+    },
+    {
+        "chapter": "Ijob34",
+        "aggregated_error_rate": 0.2041868932038835
+    },
+    {
+        "chapter": "Ri19",
+        "aggregated_error_rate": 0.20400072085060372
+    },
+    {
+        "chapter": "Jes50",
+        "aggregated_error_rate": 0.19758909853249476
+    },
+    {
+        "chapter": "Dan12",
+        "aggregated_error_rate": 0.1920853712761227
+    },
+    {
+        "chapter": "Ps77",
+        "aggregated_error_rate": 0.18622529024160653
+    },
+    {
+        "chapter": "Sir45",
+        "aggregated_error_rate": 0.18526315789473685
+    },
+    {
+        "chapter": "2Koen23",
+        "aggregated_error_rate": 0.18495852033183735
+    },
+    {
+        "chapter": "Jdt10",
+        "aggregated_error_rate": 0.18396226415094338
+    },
+    {
+        "chapter": "Jes47",
+        "aggregated_error_rate": 0.18145483613109512
+    },
+    {
+        "chapter": "Num35",
+        "aggregated_error_rate": 0.1791081547179108
+    },
+    {
+        "chapter": "1Chr24",
+        "aggregated_error_rate": 0.17889908256880735
+    },
+    {
+        "chapter": "1Koen22",
+        "aggregated_error_rate": 0.17883022774327123
+    },
+    {
+        "chapter": "1Makk12",
+        "aggregated_error_rate": 0.17728177423940858
+    },
+    {
+        "chapter": "Esra8",
+        "aggregated_error_rate": 0.17291242362525458
+    },
+    {
+        "chapter": "1Chr7",
+        "aggregated_error_rate": 0.1725762459707414
+    },
+    {
+        "chapter": "1Chr3",
+        "aggregated_error_rate": 0.17075718015665797
+    },
+    {
+        "chapter": "Tob2",
+        "aggregated_error_rate": 0.16552222623780266
+    },
+    {
+        "chapter": "Ijob16",
+        "aggregated_error_rate": 0.16518898740083995
+    },
+    {
+        "chapter": "1Chr25",
+        "aggregated_error_rate": 0.1650190114068441
+    },
+    {
+        "chapter": "Num26",
+        "aggregated_error_rate": 0.16359838098968535
+    },
+    {
+        "chapter": "Num9",
+        "aggregated_error_rate": 0.16125
+    },
+    {
+        "chapter": "1Chr2",
+        "aggregated_error_rate": 0.1594002306805075
+    },
+    {
+        "chapter": "2Sam17",
+        "aggregated_error_rate": 0.15582870737509913
+    },
+    {
+        "chapter": "Ez48",
+        "aggregated_error_rate": 0.15294351630867145
+    },
+    {
+        "chapter": "Lev27",
+        "aggregated_error_rate": 0.1501959077057031
+    },
+    {
+        "chapter": "Ijob36",
+        "aggregated_error_rate": 0.14930300807043287
+    },
+    {
+        "chapter": "Dan2",
+        "aggregated_error_rate": 0.14816171979968243
+    },
+    {
+        "chapter": "Ri5",
+        "aggregated_error_rate": 0.1452728670253651
+    },
+    {
+        "chapter": "1Koen12",
+        "aggregated_error_rate": 0.14501288185498712
+    },
+    {
+        "chapter": "Sir34",
+        "aggregated_error_rate": 0.14398985093561686
+    },
+    {
+        "chapter": "Spr27",
+        "aggregated_error_rate": 0.14364035087719298
+    },
+    {
+        "chapter": "Gen10",
+        "aggregated_error_rate": 0.14232365145228215
+    },
+    {
+        "chapter": "Gen37",
+        "aggregated_error_rate": 0.13693121693121693
+    },
+    {
+        "chapter": "Gen11",
+        "aggregated_error_rate": 0.13669291338582676
+    },
+    {
+        "chapter": "Weish14",
+        "aggregated_error_rate": 0.13357815010328208
+    },
+    {
+        "chapter": "Num1",
+        "aggregated_error_rate": 0.13008834228304175
+    },
+    {
+        "chapter": "1Chr12",
+        "aggregated_error_rate": 0.1267809209167871
+    },
+    {
+        "chapter": "Gen36",
+        "aggregated_error_rate": 0.12658823529411764
+    },
+    {
+        "chapter": "Weish17",
+        "aggregated_error_rate": 0.12567783094098883
+    },
+    {
+        "chapter": "Dtn9",
+        "aggregated_error_rate": 0.12213740458015267
+    },
+    {
+        "chapter": "Num31",
+        "aggregated_error_rate": 0.12200475580757271
+    },
+    {
+        "chapter": "1Chr6",
+        "aggregated_error_rate": 0.12176127003145125
+    },
+    {
+        "chapter": "Jos15",
+        "aggregated_error_rate": 0.12172359015091343
+    },
+    {
+        "chapter": "1Chr4",
+        "aggregated_error_rate": 0.11872455902306649
+    },
+    {
+        "chapter": "Ez26",
+        "aggregated_error_rate": 0.11787600778426466
+    },
+    {
+        "chapter": "Jos19",
+        "aggregated_error_rate": 0.11746174617461747
+    },
+    {
+        "chapter": "Ijob38",
+        "aggregated_error_rate": 0.11709047900650503
+    },
+    {
+        "chapter": "Gen18",
+        "aggregated_error_rate": 0.11606746560142032
+    },
+    {
+        "chapter": "2Chr27",
+        "aggregated_error_rate": 0.11566484517304189
+    },
+    {
+        "chapter": "1Chr18",
+        "aggregated_error_rate": 0.11558669001751314
+    },
+    {
+        "chapter": "Gen1",
+        "aggregated_error_rate": 0.11536471805483704
+    },
+    {
+        "chapter": "1Chr5",
+        "aggregated_error_rate": 0.11423550087873462
+    },
+    {
+        "chapter": "Jos12",
+        "aggregated_error_rate": 0.11420384772820302
+    },
+    {
+        "chapter": "1Chr11",
+        "aggregated_error_rate": 0.11371100164203612
+    },
+    {
+        "chapter": "Jes59",
+        "aggregated_error_rate": 0.11240657698056801
+    },
+    {
+        "chapter": "Sir26",
+        "aggregated_error_rate": 0.10935085007727975
+    },
+    {
+        "chapter": "1Koen4",
+        "aggregated_error_rate": 0.10697674418604651
+    },
+    {
+        "chapter": "1Chr26",
+        "aggregated_error_rate": 0.10363495746326373
+    },
+    {
+        "chapter": "Neh10",
+        "aggregated_error_rate": 0.10306955787102225
+    },
+    {
+        "chapter": "Ex38",
+        "aggregated_error_rate": 0.10229856024248547
+    },
+    {
+        "chapter": "2Sam8",
+        "aggregated_error_rate": 0.10090984284532671
+    },
+    {
+        "chapter": "2Chr20",
+        "aggregated_error_rate": 0.10001618384851918
+    },
+    {
+        "chapter": "1Chr23",
+        "aggregated_error_rate": 0.09970760233918129
+    },
+    {
+        "chapter": "1Chr15",
+        "aggregated_error_rate": 0.09722222222222222
+    },
+    {
+        "chapter": "Hab2",
+        "aggregated_error_rate": 0.09662998624484181
+    },
+    {
+        "chapter": "Jdt1",
+        "aggregated_error_rate": 0.09631544925662573
+    },
+    {
+        "chapter": "2Sam18",
+        "aggregated_error_rate": 0.09614059269469331
+    },
+    {
+        "chapter": "Neh12",
+        "aggregated_error_rate": 0.0947981522394055
+    },
+    {
+        "chapter": "Num33",
+        "aggregated_error_rate": 0.09207853757616791
+    },
+    {
+        "chapter": "Jer52",
+        "aggregated_error_rate": 0.09104646769928221
+    },
+    {
+        "chapter": "2Chr17",
+        "aggregated_error_rate": 0.08985024958402663
+    },
+    {
+        "chapter": "1Koen16",
+        "aggregated_error_rate": 0.08973369355461212
+    },
+    {
+        "chapter": "Sir6",
+        "aggregated_error_rate": 0.0889616935483871
+    },
+    {
+        "chapter": "Jos13",
+        "aggregated_error_rate": 0.08835437008811622
+    },
+    {
+        "chapter": "2Sam23",
+        "aggregated_error_rate": 0.08767720828789531
+    },
+    {
+        "chapter": "2Chr3",
+        "aggregated_error_rate": 0.08610567514677103
+    },
+    {
+        "chapter": "Neh3",
+        "aggregated_error_rate": 0.08609271523178808
+    },
+    {
+        "chapter": "Jos16",
+        "aggregated_error_rate": 0.0858662613981763
+    },
+    {
+        "chapter": "2Chr22",
+        "aggregated_error_rate": 0.08498705780845557
+    },
+    {
+        "chapter": "Esra10",
+        "aggregated_error_rate": 0.08479593994502009
+    },
+    {
+        "chapter": "Num7",
+        "aggregated_error_rate": 0.0844141569575731
+    },
+    {
+        "chapter": "Gen46",
+        "aggregated_error_rate": 0.08385009436505797
+    },
+    {
+        "chapter": "1Chr20",
+        "aggregated_error_rate": 0.08300395256916997
+    },
+    {
+        "chapter": "Hag2",
+        "aggregated_error_rate": 0.08202687569988802
+    },
+    {
+        "chapter": "Jos21",
+        "aggregated_error_rate": 0.0811727647201357
+    },
+    {
+        "chapter": "Gen14",
+        "aggregated_error_rate": 0.07996351474612344
+    },
+    {
+        "chapter": "Ex6",
+        "aggregated_error_rate": 0.07925151348376444
+    },
+    {
+        "chapter": "2Chr13",
+        "aggregated_error_rate": 0.07851002865329514
+    },
+    {
+        "chapter": "Num25",
+        "aggregated_error_rate": 0.07848837209302326
+    },
+    {
+        "chapter": "2Chr2",
+        "aggregated_error_rate": 0.0773881499395405
+    },
+    {
+        "chapter": "Jos17",
+        "aggregated_error_rate": 0.07728200641586469
+    },
+    {
+        "chapter": "2Chr11",
+        "aggregated_error_rate": 0.07660533233195645
+    },
+    {
+        "chapter": "2Sam21",
+        "aggregated_error_rate": 0.07650809220205983
+    },
+    {
+        "chapter": "Num3",
+        "aggregated_error_rate": 0.07605939876856212
+    },
+    {
+        "chapter": "Gen23",
+        "aggregated_error_rate": 0.0759228187919463
+    },
+    {
+        "chapter": "Ri1",
+        "aggregated_error_rate": 0.07468879668049792
+    },
+    {
+        "chapter": "2Chr14",
+        "aggregated_error_rate": 0.07397737162750218
+    },
+    {
+        "chapter": "Ri4",
+        "aggregated_error_rate": 0.07383250717453692
+    },
+    {
+        "chapter": "2Makk12",
+        "aggregated_error_rate": 0.07376602127079357
+    },
+    {
+        "chapter": "Ps50",
+        "aggregated_error_rate": 0.0733509234828496
+    },
+    {
+        "chapter": "Jes36",
+        "aggregated_error_rate": 0.07274644175013179
+    },
+    {
+        "chapter": "2Chr16",
+        "aggregated_error_rate": 0.07273466070702966
+    },
+    {
+        "chapter": "2Sam4",
+        "aggregated_error_rate": 0.07207596029348295
+    },
+    {
+        "chapter": "Jer41",
+        "aggregated_error_rate": 0.0709812108559499
+    },
+    {
+        "chapter": "Jer39",
+        "aggregated_error_rate": 0.07042253521126761
+    },
+    {
+        "chapter": "1Koen5",
+        "aggregated_error_rate": 0.07023767293366442
+    },
+    {
+        "chapter": "2Chr12",
+        "aggregated_error_rate": 0.06967691708836123
+    },
+    {
+        "chapter": "2Koen13",
+        "aggregated_error_rate": 0.06954556866683405
+    },
+    {
+        "chapter": "Ri10",
+        "aggregated_error_rate": 0.0691358024691358
+    },
+    {
+        "chapter": "Ri8",
+        "aggregated_error_rate": 0.06860706860706861
+    },
+    {
+        "chapter": "Jer40",
+        "aggregated_error_rate": 0.06805833571632829
+    },
+    {
+        "chapter": "Num13",
+        "aggregated_error_rate": 0.06802145074795371
+    },
+    {
+        "chapter": "Lev14",
+        "aggregated_error_rate": 0.06765418031619427
+    },
+    {
+        "chapter": "Est9",
+        "aggregated_error_rate": 0.06694415539368713
+    },
+    {
+        "chapter": "2Makk11",
+        "aggregated_error_rate": 0.06689536878216124
+    },
+    {
+        "chapter": "2Sam10",
+        "aggregated_error_rate": 0.06616541353383458
+    },
+    {
+        "chapter": "Esra1",
+        "aggregated_error_rate": 0.0660676532769556
+    },
+    {
+        "chapter": "2Sam9",
+        "aggregated_error_rate": 0.06591244466305952
+    },
+    {
+        "chapter": "2Koen25",
+        "aggregated_error_rate": 0.06546777126692262
+    },
+    {
+        "chapter": "Jdt2",
+        "aggregated_error_rate": 0.06510186005314438
+    },
+    {
+        "chapter": "1Chr19",
+        "aggregated_error_rate": 0.06478611283323
+    },
+    {
+        "chapter": "2Koen17",
+        "aggregated_error_rate": 0.06477732793522267
+    },
+    {
+        "chapter": "Ri9",
+        "aggregated_error_rate": 0.06430601610611085
+    },
+    {
+        "chapter": "Gen4",
+        "aggregated_error_rate": 0.06378927324658838
+    },
+    {
+        "chapter": "Ps21",
+        "aggregated_error_rate": 0.0636604774535809
+    },
+    {
+        "chapter": "Ex27",
+        "aggregated_error_rate": 0.06334519572953737
+    },
+    {
+        "chapter": "Ez40",
+        "aggregated_error_rate": 0.06277909114788548
+    },
+    {
+        "chapter": "Ri7",
+        "aggregated_error_rate": 0.06262961426793862
+    },
+    {
+        "chapter": "Num32",
+        "aggregated_error_rate": 0.06238823763163123
+    },
+    {
+        "chapter": "Ri3",
+        "aggregated_error_rate": 0.062301045929968164
+    },
+    {
+        "chapter": "Num4",
+        "aggregated_error_rate": 0.06229773462783172
+    },
+    {
+        "chapter": "Weish16",
+        "aggregated_error_rate": 0.06175540967663506
+    },
+    {
+        "chapter": "Dan3",
+        "aggregated_error_rate": 0.06164383561643835
+    },
+    {
+        "chapter": "2Koen16",
+        "aggregated_error_rate": 0.061626248216833095
+    },
+    {
+        "chapter": "Jos14",
+        "aggregated_error_rate": 0.06156405990016639
+    },
+    {
+        "chapter": "2Chr25",
+        "aggregated_error_rate": 0.061535208289278914
+    },
+    {
+        "chapter": "2Chr29",
+        "aggregated_error_rate": 0.0615257048092869
+    },
+    {
+        "chapter": "2Chr8",
+        "aggregated_error_rate": 0.06150506512301013
+    },
+    {
+        "chapter": "Est1",
+        "aggregated_error_rate": 0.061274509803921566
+    },
+    {
+        "chapter": "2Sam3",
+        "aggregated_error_rate": 0.061211021283616565
+    },
+    {
+        "chapter": "Ps150",
+        "aggregated_error_rate": 0.061068702290076333
+    },
+    {
+        "chapter": "Ps82",
+        "aggregated_error_rate": 0.06087602078693393
+    },
+    {
+        "chapter": "1Chr14",
+        "aggregated_error_rate": 0.06052490626673808
+    },
+    {
+        "chapter": "2Koen24",
+        "aggregated_error_rate": 0.06051873198847262
+    },
+    {
+        "chapter": "Ps59",
+        "aggregated_error_rate": 0.0603305785123967
+    },
+    {
+        "chapter": "2Makk8",
+        "aggregated_error_rate": 0.0602486452024227
+    },
+    {
+        "chapter": "2Koen1",
+        "aggregated_error_rate": 0.060130331753554506
+    },
+    {
+        "chapter": "Jos11",
+        "aggregated_error_rate": 0.05988898626935437
+    },
+    {
+        "chapter": "1Koen21",
+        "aggregated_error_rate": 0.05977382875605816
+    },
+    {
+        "chapter": "Jos4",
+        "aggregated_error_rate": 0.059673946478006765
+    },
+    {
+        "chapter": "2Makk13",
+        "aggregated_error_rate": 0.05941088367448827
+    },
+    {
+        "chapter": "Ps115",
+        "aggregated_error_rate": 0.05931034482758621
+    },
+    {
+        "chapter": "Klgl3",
+        "aggregated_error_rate": 0.0585252482569195
+    },
+    {
+        "chapter": "Ri20",
+        "aggregated_error_rate": 0.05832008803032156
+    },
+    {
+        "chapter": "1Chr16",
+        "aggregated_error_rate": 0.05829383886255924
+    },
+    {
+        "chapter": "1Sam13",
+        "aggregated_error_rate": 0.05806957886476589
+    },
+    {
+        "chapter": "Ijob42",
+        "aggregated_error_rate": 0.05737316263632053
+    },
+    {
+        "chapter": "2Makk10",
+        "aggregated_error_rate": 0.05729433897725329
+    },
+    {
+        "chapter": "Est3",
+        "aggregated_error_rate": 0.05662251655629139
+    },
+    {
+        "chapter": "2Sam2",
+        "aggregated_error_rate": 0.056451612903225805
+    },
+    {
+        "chapter": "2Sam20",
+        "aggregated_error_rate": 0.056331577742157087
+    },
+    {
+        "chapter": "Num36",
+        "aggregated_error_rate": 0.05631399317406143
+    },
+    {
+        "chapter": "Am8",
+        "aggregated_error_rate": 0.056289769946157614
+    },
+    {
+        "chapter": "Jona4",
+        "aggregated_error_rate": 0.055523085914669784
+    },
+    {
+        "chapter": "Hos1",
+        "aggregated_error_rate": 0.0546448087431694
+    },
+    {
+        "chapter": "1Sam22",
+        "aggregated_error_rate": 0.0545544310046902
+    },
+    {
+        "chapter": "Neh8",
+        "aggregated_error_rate": 0.05453065653825285
+    },
+    {
+        "chapter": "Ez41",
+        "aggregated_error_rate": 0.0544529262086514
+    },
+    {
+        "chapter": "Klgl4",
+        "aggregated_error_rate": 0.054423933800127305
+    },
+    {
+        "chapter": "2Sam16",
+        "aggregated_error_rate": 0.05432705432705433
+    },
+    {
+        "chapter": "Jes27",
+        "aggregated_error_rate": 0.05406746031746032
+    },
+    {
+        "chapter": "Gen50",
+        "aggregated_error_rate": 0.0540223135642983
+    },
+    {
+        "chapter": "1Makk9",
+        "aggregated_error_rate": 0.05379370061694989
+    },
+    {
+        "chapter": "1Koen6",
+        "aggregated_error_rate": 0.053763440860215055
+    },
+    {
+        "chapter": "Ps37",
+        "aggregated_error_rate": 0.0537525354969574
+    },
+    {
+        "chapter": "1Sam27",
+        "aggregated_error_rate": 0.053746770025839795
+    },
+    {
+        "chapter": "Ps75",
+        "aggregated_error_rate": 0.053553038105046344
+    },
+    {
+        "chapter": "Num29",
+        "aggregated_error_rate": 0.05343189017951425
+    },
+    {
+        "chapter": "2Chr9",
+        "aggregated_error_rate": 0.05342378630485478
+    },
+    {
+        "chapter": "2Sam15",
+        "aggregated_error_rate": 0.05339130434782609
+    },
+    {
+        "chapter": "1Chr13",
+        "aggregated_error_rate": 0.05336069779374038
+    },
+    {
+        "chapter": "Ps46",
+        "aggregated_error_rate": 0.053237410071942444
+    },
+    {
+        "chapter": "2Chr35",
+        "aggregated_error_rate": 0.05303488606573906
+    },
+    {
+        "chapter": "2Chr28",
+        "aggregated_error_rate": 0.052924791086350974
+    },
+    {
+        "chapter": "1Sam4",
+        "aggregated_error_rate": 0.052905916080271044
+    },
+    {
+        "chapter": "1Chr29",
+        "aggregated_error_rate": 0.052556528824607866
+    },
+    {
+        "chapter": "Am1",
+        "aggregated_error_rate": 0.052514463729417
+    },
+    {
+        "chapter": "1Koen10",
+        "aggregated_error_rate": 0.052439286481839674
+    },
+    {
+        "chapter": "Sach3",
+        "aggregated_error_rate": 0.05242463958060288
+    },
+    {
+        "chapter": "1Makk16",
+        "aggregated_error_rate": 0.052125100240577385
+    },
+    {
+        "chapter": "Ex35",
+        "aggregated_error_rate": 0.05200517464424321
+    },
+    {
+        "chapter": "Esra4",
+        "aggregated_error_rate": 0.05157321977762006
+    },
+    {
+        "chapter": "2Makk1",
+        "aggregated_error_rate": 0.05128205128205128
+    },
+    {
+        "chapter": "Jer28",
+        "aggregated_error_rate": 0.05119825708061002
+    },
+    {
+        "chapter": "Jes15",
+        "aggregated_error_rate": 0.05113160100586756
+    },
+    {
+        "chapter": "2Koen8",
+        "aggregated_error_rate": 0.051120162932790224
+    },
+    {
+        "chapter": "Tob14",
+        "aggregated_error_rate": 0.05100728675525075
+    },
+    {
+        "chapter": "Ps9",
+        "aggregated_error_rate": 0.050808314087759814
+    },
+    {
+        "chapter": "2Chr31",
+        "aggregated_error_rate": 0.05079605761940864
+    },
+    {
+        "chapter": "1Makk4",
+        "aggregated_error_rate": 0.050653159157557984
+    },
+    {
+        "chapter": "Jer51",
+        "aggregated_error_rate": 0.05064880703223106
+    },
+    {
+        "chapter": "Ez4",
+        "aggregated_error_rate": 0.05061867266591676
+    },
+    {
+        "chapter": "Hos4",
+        "aggregated_error_rate": 0.05033425088478175
+    },
+    {
+        "chapter": "1Chr21",
+        "aggregated_error_rate": 0.050315835329993466
+    },
+    {
+        "chapter": "2Koen20",
+        "aggregated_error_rate": 0.0502652890254119
+    },
+    {
+        "chapter": "Dtn34",
+        "aggregated_error_rate": 0.05025125628140704
+    },
+    {
+        "chapter": "Jes12",
+        "aggregated_error_rate": 0.05021520803443329
+    },
+    {
+        "chapter": "2Makk5",
+        "aggregated_error_rate": 0.050197054552997306
+    },
+    {
+        "chapter": "Ri11",
+        "aggregated_error_rate": 0.050024683231857825
+    },
+    {
+        "chapter": "1Makk7",
+        "aggregated_error_rate": 0.04980724749421742
+    },
+    {
+        "chapter": "Hos3",
+        "aggregated_error_rate": 0.049664429530201344
+    },
+    {
+        "chapter": "2Sam6",
+        "aggregated_error_rate": 0.04956594791374965
+    },
+    {
+        "chapter": "1Sam7",
+        "aggregated_error_rate": 0.04937413073713491
+    },
+    {
+        "chapter": "Gen9",
+        "aggregated_error_rate": 0.049215625961242696
+    },
+    {
+        "chapter": "Rut4",
+        "aggregated_error_rate": 0.049147152356172306
+    },
+    {
+        "chapter": "Ex36",
+        "aggregated_error_rate": 0.049130938586326764
+    },
+    {
+        "chapter": "Num16",
+        "aggregated_error_rate": 0.04904798172124905
+    },
+    {
+        "chapter": "Ps83",
+        "aggregated_error_rate": 0.049003322259136214
+    },
+    {
+        "chapter": "2Chr36",
+        "aggregated_error_rate": 0.0488771466314399
+    },
+    {
+        "chapter": "Jer48",
+        "aggregated_error_rate": 0.048748353096179184
+    },
+    {
+        "chapter": "1Makk11",
+        "aggregated_error_rate": 0.04863133372160745
+    },
+    {
+        "chapter": "Ex30",
+        "aggregated_error_rate": 0.04855254160018236
+    },
+    {
+        "chapter": "Ps96",
+        "aggregated_error_rate": 0.04837209302325581
+    },
+    {
+        "chapter": "Ps67",
+        "aggregated_error_rate": 0.04830393487109905
+    },
+    {
+        "chapter": "1Koen9",
+        "aggregated_error_rate": 0.04824561403508772
+    },
+    {
+        "chapter": "Gen16",
+        "aggregated_error_rate": 0.048216976393771975
+    },
+    {
+        "chapter": "Ps45",
+        "aggregated_error_rate": 0.04804804804804805
+    },
+    {
+        "chapter": "1Makk13",
+        "aggregated_error_rate": 0.04793180547792063
+    },
+    {
+        "chapter": "Num21",
+        "aggregated_error_rate": 0.04781130471738206
+    },
+    {
+        "chapter": "Jes28",
+        "aggregated_error_rate": 0.047607988852763586
+    },
+    {
+        "chapter": "Jos10",
+        "aggregated_error_rate": 0.04753042233357194
+    },
+    {
+        "chapter": "2Chr15",
+        "aggregated_error_rate": 0.047492401215805474
+    },
+    {
+        "chapter": "Est8",
+        "aggregated_error_rate": 0.04721148536720044
+    },
+    {
+        "chapter": "1Sam18",
+        "aggregated_error_rate": 0.04716981132075472
+    },
+    {
+        "chapter": "Jes19",
+        "aggregated_error_rate": 0.046962879640044995
+    },
+    {
+        "chapter": "1Sam31",
+        "aggregated_error_rate": 0.046747967479674794
+    },
+    {
+        "chapter": "Dtn2",
+        "aggregated_error_rate": 0.046411856474258974
+    },
+    {
+        "chapter": "2Chr1",
+        "aggregated_error_rate": 0.04640718562874251
+    },
+    {
+        "chapter": "Ez10",
+        "aggregated_error_rate": 0.04638109305760709
+    },
+    {
+        "chapter": "Gen20",
+        "aggregated_error_rate": 0.04625637005096041
+    },
+    {
+        "chapter": "Esra7",
+        "aggregated_error_rate": 0.04617764030048608
+    },
+    {
+        "chapter": "Jer29",
+        "aggregated_error_rate": 0.04600114525672838
+    },
+    {
+        "chapter": "Ps11",
+        "aggregated_error_rate": 0.04597701149425287
+    },
+    {
+        "chapter": "Ps69",
+        "aggregated_error_rate": 0.045936395759717315
+    },
+    {
+        "chapter": "Ps131",
+        "aggregated_error_rate": 0.04589041095890411
+    },
+    {
+        "chapter": "Ex39",
+        "aggregated_error_rate": 0.04575450945886494
+    },
+    {
+        "chapter": "Est2",
+        "aggregated_error_rate": 0.04547413793103448
+    },
+    {
+        "chapter": "1Makk1",
+        "aggregated_error_rate": 0.045326160053799594
+    },
+    {
+        "chapter": "2Sam19",
+        "aggregated_error_rate": 0.04529201430274136
+    },
+    {
+        "chapter": "Jer47",
+        "aggregated_error_rate": 0.04528985507246377
+    },
+    {
+        "chapter": "Mi1",
+        "aggregated_error_rate": 0.045061447428311335
+    },
+    {
+        "chapter": "1Sam30",
+        "aggregated_error_rate": 0.04502467105263158
+    },
+    {
+        "chapter": "Hld3",
+        "aggregated_error_rate": 0.044661549197487785
+    },
+    {
+        "chapter": "Dtn3",
+        "aggregated_error_rate": 0.0446578631452581
+    },
+    {
+        "chapter": "1Sam23",
+        "aggregated_error_rate": 0.04465258113700719
+    },
+    {
+        "chapter": "Est6",
+        "aggregated_error_rate": 0.04439746300211417
+    },
+    {
+        "chapter": "Gen26",
+        "aggregated_error_rate": 0.044363480497213885
+    },
+    {
+        "chapter": "Ex1",
+        "aggregated_error_rate": 0.04435483870967742
+    },
+    {
+        "chapter": "Est10",
+        "aggregated_error_rate": 0.044291952588895823
+    },
+    {
+        "chapter": "1Koen7",
+        "aggregated_error_rate": 0.04423359615127623
+    },
+    {
+        "chapter": "2Sam5",
+        "aggregated_error_rate": 0.044206876625252814
+    },
+    {
+        "chapter": "Jdt3",
+        "aggregated_error_rate": 0.044189852700491
+    },
+    {
+        "chapter": "1Makk10",
+        "aggregated_error_rate": 0.04418662058750926
+    },
+    {
+        "chapter": "1Sam1",
+        "aggregated_error_rate": 0.04413191076624636
+    },
+    {
+        "chapter": "Hld4",
+        "aggregated_error_rate": 0.043917213528520946
+    },
+    {
+        "chapter": "Tob1",
+        "aggregated_error_rate": 0.043907095132039456
+    },
+    {
+        "chapter": "Jos24",
+        "aggregated_error_rate": 0.04387121069478441
+    },
+    {
+        "chapter": "1Makk3",
+        "aggregated_error_rate": 0.04373215676096548
+    },
+    {
+        "chapter": "Jer43",
+        "aggregated_error_rate": 0.04369369369369369
+    },
+    {
+        "chapter": "Sach8",
+        "aggregated_error_rate": 0.04363336992316136
+    },
+    {
+        "chapter": "1Chr10",
+        "aggregated_error_rate": 0.04345679012345679
+    },
+    {
+        "chapter": "Jer35",
+        "aggregated_error_rate": 0.043329532497149374
+    },
+    {
+        "chapter": "Ps124",
+        "aggregated_error_rate": 0.04330708661417323
+    },
+    {
+        "chapter": "2Koen12",
+        "aggregated_error_rate": 0.04327956989247312
+    },
+    {
+        "chapter": "Ps130",
+        "aggregated_error_rate": 0.04297994269340974
+    },
+    {
+        "chapter": "Jes7",
+        "aggregated_error_rate": 0.04291845493562232
+    },
+    {
+        "chapter": "Ps70",
+        "aggregated_error_rate": 0.042809642560266
+    },
+    {
+        "chapter": "Ps105",
+        "aggregated_error_rate": 0.04271291742169298
+    },
+    {
+        "chapter": "Ex26",
+        "aggregated_error_rate": 0.042704626334519574
+    },
+    {
+        "chapter": "Ez27",
+        "aggregated_error_rate": 0.04270088346655448
+    },
+    {
+        "chapter": "1Makk2",
+        "aggregated_error_rate": 0.04266834487098804
+    },
+    {
+        "chapter": "Am4",
+        "aggregated_error_rate": 0.04242424242424243
+    },
+    {
+        "chapter": "Ps43",
+        "aggregated_error_rate": 0.04229848363926576
+    },
+    {
+        "chapter": "Jer49",
+        "aggregated_error_rate": 0.04207841887153331
+    },
+    {
+        "chapter": "1Makk6",
+        "aggregated_error_rate": 0.04205139615085104
+    },
+    {
+        "chapter": "1Koen18",
+        "aggregated_error_rate": 0.04193049106514704
+    },
+    {
+        "chapter": "Sach1",
+        "aggregated_error_rate": 0.041897720271102896
+    },
+    {
+        "chapter": "Dan1",
+        "aggregated_error_rate": 0.04187437686939183
+    },
+    {
+        "chapter": "Gen49",
+        "aggregated_error_rate": 0.04174573055028463
+    },
+    {
+        "chapter": "Weish11",
+        "aggregated_error_rate": 0.04168012924071082
+    },
+    {
+        "chapter": "2Chr4",
+        "aggregated_error_rate": 0.04162366701066392
+    },
+    {
+        "chapter": "2Koen3",
+        "aggregated_error_rate": 0.04159007352941176
+    },
+    {
+        "chapter": "Ps140",
+        "aggregated_error_rate": 0.04155374887082204
+    },
+    {
+        "chapter": "Sach7",
+        "aggregated_error_rate": 0.04147926036981509
+    },
+    {
+        "chapter": "Jes38",
+        "aggregated_error_rate": 0.04145995747696669
+    },
+    {
+        "chapter": "Hag1",
+        "aggregated_error_rate": 0.041455550437586364
+    },
+    {
+        "chapter": "Neh6",
+        "aggregated_error_rate": 0.04145408163265306
+    },
+    {
+        "chapter": "2Chr24",
+        "aggregated_error_rate": 0.04139661300439055
+    },
+    {
+        "chapter": "Jes57",
+        "aggregated_error_rate": 0.041237113402061855
+    },
+    {
+        "chapter": "Jdt6",
+        "aggregated_error_rate": 0.04118616144975288
+    },
+    {
+        "chapter": "Ps132",
+        "aggregated_error_rate": 0.04105571847507331
+    },
+    {
+        "chapter": "2Chr21",
+        "aggregated_error_rate": 0.041052327262214514
+    },
+    {
+        "chapter": "Num28",
+        "aggregated_error_rate": 0.040821993890585946
+    },
+    {
+        "chapter": "Esra6",
+        "aggregated_error_rate": 0.04071005917159763
+    },
+    {
+        "chapter": "Ex15",
+        "aggregated_error_rate": 0.0405638665132336
+    },
+    {
+        "chapter": "Jer25",
+        "aggregated_error_rate": 0.040561095149569036
+    },
+    {
+        "chapter": "2Koen21",
+        "aggregated_error_rate": 0.040537179806018404
+    },
+    {
+        "chapter": "1Sam14",
+        "aggregated_error_rate": 0.04040176052364293
+    },
+    {
+        "chapter": "Nah1",
+        "aggregated_error_rate": 0.040389294403892946
+    },
+    {
+        "chapter": "1Koen20",
+        "aggregated_error_rate": 0.0403332451732346
+    },
+    {
+        "chapter": "Hos5",
+        "aggregated_error_rate": 0.04032258064516129
+    },
+    {
+        "chapter": "Jdt16",
+        "aggregated_error_rate": 0.040273972602739724
+    },
+    {
+        "chapter": "Gen45",
+        "aggregated_error_rate": 0.04014318588596267
+    },
+    {
+        "chapter": "Ps135",
+        "aggregated_error_rate": 0.04
+    },
+    {
+        "chapter": "Ri18",
+        "aggregated_error_rate": 0.03997636864907444
+    },
+    {
+        "chapter": "Ps79",
+        "aggregated_error_rate": 0.03995433789954338
+    },
+    {
+        "chapter": "Ps81",
+        "aggregated_error_rate": 0.039938556067588324
+    },
+    {
+        "chapter": "Jer21",
+        "aggregated_error_rate": 0.039805036555645816
+    },
+    {
+        "chapter": "Sir48",
+        "aggregated_error_rate": 0.03978602474088933
+    },
+    {
+        "chapter": "Zef2",
+        "aggregated_error_rate": 0.03970826580226904
+    },
+    {
+        "chapter": "Gen40",
+        "aggregated_error_rate": 0.03968253968253968
+    },
+    {
+        "chapter": "Hos12",
+        "aggregated_error_rate": 0.039579468150896725
+    },
+    {
+        "chapter": "Jes40",
+        "aggregated_error_rate": 0.03951057863879684
+    },
+    {
+        "chapter": "2Chr30",
+        "aggregated_error_rate": 0.0395045910740978
+    },
+    {
+        "chapter": "Jos3",
+        "aggregated_error_rate": 0.03949275362318841
+    },
+    {
+        "chapter": "1Sam5",
+        "aggregated_error_rate": 0.03939269593762823
+    },
+    {
+        "chapter": "Am6",
+        "aggregated_error_rate": 0.03938185443668993
+    },
+    {
+        "chapter": "Jer46",
+        "aggregated_error_rate": 0.03930635838150289
+    },
+    {
+        "chapter": "1Makk5",
+        "aggregated_error_rate": 0.039268136101005775
+    },
+    {
+        "chapter": "Ps54",
+        "aggregated_error_rate": 0.039206849932401984
+    },
+    {
+        "chapter": "Am7",
+        "aggregated_error_rate": 0.039190897597977246
+    },
+    {
+        "chapter": "Ps29",
+        "aggregated_error_rate": 0.03916666666666667
+    },
+    {
+        "chapter": "Hab3",
+        "aggregated_error_rate": 0.03916027452563585
+    },
+    {
+        "chapter": "Klgl1",
+        "aggregated_error_rate": 0.03906062784567457
+    },
+    {
+        "chapter": "Dan5",
+        "aggregated_error_rate": 0.03895619757688723
+    },
+    {
+        "chapter": "Jes20",
+        "aggregated_error_rate": 0.03894839337877313
+    },
+    {
+        "chapter": "Ez23",
+        "aggregated_error_rate": 0.03891591382904795
+    },
+    {
+        "chapter": "Est5",
+        "aggregated_error_rate": 0.03884661593912695
+    },
+    {
+        "chapter": "Ex28",
+        "aggregated_error_rate": 0.03884145320609409
+    },
+    {
+        "chapter": "1Sam21",
+        "aggregated_error_rate": 0.038704581358609796
+    },
+    {
+        "chapter": "Jos22",
+        "aggregated_error_rate": 0.038623713948389274
+    },
+    {
+        "chapter": "Ps47",
+        "aggregated_error_rate": 0.038461538461538464
+    },
+    {
+        "chapter": "Num24",
+        "aggregated_error_rate": 0.03841642228739003
+    },
+    {
+        "chapter": "Ez16",
+        "aggregated_error_rate": 0.03838970740817597
+    },
+    {
+        "chapter": "2Chr18",
+        "aggregated_error_rate": 0.03834043341359511
+    },
+    {
+        "chapter": "Lev8",
+        "aggregated_error_rate": 0.038331929233361414
+    },
+    {
+        "chapter": "Dtn8",
+        "aggregated_error_rate": 0.03830779480346436
+    },
+    {
+        "chapter": "Am2",
+        "aggregated_error_rate": 0.038256658595641646
+    },
+    {
+        "chapter": "2Koen11",
+        "aggregated_error_rate": 0.03820741166331514
+    },
+    {
+        "chapter": "1Makk14",
+        "aggregated_error_rate": 0.03806513673216985
+    },
+    {
+        "chapter": "Jer38",
+        "aggregated_error_rate": 0.03805413887799137
+    },
+    {
+        "chapter": "Jer32",
+        "aggregated_error_rate": 0.0380057212913772
+    },
+    {
+        "chapter": "Weish15",
+        "aggregated_error_rate": 0.03800475059382423
+    },
+    {
+        "chapter": "Jes18",
+        "aggregated_error_rate": 0.03794642857142857
+    },
+    {
+        "chapter": "Jdt8",
+        "aggregated_error_rate": 0.037942122186495175
+    },
+    {
+        "chapter": "Bar1",
+        "aggregated_error_rate": 0.03790664780763791
+    },
+    {
+        "chapter": "1Koen1",
+        "aggregated_error_rate": 0.0378893833439288
+    },
+    {
+        "chapter": "2Chr34",
+        "aggregated_error_rate": 0.03783164100884376
+    },
+    {
+        "chapter": "Jer37",
+        "aggregated_error_rate": 0.03782945736434108
+    },
+    {
+        "chapter": "Gen33",
+        "aggregated_error_rate": 0.03780578206078577
+    },
+    {
+        "chapter": "Sir49",
+        "aggregated_error_rate": 0.03777239709443099
+    },
+    {
+        "chapter": "Am5",
+        "aggregated_error_rate": 0.03776390127862028
+    },
+    {
+        "chapter": "Jdt7",
+        "aggregated_error_rate": 0.03772151898734177
+    },
+    {
+        "chapter": "1Koen19",
+        "aggregated_error_rate": 0.03772091796359799
+    },
+    {
+        "chapter": "Jes52",
+        "aggregated_error_rate": 0.03763440860215054
+    },
+    {
+        "chapter": "Ijob1",
+        "aggregated_error_rate": 0.03759854457246816
+    },
+    {
+        "chapter": "Jos5",
+        "aggregated_error_rate": 0.03753869969040248
+    },
+    {
+        "chapter": "2Koen2",
+        "aggregated_error_rate": 0.03750901659052657
+    },
+    {
+        "chapter": "Ps19",
+        "aggregated_error_rate": 0.0375
+    },
+    {
+        "chapter": "Dtn1",
+        "aggregated_error_rate": 0.03746811224489796
+    },
+    {
+        "chapter": "Est12",
+        "aggregated_error_rate": 0.03740157480314961
+    },
+    {
+        "chapter": "Num20",
+        "aggregated_error_rate": 0.03733459357277883
+    },
+    {
+        "chapter": "Jes10",
+        "aggregated_error_rate": 0.03724079559881507
+    },
+    {
+        "chapter": "Ps35",
+        "aggregated_error_rate": 0.03722504230118443
+    },
+    {
+        "chapter": "2Chr10",
+        "aggregated_error_rate": 0.03717472118959108
+    },
+    {
+        "chapter": "Ps136",
+        "aggregated_error_rate": 0.03716608594657375
+    },
+    {
+        "chapter": "Rut2",
+        "aggregated_error_rate": 0.03715958259099007
+    },
+    {
+        "chapter": "Num27",
+        "aggregated_error_rate": 0.03712959657265263
+    },
+    {
+        "chapter": "Ex24",
+        "aggregated_error_rate": 0.03712871287128713
+    },
+    {
+        "chapter": "Ez29",
+        "aggregated_error_rate": 0.03709810387469085
+    },
+    {
+        "chapter": "Hld8",
+        "aggregated_error_rate": 0.03709765411893071
+    },
+    {
+        "chapter": "Num22",
+        "aggregated_error_rate": 0.037077625570776256
+    },
+    {
+        "chapter": "Est7",
+        "aggregated_error_rate": 0.03705583756345178
+    },
+    {
+        "chapter": "Jer36",
+        "aggregated_error_rate": 0.037037037037037035
+    },
+    {
+        "chapter": "Ps107",
+        "aggregated_error_rate": 0.03690685413005272
+    },
+    {
+        "chapter": "2Makk15",
+        "aggregated_error_rate": 0.03689456198636125
+    },
+    {
+        "chapter": "Jer27",
+        "aggregated_error_rate": 0.0368862884762147
+    },
+    {
+        "chapter": "Ex17",
+        "aggregated_error_rate": 0.03684438664932813
+    },
+    {
+        "chapter": "Ps24",
+        "aggregated_error_rate": 0.036833424958768554
+    },
+    {
+        "chapter": "Ps3",
+        "aggregated_error_rate": 0.036775106082036775
+    },
+    {
+        "chapter": "Ps25",
+        "aggregated_error_rate": 0.03650336215177714
+    },
+    {
+        "chapter": "2Koen5",
+        "aggregated_error_rate": 0.03648915187376726
+    },
+    {
+        "chapter": "Jdt15",
+        "aggregated_error_rate": 0.036449399656946824
+    },
+    {
+        "chapter": "Hos8",
+        "aggregated_error_rate": 0.03642572566875356
+    },
+    {
+        "chapter": "Ps139",
+        "aggregated_error_rate": 0.03639240506329114
+    },
+    {
+        "chapter": "Lev23",
+        "aggregated_error_rate": 0.03596034279952949
+    },
+    {
+        "chapter": "1Sam26",
+        "aggregated_error_rate": 0.03595852636223252
+    },
+    {
+        "chapter": "Ri15",
+        "aggregated_error_rate": 0.035852178709321565
+    },
+    {
+        "chapter": "Jes64",
+        "aggregated_error_rate": 0.03584672435105068
+    },
+    {
+        "chapter": "Ri21",
+        "aggregated_error_rate": 0.0358451072736787
+    },
+    {
+        "chapter": "Zef1",
+        "aggregated_error_rate": 0.03579175704989154
+    },
+    {
+        "chapter": "Sir47",
+        "aggregated_error_rate": 0.03573591762568141
+    },
+    {
+        "chapter": "2Makk6",
+        "aggregated_error_rate": 0.035678889990089196
+    },
+    {
+        "chapter": "1Sam15",
+        "aggregated_error_rate": 0.035587851686230666
+    },
+    {
+        "chapter": "Dtn33",
+        "aggregated_error_rate": 0.03556263269639066
+    },
+    {
+        "chapter": "Jer17",
+        "aggregated_error_rate": 0.03543307086614173
+    },
+    {
+        "chapter": "Ps142",
+        "aggregated_error_rate": 0.035303146584804296
+    },
+    {
+        "chapter": "Esra5",
+        "aggregated_error_rate": 0.03529034327879371
+    },
+    {
+        "chapter": "Ri2",
+        "aggregated_error_rate": 0.035287255759696705
+    },
+    {
+        "chapter": "Ps126",
+        "aggregated_error_rate": 0.03523489932885906
+    },
+    {
+        "chapter": "Ps5",
+        "aggregated_error_rate": 0.03519510328997705
+    },
+    {
+        "chapter": "Hld7",
+        "aggregated_error_rate": 0.03512259774685222
+    },
+    {
+        "chapter": "Num23",
+        "aggregated_error_rate": 0.0350498786734969
+    },
+    {
+        "chapter": "1Sam17",
+        "aggregated_error_rate": 0.03504928806133625
+    },
+    {
+        "chapter": "1Sam19",
+        "aggregated_error_rate": 0.03503763301323644
+    },
+    {
+        "chapter": "Ps92",
+        "aggregated_error_rate": 0.03496503496503497
+    },
+    {
+        "chapter": "Ps28",
+        "aggregated_error_rate": 0.034958601655933765
+    },
+    {
+        "chapter": "Gen34",
+        "aggregated_error_rate": 0.03493788819875776
+    },
+    {
+        "chapter": "Jer20",
+        "aggregated_error_rate": 0.03488
+    },
+    {
+        "chapter": "Ex12",
+        "aggregated_error_rate": 0.03486941063858882
+    },
+    {
+        "chapter": "Ps60",
+        "aggregated_error_rate": 0.03486750348675035
+    },
+    {
+        "chapter": "Jes16",
+        "aggregated_error_rate": 0.0347985347985348
+    },
+    {
+        "chapter": "2Sam14",
+        "aggregated_error_rate": 0.03469704816157431
+    },
+    {
+        "chapter": "Jes21",
+        "aggregated_error_rate": 0.03466286799620133
+    },
+    {
+        "chapter": "Hld6",
+        "aggregated_error_rate": 0.034532374100719423
+    },
+    {
+        "chapter": "Jos8",
+        "aggregated_error_rate": 0.0344885598923284
+    },
+    {
+        "chapter": "Jos6",
+        "aggregated_error_rate": 0.03447493762757995
+    },
+    {
+        "chapter": "Ps78",
+        "aggregated_error_rate": 0.03436426116838488
+    },
+    {
+        "chapter": "Jes63",
+        "aggregated_error_rate": 0.03407095187917106
+    },
+    {
+        "chapter": "Gen21",
+        "aggregated_error_rate": 0.034060670569451834
+    },
+    {
+        "chapter": "Dtn29",
+        "aggregated_error_rate": 0.03404761904761905
+    },
+    {
+        "chapter": "Ps143",
+        "aggregated_error_rate": 0.034009156311314584
+    },
+    {
+        "chapter": "Tob7",
+        "aggregated_error_rate": 0.033818493150684935
+    },
+    {
+        "chapter": "Esra3",
+        "aggregated_error_rate": 0.03381472349418809
+    },
+    {
+        "chapter": "1Makk8",
+        "aggregated_error_rate": 0.03376205787781351
+    },
+    {
+        "chapter": "Hos10",
+        "aggregated_error_rate": 0.0337437300501596
+    },
+    {
+        "chapter": "Jos9",
+        "aggregated_error_rate": 0.033723989476201865
+    },
+    {
+        "chapter": "1Sam29",
+        "aggregated_error_rate": 0.03372302158273381
+    },
+    {
+        "chapter": "Jes26",
+        "aggregated_error_rate": 0.033682634730538924
+    },
+    {
+        "chapter": "Ps90",
+        "aggregated_error_rate": 0.03365384615384615
+    },
+    {
+        "chapter": "Sach6",
+        "aggregated_error_rate": 0.033625730994152045
+    },
+    {
+        "chapter": "Est16",
+        "aggregated_error_rate": 0.03358500390523301
+    },
+    {
+        "chapter": "Ps32",
+        "aggregated_error_rate": 0.033541785105173395
+    },
+    {
+        "chapter": "Ex14",
+        "aggregated_error_rate": 0.033532678342588634
+    },
+    {
+        "chapter": "Ri14",
+        "aggregated_error_rate": 0.033527292878913824
+    },
+    {
+        "chapter": "Sach4",
+        "aggregated_error_rate": 0.033482142857142856
+    },
+    {
+        "chapter": "2Chr23",
+        "aggregated_error_rate": 0.03344067376764925
+    },
+    {
+        "chapter": "Lev9",
+        "aggregated_error_rate": 0.03337696335078534
+    },
+    {
+        "chapter": "Gen30",
+        "aggregated_error_rate": 0.03333964766054177
+    },
+    {
+        "chapter": "Jes3",
+        "aggregated_error_rate": 0.03333333333333333
+    },
+    {
+        "chapter": "Ps98",
+        "aggregated_error_rate": 0.033218785796105384
+    },
+    {
+        "chapter": "Sach13",
+        "aggregated_error_rate": 0.033218785796105384
+    },
+    {
+        "chapter": "Gen28",
+        "aggregated_error_rate": 0.033201840894148585
+    },
+    {
+        "chapter": "2Chr7",
+        "aggregated_error_rate": 0.03318754823771546
+    },
+    {
+        "chapter": "Hos6",
+        "aggregated_error_rate": 0.033182503770739065
+    },
+    {
+        "chapter": "Jdt4",
+        "aggregated_error_rate": 0.03317328677433435
+    },
+    {
+        "chapter": "2Chr5",
+        "aggregated_error_rate": 0.03307027433295753
+    },
+    {
+        "chapter": "Ez30",
+        "aggregated_error_rate": 0.033068443988720844
+    },
+    {
+        "chapter": "Neh1",
+        "aggregated_error_rate": 0.03305785123966942
+    },
+    {
+        "chapter": "Neh13",
+        "aggregated_error_rate": 0.033010813887307915
+    },
+    {
+        "chapter": "Ps80",
+        "aggregated_error_rate": 0.032913165266106444
+    },
+    {
+        "chapter": "Obd1",
+        "aggregated_error_rate": 0.03279684178560583
+    },
+    {
+        "chapter": "Mal1",
+        "aggregated_error_rate": 0.03276190476190476
+    },
+    {
+        "chapter": "Jdt5",
+        "aggregated_error_rate": 0.03272804054054054
+    },
+    {
+        "chapter": "Dtn32",
+        "aggregated_error_rate": 0.03272392072514979
+    },
+    {
+        "chapter": "Gen22",
+        "aggregated_error_rate": 0.032692307692307694
+    },
+    {
+        "chapter": "Ps55",
+        "aggregated_error_rate": 0.032649962034927864
+    },
+    {
+        "chapter": "2Koen4",
+        "aggregated_error_rate": 0.03251912889935256
+    },
+    {
+        "chapter": "Jes24",
+        "aggregated_error_rate": 0.032437745740498035
+    },
+    {
+        "chapter": "Ez43",
+        "aggregated_error_rate": 0.03240529438612506
+    },
+    {
+        "chapter": "Ri16",
+        "aggregated_error_rate": 0.032372881355932207
+    },
+    {
+        "chapter": "Ps100",
+        "aggregated_error_rate": 0.03236607142857143
+    },
+    {
+        "chapter": "Lev10",
+        "aggregated_error_rate": 0.03236342042755344
+    },
+    {
+        "chapter": "Sach12",
+        "aggregated_error_rate": 0.03229865771812081
+    },
+    {
+        "chapter": "Ez46",
+        "aggregated_error_rate": 0.03226583192872622
+    },
+    {
+        "chapter": "Ijob20",
+        "aggregated_error_rate": 0.032245681381957776
+    },
+    {
+        "chapter": "Ex11",
+        "aggregated_error_rate": 0.03215223097112861
+    },
+    {
+        "chapter": "Jer26",
+        "aggregated_error_rate": 0.032122559920929085
+    },
+    {
+        "chapter": "Ex18",
+        "aggregated_error_rate": 0.032101429727542485
+    },
+    {
+        "chapter": "Ex13",
+        "aggregated_error_rate": 0.03199760765550239
+    },
+    {
+        "chapter": "Gen29",
+        "aggregated_error_rate": 0.031986114554921896
+    },
+    {
+        "chapter": "Sach5",
+        "aggregated_error_rate": 0.031978680879413725
+    },
+    {
+        "chapter": "Ps64",
+        "aggregated_error_rate": 0.03196022727272727
+    },
+    {
+        "chapter": "Hos9",
+        "aggregated_error_rate": 0.03194500606550748
+    },
+    {
+        "chapter": "Ex3",
+        "aggregated_error_rate": 0.03185224839400428
+    },
+    {
+        "chapter": "Spr16",
+        "aggregated_error_rate": 0.031807060468367704
+    },
+    {
+        "chapter": "Ps99",
+        "aggregated_error_rate": 0.03178484107579462
+    },
+    {
+        "chapter": "Jes55",
+        "aggregated_error_rate": 0.03177966101694915
+    },
+    {
+        "chapter": "2Sam1",
+        "aggregated_error_rate": 0.03177304964539007
+    },
+    {
+        "chapter": "Ps4",
+        "aggregated_error_rate": 0.03176470588235294
+    },
+    {
+        "chapter": "Tob3",
+        "aggregated_error_rate": 0.031711145996860285
+    },
+    {
+        "chapter": "2Chr19",
+        "aggregated_error_rate": 0.03159941662615459
+    },
+    {
+        "chapter": "Jer11",
+        "aggregated_error_rate": 0.031508264462809916
+    },
+    {
+        "chapter": "Dan10",
+        "aggregated_error_rate": 0.03150074294205052
+    },
+    {
+        "chapter": "Gen41",
+        "aggregated_error_rate": 0.031408914148967994
+    },
+    {
+        "chapter": "Num11",
+        "aggregated_error_rate": 0.03138755980861244
+    },
+    {
+        "chapter": "Jer7",
+        "aggregated_error_rate": 0.031328563140591764
+    },
+    {
+        "chapter": "Weish12",
+        "aggregated_error_rate": 0.031297709923664124
+    },
+    {
+        "chapter": "Jes65",
+        "aggregated_error_rate": 0.031288800595977155
+    },
+    {
+        "chapter": "Ps144",
+        "aggregated_error_rate": 0.03128555176336746
+    },
+    {
+        "chapter": "Mal3",
+        "aggregated_error_rate": 0.03125
+    },
+    {
+        "chapter": "Ps20",
+        "aggregated_error_rate": 0.03125
+    },
+    {
+        "chapter": "Jer50",
+        "aggregated_error_rate": 0.03119168221807518
+    },
+    {
+        "chapter": "Num14",
+        "aggregated_error_rate": 0.031175468483816013
+    },
+    {
+        "chapter": "Gen6",
+        "aggregated_error_rate": 0.031158357771260997
+    },
+    {
+        "chapter": "Jdt14",
+        "aggregated_error_rate": 0.03108211818879509
+    },
+    {
+        "chapter": "Ps91",
+        "aggregated_error_rate": 0.03099510603588907
+    },
+    {
+        "chapter": "Ps27",
+        "aggregated_error_rate": 0.030937215650591446
+    },
+    {
+        "chapter": "Lev12",
+        "aggregated_error_rate": 0.03088803088803089
+    },
+    {
+        "chapter": "Ez35",
+        "aggregated_error_rate": 0.030878859857482184
+    },
+    {
+        "chapter": "Ijob19",
+        "aggregated_error_rate": 0.03085966201322557
+    },
+    {
+        "chapter": "Sir41",
+        "aggregated_error_rate": 0.030829199149539334
+    },
+    {
+        "chapter": "Jer6",
+        "aggregated_error_rate": 0.030821917808219176
+    },
+    {
+        "chapter": "Lev7",
+        "aggregated_error_rate": 0.030802139037433156
+    },
+    {
+        "chapter": "Nah2",
+        "aggregated_error_rate": 0.030795072788353865
+    },
+    {
+        "chapter": "Ez19",
+        "aggregated_error_rate": 0.030786146234194612
+    },
+    {
+        "chapter": "Ps94",
+        "aggregated_error_rate": 0.030784508440913606
+    },
+    {
+        "chapter": "Ps53",
+        "aggregated_error_rate": 0.03076923076923077
+    },
+    {
+        "chapter": "Spr25",
+        "aggregated_error_rate": 0.030738389575676577
+    },
+    {
+        "chapter": "Ps6",
+        "aggregated_error_rate": 0.030601092896174863
+    },
+    {
+        "chapter": "Dan7",
+        "aggregated_error_rate": 0.030495292672943104
+    },
+    {
+        "chapter": "Ps76",
+        "aggregated_error_rate": 0.030470914127423823
+    },
+    {
+        "chapter": "Ez22",
+        "aggregated_error_rate": 0.03046028880866426
+    },
+    {
+        "chapter": "Sir24",
+        "aggregated_error_rate": 0.030375352571056627
+    },
+    {
+        "chapter": "Hos11",
+        "aggregated_error_rate": 0.030339083878643664
+    },
+    {
+        "chapter": "Ps87",
+        "aggregated_error_rate": 0.030303030303030304
+    },
+    {
+        "chapter": "Jes32",
+        "aggregated_error_rate": 0.03023758099352052
+    },
+    {
+        "chapter": "Hos2",
+        "aggregated_error_rate": 0.030213270142180094
+    },
+    {
+        "chapter": "Ps133",
+        "aggregated_error_rate": 0.03018867924528302
+    },
+    {
+        "chapter": "Ps16",
+        "aggregated_error_rate": 0.03015075376884422
+    },
+    {
+        "chapter": "Dtn31",
+        "aggregated_error_rate": 0.030124040165386886
+    },
+    {
+        "chapter": "Jer44",
+        "aggregated_error_rate": 0.030121431950796404
+    },
+    {
+        "chapter": "Ps38",
+        "aggregated_error_rate": 0.03006012024048096
+    },
+    {
+        "chapter": "Jes13",
+        "aggregated_error_rate": 0.029933867037939436
+    },
+    {
+        "chapter": "Jer34",
+        "aggregated_error_rate": 0.02991162474507138
+    },
+    {
+        "chapter": "2Koen6",
+        "aggregated_error_rate": 0.029911231184870705
+    },
+    {
+        "chapter": "Ri6",
+        "aggregated_error_rate": 0.02985553772070626
+    },
+    {
+        "chapter": "Ps7",
+        "aggregated_error_rate": 0.029792017987633503
+    },
+    {
+        "chapter": "Ijob5",
+        "aggregated_error_rate": 0.029787234042553193
+    },
+    {
+        "chapter": "Mal4",
+        "aggregated_error_rate": 0.029692470837751856
+    },
+    {
+        "chapter": "Lev11",
+        "aggregated_error_rate": 0.02968421052631579
+    },
+    {
+        "chapter": "Jona1",
+        "aggregated_error_rate": 0.029662738724095895
+    },
+    {
+        "chapter": "Ps30",
+        "aggregated_error_rate": 0.02965344765987853
+    },
+    {
+        "chapter": "Ijob39",
+        "aggregated_error_rate": 0.029640084685956247
+    },
+    {
+        "chapter": "Dtn20",
+        "aggregated_error_rate": 0.02963184675246932
+    },
+    {
+        "chapter": "Hos7",
+        "aggregated_error_rate": 0.02960222016651249
+    },
+    {
+        "chapter": "Ps2",
+        "aggregated_error_rate": 0.029585798816568046
+    },
+    {
+        "chapter": "Joel2",
+        "aggregated_error_rate": 0.029574468085106383
+    },
+    {
+        "chapter": "Ijob29",
+        "aggregated_error_rate": 0.02956604673342871
+    },
+    {
+        "chapter": "Mi2",
+        "aggregated_error_rate": 0.029426189308484552
+    },
+    {
+        "chapter": "Gen2",
+        "aggregated_error_rate": 0.029411764705882353
+    },
+    {
+        "chapter": "Ps71",
+        "aggregated_error_rate": 0.029177718832891247
+    },
+    {
+        "chapter": "Ez32",
+        "aggregated_error_rate": 0.02912621359223301
+    },
+    {
+        "chapter": "Ps12",
+        "aggregated_error_rate": 0.02909647779479326
+    },
+    {
+        "chapter": "Num18",
+        "aggregated_error_rate": 0.029087261785356068
+    },
+    {
+        "chapter": "Ijob9",
+        "aggregated_error_rate": 0.029063872930043935
+    },
+    {
+        "chapter": "Ps97",
+        "aggregated_error_rate": 0.02904040404040404
+    },
+    {
+        "chapter": "Dtn7",
+        "aggregated_error_rate": 0.028965195047886007
+    },
+    {
+        "chapter": "Tob8",
+        "aggregated_error_rate": 0.02892287234042553
+    },
+    {
+        "chapter": "Jes31",
+        "aggregated_error_rate": 0.028912633563796353
+    },
+    {
+        "chapter": "Jer22",
+        "aggregated_error_rate": 0.028846153846153848
+    },
+    {
+        "chapter": "Ps89",
+        "aggregated_error_rate": 0.02877697841726619
+    },
+    {
+        "chapter": "Spr9",
+        "aggregated_error_rate": 0.028701891715590344
+    },
+    {
+        "chapter": "Ijob30",
+        "aggregated_error_rate": 0.028672566371681415
+    },
+    {
+        "chapter": "Jdt12",
+        "aggregated_error_rate": 0.02866117000392619
+    },
+    {
+        "chapter": "Jes1",
+        "aggregated_error_rate": 0.028585389689714146
+    },
+    {
+        "chapter": "2Sam22",
+        "aggregated_error_rate": 0.028577432233662534
+    },
+    {
+        "chapter": "Ps65",
+        "aggregated_error_rate": 0.02857142857142857
+    },
+    {
+        "chapter": "Neh2",
+        "aggregated_error_rate": 0.028509367363562313
+    },
+    {
+        "chapter": "Ex4",
+        "aggregated_error_rate": 0.028502415458937197
+    },
+    {
+        "chapter": "Joel3",
+        "aggregated_error_rate": 0.028416779431664412
+    },
+    {
+        "chapter": "Jdt11",
+        "aggregated_error_rate": 0.028410967955071028
+    },
+    {
+        "chapter": "Ex7",
+        "aggregated_error_rate": 0.028237307472903594
+    },
+    {
+        "chapter": "Dtn11",
+        "aggregated_error_rate": 0.028208092485549133
+    },
+    {
+        "chapter": "Ri13",
+        "aggregated_error_rate": 0.028188286808976466
+    },
+    {
+        "chapter": "Ijob28",
+        "aggregated_error_rate": 0.028132992327365727
+    },
+    {
+        "chapter": "Dan14",
+        "aggregated_error_rate": 0.028119507908611598
+    },
+    {
+        "chapter": "Sir51",
+        "aggregated_error_rate": 0.028079710144927536
+    },
+    {
+        "chapter": "Jes41",
+        "aggregated_error_rate": 0.028011898859692613
+    },
+    {
+        "chapter": "Hab1",
+        "aggregated_error_rate": 0.027958993476234855
+    },
+    {
+        "chapter": "Ez21",
+        "aggregated_error_rate": 0.02793994995829858
+    },
+    {
+        "chapter": "Ex9",
+        "aggregated_error_rate": 0.027935222672064778
+    },
+    {
+        "chapter": "Ijob32",
+        "aggregated_error_rate": 0.027884615384615386
+    },
+    {
+        "chapter": "Jer31",
+        "aggregated_error_rate": 0.02787188173698799
+    },
+    {
+        "chapter": "Jes8",
+        "aggregated_error_rate": 0.027833001988071572
+    },
+    {
+        "chapter": "Num8",
+        "aggregated_error_rate": 0.027785988767366245
+    },
+    {
+        "chapter": "Nah3",
+        "aggregated_error_rate": 0.027682973075464544
+    },
+    {
+        "chapter": "Sir10",
+        "aggregated_error_rate": 0.027649769585253458
+    },
+    {
+        "chapter": "Ez38",
+        "aggregated_error_rate": 0.0276369168356998
+    },
+    {
+        "chapter": "Num12",
+        "aggregated_error_rate": 0.02763018065887354
+    },
+    {
+        "chapter": "Mi6",
+        "aggregated_error_rate": 0.02762192490289167
+    },
+    {
+        "chapter": "Jes11",
+        "aggregated_error_rate": 0.02758881330309902
+    },
+    {
+        "chapter": "Ez25",
+        "aggregated_error_rate": 0.027581065970928065
+    },
+    {
+        "chapter": "Ps102",
+        "aggregated_error_rate": 0.027548209366391185
+    },
+    {
+        "chapter": "Ez28",
+        "aggregated_error_rate": 0.027543424317617866
+    },
+    {
+        "chapter": "Ex31",
+        "aggregated_error_rate": 0.02745664739884393
+    },
+    {
+        "chapter": "Spr7",
+        "aggregated_error_rate": 0.027439024390243903
+    },
+    {
+        "chapter": "Ez1",
+        "aggregated_error_rate": 0.02743142144638404
+    },
+    {
+        "chapter": "Ps119",
+        "aggregated_error_rate": 0.027422303473491772
+    },
+    {
+        "chapter": "Jos20",
+        "aggregated_error_rate": 0.027389277389277388
+    },
+    {
+        "chapter": "Hos13",
+        "aggregated_error_rate": 0.02738283307003686
+    },
+    {
+        "chapter": "Tob11",
+        "aggregated_error_rate": 0.02735674676524954
+    },
+    {
+        "chapter": "Gen13",
+        "aggregated_error_rate": 0.02734375
+    },
+    {
+        "chapter": "Dan9",
+        "aggregated_error_rate": 0.02733485193621868
+    },
+    {
+        "chapter": "Ps95",
+        "aggregated_error_rate": 0.027301092043681748
+    },
+    {
+        "chapter": "Joel1",
+        "aggregated_error_rate": 0.027213647441104792
+    },
+    {
+        "chapter": "Am3",
+        "aggregated_error_rate": 0.02717391304347826
+    },
+    {
+        "chapter": "Ps123",
+        "aggregated_error_rate": 0.027156549520766772
+    },
+    {
+        "chapter": "Jes49",
+        "aggregated_error_rate": 0.027139874739039668
+    },
+    {
+        "chapter": "Gen39",
+        "aggregated_error_rate": 0.027102154273801252
+    },
+    {
+        "chapter": "Weish19",
+        "aggregated_error_rate": 0.027043829654958034
+    },
+    {
+        "chapter": "Jdt9",
+        "aggregated_error_rate": 0.027016742770167426
+    },
+    {
+        "chapter": "Ex2",
+        "aggregated_error_rate": 0.02699530516431925
+    },
+    {
+        "chapter": "Ez5",
+        "aggregated_error_rate": 0.02694136291600634
+    },
+    {
+        "chapter": "Dan4",
+        "aggregated_error_rate": 0.026928895612708018
+    },
+    {
+        "chapter": "Ex8",
+        "aggregated_error_rate": 0.026896828582898435
+    },
+    {
+        "chapter": "Ps63",
+        "aggregated_error_rate": 0.02679528403001072
+    },
+    {
+        "chapter": "Weish18",
+        "aggregated_error_rate": 0.026783346592415803
+    },
+    {
+        "chapter": "1Koen8",
+        "aggregated_error_rate": 0.026752850345632462
+    },
+    {
+        "chapter": "Ijob37",
+        "aggregated_error_rate": 0.026743075453677174
+    },
+    {
+        "chapter": "Esra9",
+        "aggregated_error_rate": 0.026718703092164516
+    },
+    {
+        "chapter": "Ps51",
+        "aggregated_error_rate": 0.02654867256637168
+    },
+    {
+        "chapter": "Ez6",
+        "aggregated_error_rate": 0.026503996634413125
+    },
+    {
+        "chapter": "Gen24",
+        "aggregated_error_rate": 0.026344202116173613
+    },
+    {
+        "chapter": "Ijob4",
+        "aggregated_error_rate": 0.02631578947368421
+    },
+    {
+        "chapter": "Ps68",
+        "aggregated_error_rate": 0.026270702455739578
+    },
+    {
+        "chapter": "Jes58",
+        "aggregated_error_rate": 0.02625739644970414
+    },
+    {
+        "chapter": "Sir22",
+        "aggregated_error_rate": 0.026256352343308864
+    },
+    {
+        "chapter": "Jer18",
+        "aggregated_error_rate": 0.026244343891402715
+    },
+    {
+        "chapter": "Spr31",
+        "aggregated_error_rate": 0.02624142107387969
+    },
+    {
+        "chapter": "1Sam2",
+        "aggregated_error_rate": 0.02613713509843856
+    },
+    {
+        "chapter": "Tob10",
+        "aggregated_error_rate": 0.026121241991128634
+    },
+    {
+        "chapter": "Ijob25",
+        "aggregated_error_rate": 0.02608695652173913
+    },
+    {
+        "chapter": "1Sam9",
+        "aggregated_error_rate": 0.02605534235507978
+    },
+    {
+        "chapter": "Jer19",
+        "aggregated_error_rate": 0.026047166490672298
+    },
+    {
+        "chapter": "Jes14",
+        "aggregated_error_rate": 0.02604281615537409
+    },
+    {
+        "chapter": "Dtn12",
+        "aggregated_error_rate": 0.026038560922281854
+    },
+    {
+        "chapter": "Weish7",
+        "aggregated_error_rate": 0.026035834266517358
+    },
+    {
+        "chapter": "Ps106",
+        "aggregated_error_rate": 0.026023391812865497
+    },
+    {
+        "chapter": "Ez15",
+        "aggregated_error_rate": 0.02600896860986547
+    },
+    {
+        "chapter": "Ez11",
+        "aggregated_error_rate": 0.025974025974025976
+    },
+    {
+        "chapter": "Jdt13",
+        "aggregated_error_rate": 0.025953859804791483
+    },
+    {
+        "chapter": "Neh4",
+        "aggregated_error_rate": 0.025905292479108635
+    },
+    {
+        "chapter": "Am9",
+        "aggregated_error_rate": 0.02576197387518142
+    },
+    {
+        "chapter": "1Sam10",
+        "aggregated_error_rate": 0.025740318906605924
+    },
+    {
+        "chapter": "Ps26",
+        "aggregated_error_rate": 0.02565597667638484
+    },
+    {
+        "chapter": "Spr21",
+        "aggregated_error_rate": 0.025650557620817842
+    },
+    {
+        "chapter": "Jer42",
+        "aggregated_error_rate": 0.02564794816414687
+    },
+    {
+        "chapter": "Sir23",
+        "aggregated_error_rate": 0.02553191489361702
+    },
+    {
+        "chapter": "Weish10",
+        "aggregated_error_rate": 0.025528811086797956
+    },
+    {
+        "chapter": "Lev21",
+        "aggregated_error_rate": 0.02549286199864038
+    },
+    {
+        "chapter": "Ps117",
+        "aggregated_error_rate": 0.025477707006369428
+    },
+    {
+        "chapter": "Dan6",
+        "aggregated_error_rate": 0.025458248472505093
+    },
+    {
+        "chapter": "Dan8",
+        "aggregated_error_rate": 0.025405786873676783
+    },
+    {
+        "chapter": "Sir44",
+        "aggregated_error_rate": 0.025400547088706527
+    },
+    {
+        "chapter": "Gen17",
+        "aggregated_error_rate": 0.025383542538354256
+    },
+    {
+        "chapter": "1Koen17",
+        "aggregated_error_rate": 0.02536873156342183
+    },
+    {
+        "chapter": "Ijob2",
+        "aggregated_error_rate": 0.025303643724696356
+    },
+    {
+        "chapter": "Jes45",
+        "aggregated_error_rate": 0.02529335071707953
+    },
+    {
+        "chapter": "Sir16",
+        "aggregated_error_rate": 0.025237529691211402
+    },
+    {
+        "chapter": "Ps40",
+        "aggregated_error_rate": 0.025190839694656488
+    },
+    {
+        "chapter": "Dtn27",
+        "aggregated_error_rate": 0.025134048257372654
+    },
+    {
+        "chapter": "Gen31",
+        "aggregated_error_rate": 0.025105782792665725
+    },
+    {
+        "chapter": "Ps58",
+        "aggregated_error_rate": 0.025068119891008173
+    },
+    {
+        "chapter": "Ps33",
+        "aggregated_error_rate": 0.02502606882168926
+    },
+    {
+        "chapter": "Sir25",
+        "aggregated_error_rate": 0.025016903313049357
+    },
+    {
+        "chapter": "Ps13",
+        "aggregated_error_rate": 0.025
+    },
+    {
+        "chapter": "Ps88",
+        "aggregated_error_rate": 0.02497261774370208
+    },
+    {
+        "chapter": "Jer14",
+        "aggregated_error_rate": 0.02496607869742198
+    },
+    {
+        "chapter": "Jer1",
+        "aggregated_error_rate": 0.02495274102079395
+    },
+    {
+        "chapter": "Jes4",
+        "aggregated_error_rate": 0.02495201535508637
+    },
+    {
+        "chapter": "Jer4",
+        "aggregated_error_rate": 0.024919243193354867
+    },
+    {
+        "chapter": "Gen27",
+        "aggregated_error_rate": 0.024895572263993318
+    },
+    {
+        "chapter": "Ps41",
+        "aggregated_error_rate": 0.024844720496894408
+    },
+    {
+        "chapter": "Gen42",
+        "aggregated_error_rate": 0.024843505477308295
+    },
+    {
+        "chapter": "Jes5",
+        "aggregated_error_rate": 0.024823502618993395
+    },
+    {
+        "chapter": "Ps36",
+        "aggregated_error_rate": 0.02481520591341077
+    },
+    {
+        "chapter": "Ex16",
+        "aggregated_error_rate": 0.024808033077377438
+    },
+    {
+        "chapter": "Jona2",
+        "aggregated_error_rate": 0.024793388429752067
+    },
+    {
+        "chapter": "Jes29",
+        "aggregated_error_rate": 0.024771136241249325
+    },
+    {
+        "chapter": "Jes35",
+        "aggregated_error_rate": 0.024709302325581394
+    },
+    {
+        "chapter": "Jos23",
+        "aggregated_error_rate": 0.02459016393442623
+    },
+    {
+        "chapter": "Dan13",
+        "aggregated_error_rate": 0.02458711039364212
+    },
+    {
+        "chapter": "Lev1",
+        "aggregated_error_rate": 0.024583333333333332
+    },
+    {
+        "chapter": "Hos14",
+        "aggregated_error_rate": 0.02457865168539326
+    },
+    {
+        "chapter": "Ps42",
+        "aggregated_error_rate": 0.024531024531024532
+    },
+    {
+        "chapter": "Tob12",
+        "aggregated_error_rate": 0.024470416362308255
+    },
+    {
+        "chapter": "Ex33",
+        "aggregated_error_rate": 0.024453394706559262
+    },
+    {
+        "chapter": "Ijob27",
+        "aggregated_error_rate": 0.02442528735632184
+    },
+    {
+        "chapter": "2Sam11",
+        "aggregated_error_rate": 0.024424284717376135
+    },
+    {
+        "chapter": "Est15",
+        "aggregated_error_rate": 0.024390243902439025
+    },
+    {
+        "chapter": "Tob9",
+        "aggregated_error_rate": 0.024390243902439025
+    },
+    {
+        "chapter": "Jer5",
+        "aggregated_error_rate": 0.024384885764499122
+    },
+    {
+        "chapter": "Jos2",
+        "aggregated_error_rate": 0.024342267027292846
+    },
+    {
+        "chapter": "Mi5",
+        "aggregated_error_rate": 0.02432308398347866
+    },
+    {
+        "chapter": "Ps22",
+        "aggregated_error_rate": 0.024311183144246355
+    },
+    {
+        "chapter": "Ex32",
+        "aggregated_error_rate": 0.02428909952606635
+    },
+    {
+        "chapter": "Ps39",
+        "aggregated_error_rate": 0.024269662921348314
+    },
+    {
+        "chapter": "1Koen3",
+        "aggregated_error_rate": 0.02426421028982251
+    },
+    {
+        "chapter": "Ijob22",
+        "aggregated_error_rate": 0.024237685691946835
+    },
+    {
+        "chapter": "Jos1",
+        "aggregated_error_rate": 0.024202034373903895
+    },
+    {
+        "chapter": "Dtn26",
+        "aggregated_error_rate": 0.024163568773234202
+    },
+    {
+        "chapter": "1Koen13",
+        "aggregated_error_rate": 0.024117140396210164
+    },
+    {
+        "chapter": "Mal2",
+        "aggregated_error_rate": 0.02405019170442663
+    },
+    {
+        "chapter": "Jes48",
+        "aggregated_error_rate": 0.024010382868267358
+    },
+    {
+        "chapter": "1Sam16",
+        "aggregated_error_rate": 0.023986293546544833
+    },
+    {
+        "chapter": "Ps146",
+        "aggregated_error_rate": 0.023972602739726026
+    },
+    {
+        "chapter": "Ez34",
+        "aggregated_error_rate": 0.023968320133388912
+    },
+    {
+        "chapter": "Ps118",
+        "aggregated_error_rate": 0.023930601256356567
+    },
+    {
+        "chapter": "Ps48",
+        "aggregated_error_rate": 0.023887079261672096
+    },
+    {
+        "chapter": "Jer10",
+        "aggregated_error_rate": 0.02388399203866932
+    },
+    {
+        "chapter": "Ijob17",
+        "aggregated_error_rate": 0.023878437047756874
+    },
+    {
+        "chapter": "Ps73",
+        "aggregated_error_rate": 0.023767605633802816
+    },
+    {
+        "chapter": "Gen43",
+        "aggregated_error_rate": 0.023758099352051837
+    },
+    {
+        "chapter": "Dtn23",
+        "aggregated_error_rate": 0.02366318377381684
+    },
+    {
+        "chapter": "Ps23",
+        "aggregated_error_rate": 0.02358974358974359
+    },
+    {
+        "chapter": "Lev24",
+        "aggregated_error_rate": 0.023577844311377244
+    },
+    {
+        "chapter": "Ex21",
+        "aggregated_error_rate": 0.023560791286952657
+    },
+    {
+        "chapter": "Ez44",
+        "aggregated_error_rate": 0.023559727590649733
+    },
+    {
+        "chapter": "2Makk7",
+        "aggregated_error_rate": 0.02355072463768116
+    },
+    {
+        "chapter": "Spr29",
+        "aggregated_error_rate": 0.023446658851113716
+    },
+    {
+        "chapter": "Ex23",
+        "aggregated_error_rate": 0.023407607472428538
+    },
+    {
+        "chapter": "Spr24",
+        "aggregated_error_rate": 0.02337228714524207
+    },
+    {
+        "chapter": "Jer9",
+        "aggregated_error_rate": 0.023342438539855973
+    },
+    {
+        "chapter": "Bar3",
+        "aggregated_error_rate": 0.02332814930015552
+    },
+    {
+        "chapter": "Spr22",
+        "aggregated_error_rate": 0.023247366509262624
+    },
+    {
+        "chapter": "Sir7",
+        "aggregated_error_rate": 0.023210290827740492
+    },
+    {
+        "chapter": "Bar6",
+        "aggregated_error_rate": 0.023179171701636823
+    },
+    {
+        "chapter": "Ps93",
+        "aggregated_error_rate": 0.023157894736842106
+    },
+    {
+        "chapter": "Ps57",
+        "aggregated_error_rate": 0.023084025854108958
+    },
+    {
+        "chapter": "Jer13",
+        "aggregated_error_rate": 0.02307887395384225
+    },
+    {
+        "chapter": "1Sam24",
+        "aggregated_error_rate": 0.023042754025541366
+    },
+    {
+        "chapter": "Sir30",
+        "aggregated_error_rate": 0.023036649214659685
+    },
+    {
+        "chapter": "Ex5",
+        "aggregated_error_rate": 0.023017902813299233
+    },
+    {
+        "chapter": "Ijob35",
+        "aggregated_error_rate": 0.023006134969325152
+    },
+    {
+        "chapter": "Sir37",
+        "aggregated_error_rate": 0.023001725129384705
+    },
+    {
+        "chapter": "Jer15",
+        "aggregated_error_rate": 0.02297918356312517
+    },
+    {
+        "chapter": "Ijob21",
+        "aggregated_error_rate": 0.02297200287150036
+    },
+    {
+        "chapter": "Dtn24",
+        "aggregated_error_rate": 0.022961436561672065
+    },
+    {
+        "chapter": "Jes60",
+        "aggregated_error_rate": 0.022950819672131147
+    },
+    {
+        "chapter": "Jes33",
+        "aggregated_error_rate": 0.02294154619736015
+    },
+    {
+        "chapter": "Ijob40",
+        "aggregated_error_rate": 0.022907900888265546
+    },
+    {
+        "chapter": "Koh7",
+        "aggregated_error_rate": 0.022885849846497348
+    },
+    {
+        "chapter": "Lev18",
+        "aggregated_error_rate": 0.02288021534320323
+    },
+    {
+        "chapter": "Tob13",
+        "aggregated_error_rate": 0.022827392871445733
+    },
+    {
+        "chapter": "Sach2",
+        "aggregated_error_rate": 0.02276923076923077
+    },
+    {
+        "chapter": "Jer45",
+        "aggregated_error_rate": 0.022757697456492636
+    },
+    {
+        "chapter": "1Chr28",
+        "aggregated_error_rate": 0.022681954137587237
+    },
+    {
+        "chapter": "2Makk9",
+        "aggregated_error_rate": 0.0226628895184136
+    },
+    {
+        "chapter": "Zef3",
+        "aggregated_error_rate": 0.02259707192870783
+    },
+    {
+        "chapter": "2Sam7",
+        "aggregated_error_rate": 0.022571819425444596
+    },
+    {
+        "chapter": "Ps122",
+        "aggregated_error_rate": 0.02252252252252252
+    },
+    {
+        "chapter": "Ez39",
+        "aggregated_error_rate": 0.02252157440538834
+    },
+    {
+        "chapter": "Ps84",
+        "aggregated_error_rate": 0.0225140712945591
+    },
+    {
+        "chapter": "Sir18",
+        "aggregated_error_rate": 0.022504892367906065
+    },
+    {
+        "chapter": "Jes2",
+        "aggregated_error_rate": 0.022434718646561234
+    },
+    {
+        "chapter": "Dtn10",
+        "aggregated_error_rate": 0.022424439389015276
+    },
+    {
+        "chapter": "Jer3",
+        "aggregated_error_rate": 0.02231189176358889
+    },
+    {
+        "chapter": "2Makk2",
+        "aggregated_error_rate": 0.022231632437010374
+    },
+    {
+        "chapter": "Jer33",
+        "aggregated_error_rate": 0.02221204488207007
+    },
+    {
+        "chapter": "1Sam20",
+        "aggregated_error_rate": 0.022176831047563468
+    },
+    {
+        "chapter": "Hld5",
+        "aggregated_error_rate": 0.02209253855773239
+    },
+    {
+        "chapter": "Weish9",
+        "aggregated_error_rate": 0.022082018927444796
+    },
+    {
+        "chapter": "Ijob18",
+        "aggregated_error_rate": 0.022066738428417654
+    },
+    {
+        "chapter": "Ijob15",
+        "aggregated_error_rate": 0.02205177372962608
+    },
+    {
+        "chapter": "Sir21",
+        "aggregated_error_rate": 0.022018970189701895
+    },
+    {
+        "chapter": "Lev6",
+        "aggregated_error_rate": 0.022011005502751375
+    },
+    {
+        "chapter": "Sir43",
+        "aggregated_error_rate": 0.021992940537605213
+    },
+    {
+        "chapter": "Lev22",
+        "aggregated_error_rate": 0.021990478349580594
+    },
+    {
+        "chapter": "Sir31",
+        "aggregated_error_rate": 0.02190551596727369
+    },
+    {
+        "chapter": "Ez13",
+        "aggregated_error_rate": 0.021837349397590362
+    },
+    {
+        "chapter": "Spr1",
+        "aggregated_error_rate": 0.021830985915492956
+    },
+    {
+        "chapter": "Dtn16",
+        "aggregated_error_rate": 0.02182428651371013
+    },
+    {
+        "chapter": "Jes42",
+        "aggregated_error_rate": 0.021816037735849055
+    },
+    {
+        "chapter": "Jer23",
+        "aggregated_error_rate": 0.021804392479064624
+    },
+    {
+        "chapter": "Weish4",
+        "aggregated_error_rate": 0.021764477263894286
+    },
+    {
+        "chapter": "Mi3",
+        "aggregated_error_rate": 0.021764032073310423
+    },
+    {
+        "chapter": "Weish6",
+        "aggregated_error_rate": 0.02175368139223561
+    },
+    {
+        "chapter": "Lev4",
+        "aggregated_error_rate": 0.021679646390233634
+    },
+    {
+        "chapter": "Rut3",
+        "aggregated_error_rate": 0.021638879035118838
+    },
+    {
+        "chapter": "Mi7",
+        "aggregated_error_rate": 0.021636240703177823
+    },
+    {
+        "chapter": "Bar2",
+        "aggregated_error_rate": 0.02161547212741752
+    },
+    {
+        "chapter": "Sir50",
+        "aggregated_error_rate": 0.021576524741081703
+    },
+    {
+        "chapter": "Ez18",
+        "aggregated_error_rate": 0.02155713687735454
+    },
+    {
+        "chapter": "Ps138",
+        "aggregated_error_rate": 0.021469465648854963
+    },
+    {
+        "chapter": "Lev25",
+        "aggregated_error_rate": 0.02145922746781116
+    },
+    {
+        "chapter": "Lev3",
+        "aggregated_error_rate": 0.021422060164083864
+    },
+    {
+        "chapter": "Jer16",
+        "aggregated_error_rate": 0.0214168039538715
+    },
+    {
+        "chapter": "Gen19",
+        "aggregated_error_rate": 0.021407837445573296
+    },
+    {
+        "chapter": "Sir14",
+        "aggregated_error_rate": 0.021394319439321283
+    },
+    {
+        "chapter": "Jer30",
+        "aggregated_error_rate": 0.021388888888888888
+    },
+    {
+        "chapter": "Weish13",
+        "aggregated_error_rate": 0.021386430678466076
+    },
+    {
+        "chapter": "Spr19",
+        "aggregated_error_rate": 0.021342646488164533
+    },
+    {
+        "chapter": "Lev16",
+        "aggregated_error_rate": 0.02111324376199616
+    },
+    {
+        "chapter": "Ijob23",
+        "aggregated_error_rate": 0.02109426499670402
+    },
+    {
+        "chapter": "Ez20",
+        "aggregated_error_rate": 0.021093941623742948
+    },
+    {
+        "chapter": "Jes53",
+        "aggregated_error_rate": 0.021068103870651642
+    },
+    {
+        "chapter": "2Koen7",
+        "aggregated_error_rate": 0.02105766929887533
+    },
+    {
+        "chapter": "Ijob14",
+        "aggregated_error_rate": 0.02101967799642218
+    },
+    {
+        "chapter": "Sir5",
+        "aggregated_error_rate": 0.020993343573988736
+    },
+    {
+        "chapter": "Ps52",
+        "aggregated_error_rate": 0.020935960591133004
+    },
+    {
+        "chapter": "Ps149",
+        "aggregated_error_rate": 0.02092050209205021
+    },
+    {
+        "chapter": "Ps101",
+        "aggregated_error_rate": 0.020908725371934056
+    },
+    {
+        "chapter": "Ps103",
+        "aggregated_error_rate": 0.02089454782892589
+    },
+    {
+        "chapter": "Sach11",
+        "aggregated_error_rate": 0.02088167053364269
+    },
+    {
+        "chapter": "Jes56",
+        "aggregated_error_rate": 0.020788912579957356
+    },
+    {
+        "chapter": "Ijob6",
+        "aggregated_error_rate": 0.0207532667179093
+    },
+    {
+        "chapter": "Ijob10",
+        "aggregated_error_rate": 0.020696142991533398
+    },
+    {
+        "chapter": "Ps18",
+        "aggregated_error_rate": 0.020625415834996674
+    },
+    {
+        "chapter": "Spr26",
+        "aggregated_error_rate": 0.020606531881804044
+    },
+    {
+        "chapter": "Jer8",
+        "aggregated_error_rate": 0.020593741642150307
+    },
+    {
+        "chapter": "Ps108",
+        "aggregated_error_rate": 0.020590520590520592
+    },
+    {
+        "chapter": "Ez2",
+        "aggregated_error_rate": 0.020586400499064253
+    },
+    {
+        "chapter": "Sir28",
+        "aggregated_error_rate": 0.020563847429519073
+    },
+    {
+        "chapter": "Jes43",
+        "aggregated_error_rate": 0.0205575894114334
+    },
+    {
+        "chapter": "Jes46",
+        "aggregated_error_rate": 0.020524515393386546
+    },
+    {
+        "chapter": "Ijob31",
+        "aggregated_error_rate": 0.02051691979749534
+    },
+    {
+        "chapter": "Ijob8",
+        "aggregated_error_rate": 0.020364415862808145
+    },
+    {
+        "chapter": "Ez17",
+        "aggregated_error_rate": 0.020359848484848484
+    },
+    {
+        "chapter": "Ps10",
+        "aggregated_error_rate": 0.020100502512562814
+    },
+    {
+        "chapter": "Ps112",
+        "aggregated_error_rate": 0.020100502512562814
+    },
+    {
+        "chapter": "Spr20",
+        "aggregated_error_rate": 0.020061728395061727
+    },
+    {
+        "chapter": "Ps127",
+        "aggregated_error_rate": 0.019880715705765408
+    },
+    {
+        "chapter": "Ex20",
+        "aggregated_error_rate": 0.01983860121049092
+    },
+    {
+        "chapter": "Sir36",
+        "aggregated_error_rate": 0.019784172661870502
+    },
+    {
+        "chapter": "Dtn15",
+        "aggregated_error_rate": 0.019664545980335454
+    },
+    {
+        "chapter": "Sir32",
+        "aggregated_error_rate": 0.01966075558982267
+    },
+    {
+        "chapter": "Num30",
+        "aggregated_error_rate": 0.01963927855711423
+    },
+    {
+        "chapter": "Num5",
+        "aggregated_error_rate": 0.019617111793902152
+    },
+    {
+        "chapter": "Jes25",
+        "aggregated_error_rate": 0.019587083112758072
+    },
+    {
+        "chapter": "Ex40",
+        "aggregated_error_rate": 0.01958421211208195
+    },
+    {
+        "chapter": "Ps128",
+        "aggregated_error_rate": 0.019543973941368076
+    },
+    {
+        "chapter": "Jer24",
+        "aggregated_error_rate": 0.01951219512195122
+    },
+    {
+        "chapter": "Dtn6",
+        "aggregated_error_rate": 0.01948460087994972
+    },
+    {
+        "chapter": "Spr6",
+        "aggregated_error_rate": 0.019441831295076827
+    },
+    {
+        "chapter": "Ps109",
+        "aggregated_error_rate": 0.019417475728155338
+    },
+    {
+        "chapter": "Est14",
+        "aggregated_error_rate": 0.019359380499824004
+    },
+    {
+        "chapter": "Koh4",
+        "aggregated_error_rate": 0.019289785181937746
+    },
+    {
+        "chapter": "Sir35",
+        "aggregated_error_rate": 0.01915240423797881
+    },
+    {
+        "chapter": "Sir27",
+        "aggregated_error_rate": 0.0191044776119403
+    },
+    {
+        "chapter": "Lev26",
+        "aggregated_error_rate": 0.019102196752626553
+    },
+    {
+        "chapter": "Koh2",
+        "aggregated_error_rate": 0.01909495160868428
+    },
+    {
+        "chapter": "Ez33",
+        "aggregated_error_rate": 0.019091847265221878
+    },
+    {
+        "chapter": "Num17",
+        "aggregated_error_rate": 0.019088669950738917
+    },
+    {
+        "chapter": "Dtn5",
+        "aggregated_error_rate": 0.019049753473778575
+    },
+    {
+        "chapter": "Ijob7",
+        "aggregated_error_rate": 0.018990273274664196
+    },
+    {
+        "chapter": "Spr8",
+        "aggregated_error_rate": 0.018963765662038605
+    },
+    {
+        "chapter": "Tob5",
+        "aggregated_error_rate": 0.01895306859205776
+    },
+    {
+        "chapter": "Ijob11",
+        "aggregated_error_rate": 0.018877551020408164
+    },
+    {
+        "chapter": "Ez36",
+        "aggregated_error_rate": 0.01887104783976163
+    },
+    {
+        "chapter": "1Chr17",
+        "aggregated_error_rate": 0.01881293057763646
+    },
+    {
+        "chapter": "Ps141",
+        "aggregated_error_rate": 0.01875
+    },
+    {
+        "chapter": "Jes44",
+        "aggregated_error_rate": 0.01874414245548266
+    },
+    {
+        "chapter": "Lev17",
+        "aggregated_error_rate": 0.0187207488299532
+    },
+    {
+        "chapter": "Ex22",
+        "aggregated_error_rate": 0.018663594470046084
+    },
+    {
+        "chapter": "Sir17",
+        "aggregated_error_rate": 0.01866151866151866
+    },
+    {
+        "chapter": "Spr14",
+        "aggregated_error_rate": 0.018613607188703467
+    },
+    {
+        "chapter": "Sir29",
+        "aggregated_error_rate": 0.018613029120384268
+    },
+    {
+        "chapter": "Jes61",
+        "aggregated_error_rate": 0.018564977420973405
+    },
+    {
+        "chapter": "Spr23",
+        "aggregated_error_rate": 0.01852995676343422
+    },
+    {
+        "chapter": "1Sam28",
+        "aggregated_error_rate": 0.018518518518518517
+    },
+    {
+        "chapter": "Spr2",
+        "aggregated_error_rate": 0.018518518518518517
+    },
+    {
+        "chapter": "Jer12",
+        "aggregated_error_rate": 0.01849754624386561
+    },
+    {
+        "chapter": "Gen3",
+        "aggregated_error_rate": 0.018496420047732696
+    },
+    {
+        "chapter": "Spr15",
+        "aggregated_error_rate": 0.01843781428092524
+    },
+    {
+        "chapter": "Spr17",
+        "aggregated_error_rate": 0.0182648401826484
+    },
+    {
+        "chapter": "Ps62",
+        "aggregated_error_rate": 0.01812977099236641
+    },
+    {
+        "chapter": "Ps49",
+        "aggregated_error_rate": 0.018009004502251125
+    },
+    {
+        "chapter": "Ijob41",
+        "aggregated_error_rate": 0.01790154152163103
+    },
+    {
+        "chapter": "Koh8",
+        "aggregated_error_rate": 0.017815646785437646
+    },
+    {
+        "chapter": "Ez7",
+        "aggregated_error_rate": 0.01776461880088823
+    },
+    {
+        "chapter": "Spr11",
+        "aggregated_error_rate": 0.017707985299031073
+    },
+    {
+        "chapter": "1Sam8",
+        "aggregated_error_rate": 0.017705382436260624
+    },
+    {
+        "chapter": "Sir4",
+        "aggregated_error_rate": 0.01762364980102331
+    },
+    {
+        "chapter": "Sir13",
+        "aggregated_error_rate": 0.017396707051879467
+    },
+    {
+        "chapter": "Ps145",
+        "aggregated_error_rate": 0.01730103806228374
+    },
+    {
+        "chapter": "Dtn22",
+        "aggregated_error_rate": 0.017257248044178556
+    },
+    {
+        "chapter": "Jes62",
+        "aggregated_error_rate": 0.017204301075268817
+    },
+    {
+        "chapter": "Dan11",
+        "aggregated_error_rate": 0.017171593278547774
+    },
+    {
+        "chapter": "Sir20",
+        "aggregated_error_rate": 0.01714830104795173
+    },
+    {
+        "chapter": "Koh10",
+        "aggregated_error_rate": 0.017142857142857144
+    },
+    {
+        "chapter": "Ps137",
+        "aggregated_error_rate": 0.017130620985010708
+    },
+    {
+        "chapter": "Ps120",
+        "aggregated_error_rate": 0.016822429906542057
+    },
+    {
+        "chapter": "Sir33",
+        "aggregated_error_rate": 0.01679761582227039
+    },
+    {
+        "chapter": "1Sam3",
+        "aggregated_error_rate": 0.016724738675958188
+    },
+    {
+        "chapter": "Dtn21",
+        "aggregated_error_rate": 0.01671388101983003
+    },
+    {
+        "chapter": "Sir1",
+        "aggregated_error_rate": 0.016709147550269046
+    },
+    {
+        "chapter": "Ez12",
+        "aggregated_error_rate": 0.016522811344019728
+    },
+    {
+        "chapter": "Koh5",
+        "aggregated_error_rate": 0.016506717850287907
+    },
+    {
+        "chapter": "Ez3",
+        "aggregated_error_rate": 0.016496282527881042
+    },
+    {
+        "chapter": "Lev13",
+        "aggregated_error_rate": 0.016412360559046033
+    },
+    {
+        "chapter": "Ez14",
+        "aggregated_error_rate": 0.016339869281045753
+    },
+    {
+        "chapter": "Sir9",
+        "aggregated_error_rate": 0.01629570747217806
+    },
+    {
+        "chapter": "Ps121",
+        "aggregated_error_rate": 0.016200294550810016
+    },
+    {
+        "chapter": "Dtn28",
+        "aggregated_error_rate": 0.016063870719507503
+    },
+    {
+        "chapter": "Weish3",
+        "aggregated_error_rate": 0.015942028985507246
+    },
+    {
+        "chapter": "Spr12",
+        "aggregated_error_rate": 0.015922330097087378
+    },
+    {
+        "chapter": "Ps8",
+        "aggregated_error_rate": 0.015909090909090907
+    },
+    {
+        "chapter": "Ijob12",
+        "aggregated_error_rate": 0.015895953757225433
+    },
+    {
+        "chapter": "Sir12",
+        "aggregated_error_rate": 0.015789473684210527
+    },
+    {
+        "chapter": "Spr30",
+        "aggregated_error_rate": 0.015647226173541962
+    },
+    {
+        "chapter": "Ps148",
+        "aggregated_error_rate": 0.015625
+    },
+    {
+        "chapter": "Dtn19",
+        "aggregated_error_rate": 0.015151515151515152
+    },
+    {
+        "chapter": "Spr18",
+        "aggregated_error_rate": 0.015144958892254435
+    },
+    {
+        "chapter": "Weish8",
+        "aggregated_error_rate": 0.015117994100294985
+    },
+    {
+        "chapter": "Ez24",
+        "aggregated_error_rate": 0.014967021816336884
+    },
+    {
+        "chapter": "Dtn30",
+        "aggregated_error_rate": 0.014787430683918669
+    },
+    {
+        "chapter": "Ijob13",
+        "aggregated_error_rate": 0.014763352149370386
+    },
+    {
+        "chapter": "Sir3",
+        "aggregated_error_rate": 0.014604810996563574
+    },
+    {
+        "chapter": "Hld2",
+        "aggregated_error_rate": 0.014415376401494928
+    },
+    {
+        "chapter": "Spr10",
+        "aggregated_error_rate": 0.014373716632443531
+    },
+    {
+        "chapter": "Tob6",
+        "aggregated_error_rate": 0.014093959731543624
+    },
+    {
+        "chapter": "Sir8",
+        "aggregated_error_rate": 0.01400437636761488
+    },
+    {
+        "chapter": "Spr4",
+        "aggregated_error_rate": 0.013988808952837729
+    },
+    {
+        "chapter": "Dtn17",
+        "aggregated_error_rate": 0.01385959626393492
+    },
+    {
+        "chapter": "Dtn18",
+        "aggregated_error_rate": 0.013664596273291925
+    },
+    {
+        "chapter": "Spr28",
+        "aggregated_error_rate": 0.01364590622813156
+    },
+    {
+        "chapter": "Ijob24",
+        "aggregated_error_rate": 0.0136
+    },
+    {
+        "chapter": "Sir40",
+        "aggregated_error_rate": 0.013300340241261985
+    },
+    {
+        "chapter": "Sir38",
+        "aggregated_error_rate": 0.013241901158666351
+    },
+    {
+        "chapter": "Ijob26",
+        "aggregated_error_rate": 0.012669683257918552
+    },
+    {
+        "chapter": "Lev15",
+        "aggregated_error_rate": 0.012463343108504398
+    },
+    {
+        "chapter": "Spr5",
+        "aggregated_error_rate": 0.012094823415578132
+    },
+    {
+        "chapter": "Spr3",
+        "aggregated_error_rate": 0.01175285426460712
+    },
+    {
+        "chapter": "Koh1",
+        "aggregated_error_rate": 0.011116481391976801
+    },
+    {
+        "chapter": "Koh12",
+        "aggregated_error_rate": 0.010422094841063054
+    },
+    {
+        "chapter": "Ps1",
+        "aggregated_error_rate": 0.010159651669085631
+    },
+    {
+        "chapter": "Bar5",
+        "aggregated_error_rate": 0.00990916597853014
+    },
+    {
+        "chapter": "Koh11",
+        "aggregated_error_rate": 0.0077628793225123505
+    }
+]

@@ -1,7 +1,7 @@
 {
     "chapter": "Ex19",
     "chunk": "004",
-    "levenshtein_distance": 9,
+    "levenshtein_distance": 999,
     "original_text": "Er aber sprach zu ihm: Gehe hin zum Volke, und lasse sie sich heiligen heute und morgen, und lasse sie ihre Kleider waschen.\nUnd auf den dritten Tag sollen sie bereit sein; denn am dritten Tage wird der Herr vor den Augen des ganzen Volkes auf den Berg Sinai herniedersteigen.",
     "transcribed_text": "Der aber sprach zu ihm gehe zum Volke und lasse sie sich heiligen heute und morgen und lasse sie ihre Kleider waschen und auf den dritten Tag sollen sie bereit sein denn am dritten Tage wird der Herr vor den Augen des ganzen Volkes auf den Berg Sinai nieder steigen"
 }

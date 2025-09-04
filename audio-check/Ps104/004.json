@@ -1,7 +1,7 @@
 {
     "chapter": "Ps104",
     "chunk": "004",
-    "levenshtein_distance": 10,
+    "levenshtein_distance": 999,
     "original_text": "Er sandte einen Mann vor ihnen her, zum Knechte ward Joseph verkauft.\nSie zw\u00e4ngten seine F\u00fc\u00dfe in Fesseln, Eisen durchdrang seine Seele,\nbis sein Wort eintraf. Des Herrn Rede bew\u00e4hrte ihn.\nDa sandte der K\u00f6nig hin und l\u00f6ste ihn, der V\u00f6lkerbeherrscher gab ihn frei.\nEr setzte ihn zum Gebieter \u00fcber sein Haus ein und zum Herrscher \u00fcber all seinen Besitz,\ndass er seine F\u00fcrsten leitete wie sich selbst und seine \u00c4ltesten Klugheit lehrte.",
     "transcribed_text": "Der sandte einen Mann vor ihnen her zum Knechte war Josef verkauft sie zw\u00e4ngten seine F\u00fc\u00dfe in Fesseln Eisen durch Drang seine Seele bis sein Wort eintraf des Herrn Rede bewerte ihn das sandte der K\u00f6nig hin und l\u00f6ste ihn der V\u00f6lker Beherrscher gab ihn frei er setzte ihn zum Gebieter \u00fcber sein Haus ein und zum Herrscher \u00fcberall seinen Besitz das er seine F\u00fcrsten leitete wie sich selbst und seine \u00e4ltesten Klugheit lehrte"
 }

@@ -1,7 +1,7 @@
 {
     "chapter": "Ps56",
     "chunk": "004",
-    "levenshtein_distance": 35,
+    "levenshtein_distance": 999,
     "original_text": "Ich will dich preisen unter den V\u00f6lkern, o Herr! und dir lobsingen unter den Nationen,\ndenn gro\u00df bis zum Himmel ist dein Erbarmen und bis zu den Wolken deine Treue.\nErhebe dich \u00fcber die Himmel, o Gott! und deine Herrlichkeit breite sich \u00fcber die ganze Erde hin aus.",
     "transcribed_text": "Hier ist the reading ich will dich preisen unter den V\u00f6lkern und dir Lob singen unter den Nationen den gro\u00df bis zum Himmel ist dein Erbarmen und bis zu den Wolken deine Treue erhebe dich \u00fcber die Himmel oh Gott und deine Herrlichkeit bereitete sich \u00fcber die ganze Erde hinaus"
 }
